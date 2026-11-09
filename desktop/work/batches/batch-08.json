@@ -1,0 +1,1127 @@
+[
+  {
+    "i": 1610,
+    "key": "Đặt theo agent dùng khoá, ví dụ “Agent n8n”.",
+    "en": "Name it after the agent using it, for example “Agent n8n”."
+  },
+  {
+    "i": 1611,
+    "key": "Tối đa {API_KEY_NAME_MAX} ký tự",
+    "en": "Up to {API_KEY_NAME_MAX} {API_KEY_NAME_MAX|character|characters}"
+  },
+  {
+    "i": 1612,
+    "key": "Quyền của khoá",
+    "en": "Key scopes"
+  },
+  {
+    "i": 1613,
+    "key": "Gửi lượt, huỷ lượt, xem và tải kết quả của chính khoá này.",
+    "en": "Submit and cancel jobs, and view and download results belonging to this key."
+  },
+  {
+    "i": 1614,
+    "key": "Chỉ xem tình trạng máy: số tài khoản sẵn sàng, kiểu tạo đang bật. Không gửi được lượt và không thấy lượt của khoá khác — hợp cho bảng theo dõi hoặc bước kiểm tra trước khi gửi.",
+    "en": "View machine status only: ready account count and enabled generation modes. Cannot submit jobs or see jobs from other keys — suitable for dashboards or pre-submission checks."
+  },
+  {
+    "i": 1615,
+    "key": "Mẫu kết nối agent",
+    "en": "Agent connection templates"
+  },
+  {
+    "i": 1616,
+    "key": "Hiện API chưa mở ra Internet nên mẫu này chưa dùng được từ OpenAI.",
+    "en": "The API is not currently exposed to the Internet, so this template cannot be used from OpenAI yet."
+  },
+  {
+    "i": 1617,
+    "key": "Chép mẫu {label}",
+    "en": "Copy {label} template"
+  },
+  {
+    "i": 1618,
+    "key": "Đã chép mẫu {label}",
+    "en": "Copied {label} template"
+  },
+  {
+    "i": 1619,
+    "key": "Kết nối agent",
+    "en": "Connect an agent"
+  },
+  {
+    "i": 1620,
+    "key": "Mẫu cấu hình dùng địa chỉ anh chọn dưới đây; thay {API_KEY} bằng khoá anh đã chép lúc tạo.",
+    "en": "Configuration templates use the address you select below; replace {API_KEY} with the key you copied when creating it."
+  },
+  {
+    "i": 1621,
+    "key": "Tài liệu API (OpenAPI)",
+    "en": "API documentation (OpenAPI)"
+  },
+  {
+    "i": 1622,
+    "key": "Địa chỉ cho agent",
+    "en": "Address for agents"
+  },
+  {
+    "i": 1623,
+    "key": "Chép địa chỉ cho agent",
+    "en": "Copy address for agents"
+  },
+  {
+    "i": 1624,
+    "key": "Dự phòng",
+    "en": "Fallback"
+  },
+  {
+    "i": 1625,
+    "key": "Chép địa chỉ {value}",
+    "en": "Copy {value} address"
+  },
+  {
+    "i": 1626,
+    "key": "tên miền",
+    "en": "domain"
+  },
+  {
+    "i": 1627,
+    "key": "đường hầm",
+    "en": "tunnel"
+  },
+  {
+    "i": 1628,
+    "key": "Một địa chỉ lỗi thì gửi lại qua địa chỉ còn lại với cùng Idempotency-Key (MCP: cùng request_id) — app trả đúng lượt cũ, không tạo lượt trùng. Link tải mới lấy bằng GET /v1/jobs/{id} qua địa chỉ đang chạy.",
+    "en": "If one address fails, retry through the other with the same Idempotency-Key (MCP: same request_id) — the app returns the original job without creating a duplicate. Get a new download link with GET /v1/jobs/{id} through the working address."
+  },
+  {
+    "i": 1629,
+    "key": "Máy này",
+    "en": "This machine"
+  },
+  {
+    "i": 1630,
+    "key": "Đường hầm",
+    "en": "Tunnel"
+  },
+  {
+    "i": 1631,
+    "key": "Nhật ký gọi API",
+    "en": "API call log"
+  },
+  {
+    "i": 1632,
+    "key": "50 lần gọi gần nhất. Không ghi khoá, prompt hay link tải; IP đã che. Giữ 14 ngày.",
+    "en": "50 most recent calls. Keys, prompts and download links are not logged; IP addresses are masked. Kept for 14 days."
+  },
+  {
+    "i": 1633,
+    "key": "Làm mới nhật ký",
+    "en": "Refresh log"
+  },
+  {
+    "i": 1634,
+    "key": "Chưa có lần gọi nào.",
+    "en": "No calls yet."
+  },
+  {
+    "i": 1635,
+    "key": "Khoá · đường vào",
+    "en": "Key · entry point"
+  },
+  {
+    "i": 1636,
+    "key": "Độ trễ",
+    "en": "Latency"
+  },
+  {
+    "i": 1637,
+    "key": "Đang chuẩn bị",
+    "en": "Preparing"
+  },
+  {
+    "i": 1638,
+    "key": "Chưa trực tuyến",
+    "en": "Not online yet"
+  },
+  {
+    "i": 1639,
+    "key": "Bản ghi DNS",
+    "en": "DNS records"
+  },
+  {
+    "i": 1640,
+    "key": "Cổng 80/443 trên máy",
+    "en": "Ports 80/443 on this machine"
+  },
+  {
+    "i": 1641,
+    "key": "Chứng chỉ HTTPS",
+    "en": "HTTPS certificate"
+  },
+  {
+    "i": 1642,
+    "key": "Gọi thử đúng app",
+    "en": "Verify the app with a test call"
+  },
+  {
+    "i": 1643,
+    "key": "đạt",
+    "en": "passed"
+  },
+  {
+    "i": 1644,
+    "key": "đang chờ",
+    "en": "waiting"
+  },
+  {
+    "i": 1645,
+    "key": "cảnh báo",
+    "en": "warning"
+  },
+  {
+    "i": 1646,
+    "key": "chưa tới lượt",
+    "en": "not started"
+  },
+  {
+    "i": 1647,
+    "key": "bỏ qua",
+    "en": "skipped"
+  },
+  {
+    "i": 1648,
+    "key": "Các bước kiểm tên miền",
+    "en": "Domain check steps"
+  },
+  {
+    "i": 1649,
+    "key": "chờ bước trên",
+    "en": "waiting for the previous step"
+  },
+  {
+    "i": 1650,
+    "key": "Việc anh cần làm",
+    "en": "What you need to do"
+  },
+  {
+    "i": 1651,
+    "key": "1. Ở nơi quản lý tên miền, tạo bản ghi A:",
+    "en": "1. In your domain management panel, create an A record:"
+  },
+  {
+    "i": 1652,
+    "key": "IP công khai của máy",
+    "en": "Machine's public IP"
+  },
+  {
+    "i": 1653,
+    "key": "Chép IP cho bản ghi A",
+    "en": "Copy IP for the A record"
+  },
+  {
+    "i": 1654,
+    "key": "Chép tên miền",
+    "en": "Copy domain"
+  },
+  {
+    "i": 1655,
+    "key": "{value} Nếu tên miền ở Cloudflare: để đám mây xám (chỉ DNS).",
+    "en": "{value} If the domain is on Cloudflare: use the gray cloud (DNS only)."
+  },
+  {
+    "i": 1656,
+    "key": "IP do app dò từ Internet — kiểm lại với nhà cung cấp VPS.",
+    "en": "IP detected by the app over the Internet — verify it with your VPS provider."
+  },
+  {
+    "i": 1657,
+    "key": "Chưa dò được IP công khai — xem trong trang quản lý VPS.",
+    "en": "Could not detect the public IP — check your VPS management panel."
+  },
+  {
+    "i": 1658,
+    "key": "2. Mở cổng TCP 80 và 443 ở tường lửa của nhà cung cấp VPS (hoặc chuyển cổng trên router).",
+    "en": "2. Open TCP ports 80 and 443 in your VPS provider's firewall (or forward the ports on your router)."
+  },
+  {
+    "i": 1659,
+    "key": "Tường lửa Windows (quản trị viên chạy)",
+    "en": "Windows firewall (run as administrator)"
+  },
+  {
+    "i": 1660,
+    "key": "Chỉ cần khi tường lửa Windows đang chặn. Mở PowerShell bằng quyền quản trị viên rồi chạy — app không tự sửa tường lửa.",
+    "en": "Only needed if Windows firewall is blocking access. Open PowerShell as administrator and run this — the app does not modify the firewall."
+  },
+  {
+    "i": 1661,
+    "key": "2. Cấu hình proxy HTTPS của anh: giữ Host, không xoá Origin, chuyển tới",
+    "en": "2. Configure your HTTPS proxy: preserve Host, do not remove Origin, forward to"
+  },
+  {
+    "i": 1662,
+    "key": "Mẫu cấu hình proxy",
+    "en": "Proxy configuration template"
+  },
+  {
+    "i": 1663,
+    "key": "Chép mẫu {value}",
+    "en": "Copy {value} template"
+  },
+  {
+    "i": 1664,
+    "key": "Đã bật tên miền — app đang kiểm từng bước",
+    "en": "Domain enabled — the app is checking each step"
+  },
+  {
+    "i": 1665,
+    "key": "Tên miền trỏ về máy này",
+    "en": "Domain pointing to this machine"
+  },
+  {
+    "i": 1666,
+    "key": "Gọi thẳng vào máy qua HTTPS, không qua đường hầm. Đường hầm vẫn chạy trong lúc chờ.",
+    "en": "Call this machine directly over HTTPS, without a tunnel. The tunnel stays running while you wait."
+  },
+  {
+    "i": 1667,
+    "key": "Kiểm lại ngay",
+    "en": "Check again now"
+  },
+  {
+    "i": 1668,
+    "key": "Đã tắt tên miền — đường hầm không bị ảnh hưởng",
+    "en": "Domain disabled — the tunnel is unaffected"
+  },
+  {
+    "i": 1669,
+    "key": "Tắt tên miền",
+    "en": "Disable domain"
+  },
+  {
+    "i": 1670,
+    "key": "Tên miền con anh quản lý DNS, ví dụ api.tenmiencuaanh.com",
+    "en": "A subdomain whose DNS you manage, for example api.yourdomain.com"
+  },
+  {
+    "i": 1671,
+    "key": "Kiểu HTTPS",
+    "en": "HTTPS mode"
+  },
+  {
+    "i": 1672,
+    "key": "App tự chạy HTTPS",
+    "en": "App-managed HTTPS"
+  },
+  {
+    "i": 1673,
+    "key": "Proxy HTTPS có sẵn",
+    "en": "Existing HTTPS proxy"
+  },
+  {
+    "i": 1674,
+    "key": "App chạy Caddy ẩn trên cổng 80/443 và tự xin chứng chỉ Let's Encrypt. Cần cổng 443 trống.",
+    "en": "The app runs Caddy in the background on ports 80/443 and automatically obtains a Let's Encrypt certificate. Port 443 must be available."
+  },
+  {
+    "i": 1675,
+    "key": "Máy đã có Caddy, nginx hay IIS phục vụ HTTPS: app không chạy proxy, chỉ kiểm tên miền và đưa mẫu cấu hình.",
+    "en": "This machine already uses Caddy, nginx or IIS for HTTPS: the app does not run a proxy, only checks the domain and provides configuration templates."
+  },
+  {
+    "i": 1676,
+    "key": "Bật tên miền",
+    "en": "Enable domain"
+  },
+  {
+    "i": 1677,
+    "key": "Chép địa chỉ tên miền",
+    "en": "Copy domain address"
+  },
+  {
+    "i": 1678,
+    "key": "{error} — chạy lại (lần {attempt}/5)…",
+    "en": "{error} — retrying (attempt {attempt}/5)…"
+  },
+  {
+    "i": 1679,
+    "key": "Đang tải Caddy… {progress}%",
+    "en": "Downloading Caddy… {progress}%"
+  },
+  {
+    "i": 1680,
+    "key": "Đang chạy Caddy…",
+    "en": "Starting Caddy…"
+  },
+  {
+    "i": 1681,
+    "key": "Kiểm từ chính máy này — máy ở xa có thể khác (NAT, DNS nội bộ).{value}",
+    "en": "Checked from this machine — remote machines may see different results (NAT, internal DNS).{value}"
+  },
+  {
+    "i": 1682,
+    "key": " Kiểm lần cuối {value}.",
+    "en": " Last checked {value}."
+  },
+  {
+    "i": 1683,
+    "key": "Xem hướng dẫn",
+    "en": "View instructions"
+  },
+  {
+    "i": 1684,
+    "key": "Ai có khoá API đều tạo được ảnh/video bằng hạn mức Muse của anh, từ bất cứ đâu, qua https://{confirm}.",
+    "en": "Anyone with an API key can generate images/videos using your Muse quota from anywhere via https://{confirm}."
+  },
+  {
+    "i": 1685,
+    "key": "HTTPS kết thúc ngay trên máy này. App tải Caddy (≈ 18 MB, kiểm mã SHA-256) ở lần đầu, chạy ẩn và tự xin, gia hạn chứng chỉ Let's Encrypt; tắt tên miền, tắt API hoặc thoát app là dừng.",
+    "en": "HTTPS terminates on this machine. The app downloads Caddy (≈ 18 MB, SHA-256 verified) on first use, runs it in the background, and automatically obtains and renews Let's Encrypt certificates; it stops when you disable the domain, disable the API or exit the app."
+  },
+  {
+    "i": 1686,
+    "key": "App không chạy proxy; proxy HTTPS của anh chuyển lời gọi tới http://127.0.0.1:{port}.",
+    "en": "The app does not run a proxy; your HTTPS proxy forwards calls to http://127.0.0.1:{port}."
+  },
+  {
+    "i": 1687,
+    "key": "App không sửa DNS hay tường lửa — anh làm theo hướng dẫn hiện ra sau khi bật. Đường hầm (nếu đang chạy) vẫn giữ nguyên.",
+    "en": "The app does not modify DNS or firewalls — follow the instructions shown after enabling. The tunnel (if running) stays unchanged."
+  },
+  {
+    "i": 1688,
+    "key": "chưa trực tuyến",
+    "en": "not online yet"
+  },
+  {
+    "i": 1689,
+    "key": "Địa chỉ này chưa trực tuyến — agent ở xa chưa gọi được.",
+    "en": "This address is not online yet — remote agents cannot call it yet."
+  },
+  {
+    "i": 1690,
+    "key": "Tách cà phê buổi sáng",
+    "en": "Morning coffee"
+  },
+  {
+    "i": 1691,
+    "key": "Một tách cà phê trên bàn gỗ, nắng sớm xuyên qua cửa sổ, hơi nước bốc nhẹ, ảnh chụp chân thực",
+    "en": "A cup of coffee on a wooden table, early sunlight streaming through the window, steam gently rising, photorealistic"
+  },
+  {
+    "i": 1692,
+    "key": "Núi trong sương",
+    "en": "Mountains in the mist"
+  },
+  {
+    "i": 1693,
+    "key": "Dãy núi phủ sương lúc bình minh, ánh sáng hồng nhạt, phong cách tranh màu nước tối giản",
+    "en": "A mist-covered mountain range at dawn, soft pink light, minimalist watercolor style"
+  },
+  {
+    "i": 1694,
+    "key": "Sóng biển buổi sớm",
+    "en": "Early morning waves"
+  },
+  {
+    "i": 1695,
+    "key": "Những con sóng nhỏ vỗ vào bờ cát lúc bình minh, máy quay đứng yên, chuyển động chậm",
+    "en": "Small waves lapping against a sandy shore at dawn, static camera, slow motion"
+  },
+  {
+    "i": 1696,
+    "key": "Phố đêm sau mưa",
+    "en": "Night street after rain"
+  },
+  {
+    "i": 1697,
+    "key": "Con phố nhỏ sau cơn mưa ban đêm, đèn neon phản chiếu trên mặt đường ướt, máy quay lướt chậm về phía trước",
+    "en": "A narrow street after nighttime rain, neon lights reflecting on the wet pavement, camera gliding slowly forward"
+  },
+  {
+    "i": 1698,
+    "key": "Hôm nay anh muốn tạo gì?",
+    "en": "What would you like to create today?"
+  },
+  {
+    "i": 1699,
+    "key": "{itemsCount} tài khoản sẵn sàng · ảnh ~25 giây, video ~1 phút",
+    "en": "{itemsCount} {itemsCount|account|accounts} ready · images ~25 seconds, videos ~1 minute"
+  },
+  {
+    "i": 1700,
+    "key": "Thêm tài khoản Muse để bắt đầu — lượt gửi trước vẫn được giữ trong hàng chờ",
+    "en": "Add a Muse account to get started — previously submitted jobs remain in the queue"
+  },
+  {
+    "i": 1701,
+    "key": "Dòng thời gian",
+    "en": "Timeline"
+  },
+  {
+    "i": 1702,
+    "key": "Đang tải thêm",
+    "en": "Loading more"
+  },
+  {
+    "i": 1703,
+    "key": "Tải thêm lượt cũ",
+    "en": "Load older jobs"
+  },
+  {
+    "i": 1704,
+    "key": "Lượt mới nhất",
+    "en": "Latest job"
+  },
+  {
+    "i": 1705,
+    "key": "Thả tệp để đính kèm vào câu hỏi",
+    "en": "Drop files to attach to your question"
+  },
+  {
+    "i": 1706,
+    "key": "Thả ảnh để dùng làm tham chiếu",
+    "en": "Drop images to use as references"
+  },
+  {
+    "i": 1707,
+    "key": "Xong",
+    "en": "Done"
+  },
+  {
+    "i": 1708,
+    "key": "Xem",
+    "en": "View"
+  },
+  {
+    "i": 1709,
+    "key": "Thay",
+    "en": "Replace"
+  },
+  {
+    "i": 1710,
+    "key": "Chung",
+    "en": "General"
+  },
+  {
+    "i": 1711,
+    "key": "Kho proxy",
+    "en": "Proxy pool"
+  },
+  {
+    "i": 1712,
+    "key": "Sau (→)",
+    "en": "Next (→)"
+  },
+  {
+    "i": 1713,
+    "key": "API cho agent",
+    "en": "API for agents"
+  },
+  {
+    "i": 1714,
+    "key": "IP ra {ip}",
+    "en": "Exit IP {ip}"
+  },
+  {
+    "i": 1715,
+    "key": "muse.tenmiencuaanh.com",
+    "en": "muse.yourdomain.com"
+  },
+  {
+    "i": 1716,
+    "key": "api.tenmiencuaanh.com",
+    "en": "api.yourdomain.com"
+  },
+  {
+    "i": 1717,
+    "key": "{done}/{total} xong",
+    "en": "{done}/{total} done"
+  },
+  {
+    "i": 1718,
+    "key": "Mục lục hướng dẫn",
+    "en": "Guide contents"
+  },
+  {
+    "i": 1719,
+    "key": "Hướng dẫn",
+    "en": "Guide"
+  },
+  {
+    "i": 1720,
+    "key": "Tìm trong hướng dẫn",
+    "en": "Search the guide"
+  },
+  {
+    "i": 1721,
+    "key": "Tìm bài, ví dụ “hàng chờ”",
+    "en": "Search, e.g. “queue”"
+  },
+  {
+    "i": 1722,
+    "key": "Cho AI agent",
+    "en": "For AI agents"
+  },
+  {
+    "i": 1723,
+    "key": "Mở trang web?",
+    "en": "Open the website?"
+  },
+  {
+    "i": 1724,
+    "key": "Trang này mở trong trình duyệt mặc định của anh:",
+    "en": "This page opens in your default browser:"
+  },
+  {
+    "i": 1725,
+    "key": "Mở trình duyệt",
+    "en": "Open browser"
+  },
+  {
+    "i": 1726,
+    "key": "Các chương",
+    "en": "Chapters"
+  },
+  {
+    "i": 1727,
+    "key": "Không thấy bài nào khớp “{query}”.",
+    "en": "No guide matches “{query}”."
+  },
+  {
+    "i": 1728,
+    "key": "Thử các bài này",
+    "en": "Try these guides"
+  },
+  {
+    "i": 1729,
+    "key": "{count} bài",
+    "en": "{count} {count|guide|guides}"
+  },
+  {
+    "i": 1730,
+    "key": "Vị trí",
+    "en": "Location"
+  },
+  {
+    "i": 1731,
+    "key": "Mở màn này",
+    "en": "Open this screen"
+  },
+  {
+    "i": 1732,
+    "key": "Xem trên web",
+    "en": "View on the web"
+  },
+  {
+    "i": 1733,
+    "key": "Trước khi bắt đầu",
+    "en": "Before you start"
+  },
+  {
+    "i": 1734,
+    "key": "Kiểm tra thành công",
+    "en": "Check it worked"
+  },
+  {
+    "i": 1735,
+    "key": "Nếu không chạy",
+    "en": "If it doesn't work"
+  },
+  {
+    "i": 1736,
+    "key": "Bài liên quan",
+    "en": "Related guides"
+  },
+  {
+    "i": 1737,
+    "key": "Bài trước và bài sau",
+    "en": "Previous and next guide"
+  },
+  {
+    "i": 1738,
+    "key": "Bài trước",
+    "en": "Previous"
+  },
+  {
+    "i": 1739,
+    "key": "Bài sau",
+    "en": "Next"
+  },
+  {
+    "i": 1740,
+    "key": "Không có bài này",
+    "en": "This guide doesn't exist"
+  },
+  {
+    "i": 1741,
+    "key": "Bài có thể đã đổi tên. Chọn một bài ở mục lục hoặc bắt đầu từ đầu.",
+    "en": "It may have been renamed. Pick a guide from the contents or start from the beginning."
+  },
+  {
+    "i": 1742,
+    "key": "Phóng to ảnh: {alt}",
+    "en": "Enlarge picture: {alt}"
+  },
+  {
+    "i": 1743,
+    "key": "Dự án mã mở trong Muse4AI",
+    "en": "Open-source projects in Muse4AI"
+  },
+  {
+    "i": 1744,
+    "key": "Giấy phép",
+    "en": "License"
+  },
+  {
+    "i": 1745,
+    "key": "Mở trang dự án",
+    "en": "Open project page"
+  },
+  {
+    "i": 1746,
+    "key": "Giấy phép {name}",
+    "en": "{name} license"
+  },
+  {
+    "i": 1747,
+    "key": "Đã chép lời dặn cho agent",
+    "en": "Agent instructions copied"
+  },
+  {
+    "i": 1748,
+    "key": "Dán vào agent, rồi thêm khoá API trong phần cài đặt của agent.",
+    "en": "Paste them into your agent, then add your API key in the agent's settings."
+  },
+  {
+    "i": 1749,
+    "key": "API cho agent đang tắt — bật trong Cài đặt › API & agent trước khi agent gọi.",
+    "en": "The agent API is off — turn it on in Settings › API & agent before your agent calls it."
+  },
+  {
+    "i": 1750,
+    "key": "Đã lưu skill",
+    "en": "Skill saved"
+  },
+  {
+    "i": 1751,
+    "key": "Đã thay skill cho Claude Code",
+    "en": "Skill replaced for Claude Code"
+  },
+  {
+    "i": 1752,
+    "key": "Đã cài skill cho Claude Code",
+    "en": "Skill installed for Claude Code"
+  },
+  {
+    "i": 1753,
+    "key": "Dạy agent cách dùng Muse4AI: lời dặn ngắn, hoặc bộ skill đầy đủ.",
+    "en": "Teach your agent to use Muse4AI: a short note, or the full skill."
+  },
+  {
+    "i": 1754,
+    "key": "Sao chép lời dặn cho agent",
+    "en": "Copy instructions for your agent"
+  },
+  {
+    "i": 1755,
+    "key": "Tải skill (.zip)",
+    "en": "Download skill (.zip)"
+  },
+  {
+    "i": 1756,
+    "key": "Cài cho Claude Code",
+    "en": "Install for Claude Code"
+  },
+  {
+    "i": 1757,
+    "key": "Lời dặn không chứa khoá API. Anh tự thêm khoá trong cài đặt của agent.",
+    "en": "The note never contains an API key. Add your key in the agent's own settings."
+  },
+  {
+    "i": 1758,
+    "key": "Agent hỗ trợ skill",
+    "en": "Agents that support skills"
+  },
+  {
+    "i": 1759,
+    "key": "Đọc bài về skill",
+    "en": "Read the skill guide"
+  },
+  {
+    "i": 1760,
+    "key": "Thay skill đã có?",
+    "en": "Replace the existing skill?"
+  },
+  {
+    "i": 1761,
+    "key": "Cài skill cho Claude Code?",
+    "en": "Install the skill for Claude Code?"
+  },
+  {
+    "i": 1762,
+    "key": "Thư mục này đã có skill Muse4AI. Thay thế sẽ ghi đè các tệp trong đó; Huỷ giữ nguyên mọi tệp.",
+    "en": "This folder already has the Muse4AI skill. Replace overwrites its files; Cancel leaves every file as it is."
+  },
+  {
+    "i": 1763,
+    "key": "Em sẽ chép 5 tệp skill vào thư mục:",
+    "en": "Muse4AI will copy the 5 skill files into:"
+  },
+  {
+    "i": 1764,
+    "key": "Thay thế",
+    "en": "Replace"
+  },
+  {
+    "i": 1765,
+    "key": "Cài",
+    "en": "Install"
+  },
+  {
+    "i": 1766,
+    "key": "Hướng dẫn cho màn này",
+    "en": "Guide for this screen"
+  },
+  {
+    "i": 1767,
+    "key": "Tên tệp không an toàn: {name}",
+    "en": "Unsafe file name: {name}"
+  },
+  {
+    "i": 1768,
+    "key": "Thư mục skill đã có — chọn Thay thế hoặc Huỷ",
+    "en": "The skill folder already exists — choose Replace or Cancel"
+  },
+  {
+    "i": 1769,
+    "key": "Không ghi được skill: {message}",
+    "en": "Could not write the skill: {message}"
+  },
+  {
+    "i": 1770,
+    "key": "Danh sách đọc từ cùng nguồn với trang Mã mở trên website.",
+    "en": "Read from the same list as the Open source page on the website."
+  },
+  {
+    "i": 1771,
+    "key": "Toàn văn giấy phép MIT của muse2api và VibesAI-api nằm trong thư mục resources của bản cài, và mở được ngay trong Hướng dẫn.",
+    "en": "The full MIT license texts of muse2api and VibesAI-api are in the install's resources folder and open right inside the Guide."
+  },
+  {
+    "i": 1772,
+    "key": "Mở chương Mã mở trong Hướng dẫn",
+    "en": "Open the Open source chapter in the Guide"
+  },
+  {
+    "i": 1773,
+    "key": "Kiểm tra bản mới chưa sẵn sàng",
+    "en": "Update check is not ready yet"
+  },
+  {
+    "i": 1774,
+    "key": "Chưa có trang tải về — hãy kiểm tra bản mới trước",
+    "en": "No download page yet — check for updates first"
+  },
+  {
+    "i": 1775,
+    "key": "Có bản mới: {version}",
+    "en": "Update available: {version}"
+  },
+  {
+    "i": 1776,
+    "key": "Mở Cài đặt › Giới thiệu để tải và cài — dữ liệu được giữ nguyên.",
+    "en": "Open Settings › About to download and install — your data is kept."
+  },
+  {
+    "i": 1777,
+    "key": "Website trả mã {status}",
+    "en": "The website answered with code {status}"
+  },
+  {
+    "i": 1778,
+    "key": "Thông tin bản mới không hợp lệ",
+    "en": "The update information is not valid"
+  },
+  {
+    "i": 1779,
+    "key": "Website không trả lời trong 15 giây",
+    "en": "The website did not answer within 15 seconds"
+  },
+  {
+    "i": 1780,
+    "key": "Không kết nối được tới website",
+    "en": "Could not reach the website"
+  },
+  {
+    "i": 1781,
+    "key": "Đang dùng bản mới nhất",
+    "en": "You already have the latest version"
+  },
+  {
+    "i": 1782,
+    "key": "Bản này chưa có bộ cài để tải — mở trang tải về",
+    "en": "This version has no installer to download yet — open the download page"
+  },
+  {
+    "i": 1783,
+    "key": "Ổ đĩa không đủ chỗ: cần khoảng {need} MB trống",
+    "en": "Not enough disk space: about {need} MB free is needed"
+  },
+  {
+    "i": 1784,
+    "key": "Máy chủ trả mã {status}",
+    "en": "The server answered with code {status}"
+  },
+  {
+    "i": 1785,
+    "key": "Tệp tải về lớn hơn dự kiến — đã huỷ",
+    "en": "The download was bigger than expected — cancelled"
+  },
+  {
+    "i": 1786,
+    "key": "Tệp tải về không khớp mã kiểm tra — đã xoá, hãy tải lại",
+    "en": "The download did not match its checksum — deleted, please download again"
+  },
+  {
+    "i": 1787,
+    "key": "Tải bị gián đoạn — kiểm tra mạng rồi thử lại",
+    "en": "The download was interrupted — check your connection and try again"
+  },
+  {
+    "i": 1788,
+    "key": "App không chạy từ thư mục cài — hãy cài bằng bộ cài tải từ website",
+    "en": "The app is not running from its install folder — install it with the installer from the website"
+  },
+  {
+    "i": 1789,
+    "key": "Bộ cài chưa tải xong",
+    "en": "The installer has not finished downloading"
+  },
+  {
+    "i": 1790,
+    "key": "Tệp bộ cài đã bị thay đổi — đã xoá, hãy tải lại",
+    "en": "The installer file was changed — deleted, please download again"
+  },
+  {
+    "i": 1791,
+    "key": "Không quay lại được bản trước",
+    "en": "Cannot go back to the previous version"
+  },
+  {
+    "i": 1792,
+    "key": "Không quay lại được bản trước từ thư mục cài này",
+    "en": "Cannot go back to the previous version from this install folder"
+  },
+  {
+    "i": 1793,
+    "key": "Có bản mới",
+    "en": "Update available"
+  },
+  {
+    "i": 1794,
+    "key": "Cài thủ công (EXE hoặc ZIP)",
+    "en": "Install manually (EXE or ZIP)"
+  },
+  {
+    "i": 1795,
+    "key": "Đang kiểm tra bản mới…",
+    "en": "Checking for updates…"
+  },
+  {
+    "i": 1796,
+    "key": "Không kiểm tra được: {error}",
+    "en": "Could not check: {error}"
+  },
+  {
+    "i": 1797,
+    "key": "Lần kiểm được gần nhất: {time}",
+    "en": "Last successful check: {time}"
+  },
+  {
+    "i": 1798,
+    "key": "Bạn đang dùng bản mới nhất",
+    "en": "You have the latest version"
+  },
+  {
+    "i": 1799,
+    "key": "· kiểm lúc {time}",
+    "en": "· checked {time}"
+  },
+  {
+    "i": 1800,
+    "key": "Chưa kiểm tra bản mới lần nào.",
+    "en": "Not checked for updates yet."
+  },
+  {
+    "i": 1801,
+    "key": "Đang tải bản mới",
+    "en": "Downloading the update"
+  },
+  {
+    "i": 1802,
+    "key": "Đang tải {pct}% · {received} / {total}",
+    "en": "Downloading {pct}% · {received} / {total}"
+  },
+  {
+    "i": 1803,
+    "key": "Mở trang tải về",
+    "en": "Open the download page"
+  },
+  {
+    "i": 1804,
+    "key": "App này không chạy từ thư mục cài nên không tự cài được — hãy tải bộ cài trên website.",
+    "en": "This copy does not run from its install folder, so it cannot install updates itself — download the installer from the website."
+  },
+  {
+    "i": 1805,
+    "key": "Bản này chưa có bộ cài để tải trong app — xem trang tải về.",
+    "en": "This version has no installer to download in the app — see the download page."
+  },
+  {
+    "i": 1806,
+    "key": "Đang kiểm tra mã SHA-256 của bộ cài…",
+    "en": "Checking the installer's SHA-256…"
+  },
+  {
+    "i": 1807,
+    "key": "Cài và mở lại",
+    "en": "Install and reopen"
+  },
+  {
+    "i": 1808,
+    "key": "Bộ cài đã tải và khớp mã kiểm tra. Muse4AI sẽ đóng, cài bản mới trong khoảng một phút rồi tự mở lại; dữ liệu, tài khoản và thư viện giữ nguyên.",
+    "en": "The installer is downloaded and matches its checksum. Muse4AI will close, install the new version in about a minute and open again; your data, accounts and library are kept."
+  },
+  {
+    "i": 1809,
+    "key": "Tải và cài ({size})",
+    "en": "Download and install ({size})"
+  },
+  {
+    "i": 1810,
+    "key": "Tải và cài",
+    "en": "Download and install"
+  },
+  {
+    "i": 1811,
+    "key": "Bản {version} không đọc được dữ liệu hiện tại (kho dữ liệu đã nâng cấp), nên không quay lại được.",
+    "en": "Version {version} cannot read your current data (the data store was upgraded), so you cannot go back to it."
+  },
+  {
+    "i": 1812,
+    "key": "Không rõ bản {version} có đọc được dữ liệu hiện tại không, nên app không mời quay lại.",
+    "en": "It is not known whether version {version} can read your current data, so going back is not offered."
+  },
+  {
+    "i": 1813,
+    "key": "Chưa có bản trước. Sau mỗi lần cập nhật, máy giữ lại một bản cũ để quay lại khi cần.",
+    "en": "No previous version yet. After each update, one older version is kept so you can go back if needed."
+  },
+  {
+    "i": 1814,
+    "key": "Bản trước còn giữ: {version}",
+    "en": "Previous version kept: {version}"
+  },
+  {
+    "i": 1815,
+    "key": "Bản trước",
+    "en": "Previous version"
+  },
+  {
+    "i": 1816,
+    "key": "Mở lại bản này nếu bản mới có vấn đề. Dữ liệu giữ nguyên.",
+    "en": "Open this version again if the new one has a problem. Your data is kept."
+  },
+  {
+    "i": 1817,
+    "key": "Quay lại bản này",
+    "en": "Go back to this version"
+  },
+  {
+    "i": 1818,
+    "key": "Cập nhật",
+    "en": "Updates"
+  },
+  {
+    "i": 1819,
+    "key": "Phiên bản đang dùng: {version}",
+    "en": "Current version: {version}"
+  },
+  {
+    "i": 1820,
+    "key": "Kiểm tra ngay",
+    "en": "Check now"
+  },
+  {
+    "i": 1821,
+    "key": "Đã cập nhật từ {from} lên {version}",
+    "en": "Updated from {from} to {version}"
+  },
+  {
+    "i": 1822,
+    "key": "Tự kiểm tra bản mới",
+    "en": "Check for updates automatically"
+  },
+  {
+    "i": 1823,
+    "key": "Lúc mở app và mỗi 12 giờ, app chỉ đọc một tệp nhỏ trên website Muse4AI — không gửi dữ liệu nào của bạn.",
+    "en": "When the app opens and every 12 hours it only reads one small file on the Muse4AI website — none of your data is sent."
+  },
+  {
+    "i": 1824,
+    "key": "Còn {running} lượt đang chạy",
+    "en": "{running} {running|job is|jobs are} still running"
+  },
+  {
+    "i": 1825,
+    "key": "Cài ngay sẽ đóng Muse4AI. Lượt đã gửi sẽ được đối soát khi mở lại app; lượt chưa gửi vẫn nằm trong hàng chờ. Hoặc để sau, khi các lượt xong.",
+    "en": "Installing now closes Muse4AI. Jobs already sent are reconciled when the app reopens; jobs not yet sent stay in the queue. Or install later, when they finish."
+  },
+  {
+    "i": 1826,
+    "key": "Cài ngay",
+    "en": "Install now"
+  },
+  {
+    "i": 1827,
+    "key": "Quay lại bản {version}?",
+    "en": "Go back to version {version}?"
+  },
+  {
+    "i": 1828,
+    "key": "Bản mới hơn còn giữ: {version}",
+    "en": "Newer version kept: {version}"
+  },
+  {
+    "i": 1829,
+    "key": "Bạn đã quay lại bản {current}. Mở lại bản {version} bất cứ lúc nào; dữ liệu giữ nguyên.",
+    "en": "You went back to version {current}. Open version {version} again any time; your data is kept."
+  },
+  {
+    "i": 1830,
+    "key": "Chuyển sang bản này",
+    "en": "Switch to this version"
+  },
+  {
+    "i": 1831,
+    "key": "Chuyển sang bản {version}?",
+    "en": "Switch to version {version}?"
+  },
+  {
+    "i": 1832,
+    "key": "Chuyển",
+    "en": "Switch"
+  },
+  {
+    "i": 1833,
+    "key": "Bản {version} đã có sẵn trên máy — bấm “Chuyển sang bản này” bên dưới, không cần tải lại.",
+    "en": "Version {version} is already on this computer — press “Switch to this version” below, no need to download it again."
+  },
+  {
+    "i": 1834,
+    "key": "Muse4AI sẽ đóng rồi mở bản {version}. Dữ liệu, tài khoản và thư viện giữ nguyên; bản {current} vẫn nằm trên máy. Lượt đang chạy (nếu có) sẽ được đối soát khi mở lại.",
+    "en": "Muse4AI will close and open version {version}. Your data, accounts and library are kept; version {current} stays on this computer. Running jobs (if any) are reconciled when it reopens."
+  }
+]

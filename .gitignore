@@ -4,3 +4,7 @@ release/
 out/
 *.log
 .env*
+
+# 汉化译文源数据（work/out 是译文目录，不是构建产物）
+!desktop/work/out/
+!desktop/work/out/*.json

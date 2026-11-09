@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 690,
+    "key": "Cổng 443 đang bị chương trình khác dùng — tắt chương trình đó hoặc chọn Proxy HTTPS có sẵn",
+    "en": "Port 443 is used by another program — stop it or select Existing HTTPS proxy"
+  },
+  {
+    "i": 691,
+    "key": "Cổng 80 đang bận: chỉ dùng 443",
+    "en": "Port 80 is busy: using 443 only"
+  },
+  {
+    "i": 692,
+    "key": "Chứng chỉ hợp lệ",
+    "en": "Certificate valid"
+  },
+  {
+    "i": 693,
+    "key": "Đang chờ chứng chỉ",
+    "en": "Waiting for a certificate"
+  },
+  {
+    "i": 694,
+    "key": "Chứng chỉ HTTPS chưa hợp lệ — kiểm proxy HTTPS của anh",
+    "en": "HTTPS certificate is not valid yet — check your HTTPS proxy"
+  },
+  {
+    "i": 695,
+    "key": "Máy khác chưa tới được cổng 443 — kiểm tường lửa nhà cung cấp và tường lửa Windows",
+    "en": "Other machines cannot reach port 443 yet — check your provider's firewall and Windows firewall"
+  },
+  {
+    "i": 696,
+    "key": "Không gọi thử được: {m}",
+    "en": "Test call failed: {m}"
+  },
+  {
+    "i": 697,
+    "key": "Trả lời đúng app này",
+    "en": "Response verified as this app"
+  },
+  {
+    "i": 698,
+    "key": "Tên miền đang trỏ tới máy hoặc app khác",
+    "en": "The domain points to another machine or app"
+  },
+  {
+    "i": 699,
+    "key": "Proxy chạy nhưng không tới được app (API trên cổng {port})",
+    "en": "The proxy is running but cannot reach the app (API on port {port})"
+  },
+  {
+    "i": 700,
+    "key": "Trả lời HTTP {status} — không phải Muse4AI",
+    "en": "HTTP {status} response — not Muse4AI"
+  },
+  {
+    "i": 701,
+    "key": "Trực tuyến lần cuối lúc {hhmm}",
+    "en": "Last online at {hhmm}"
+  },
+  {
+    "i": 702,
+    "key": "Proxy của anh vẫn chạy, sẽ trả lỗi 502 vì app không còn nghe",
+    "en": "Your proxy is still running and will return 502 because the app is no longer listening"
+  },
+  {
+    "i": 703,
+    "key": "Tệp Caddy không khớp mã kiểm tra — đã xoá tệp, không chạy. Bấm Thử lại để tải lại",
+    "en": "Caddy file checksum mismatch — file deleted and not run. Click Retry to download again"
+  },
+  {
+    "i": 704,
+    "key": "Không tải được Caddy — kiểm tra mạng rồi bấm Thử lại",
+    "en": "Could not download Caddy — check your network, then click Retry"
+  },
+  {
+    "i": 705,
+    "key": "Máy này chưa hỗ trợ tự chạy HTTPS — chọn Proxy HTTPS có sẵn",
+    "en": "This machine does not support app-managed HTTPS yet — select Existing HTTPS proxy"
+  },
+  {
+    "i": 706,
+    "key": "Caddy dừng 5 lần liên tiếp — bấm Thử lại",
+    "en": "Caddy stopped 5 times in a row — click Retry"
+  },
+  {
+    "i": 707,
+    "key": "Caddy dừng bất thường",
+    "en": "Caddy stopped unexpectedly"
+  },
+  {
+    "i": 708,
+    "key": "Let's Encrypt tạm giới hạn cấp chứng chỉ cho tên miền này — app sẽ thử lại sau",
+    "en": "Let's Encrypt has temporarily rate-limited certificate issuance for this domain — the app will retry later"
+  },
+  {
+    "i": 709,
+    "key": "Let's Encrypt chưa thấy bản ghi DNS của tên miền",
+    "en": "Let's Encrypt cannot find the domain's DNS records yet"
+  },
+  {
+    "i": 710,
+    "key": "Let's Encrypt chưa tới được máy qua cổng 80/443 — kiểm tường lửa",
+    "en": "Let's Encrypt cannot reach this machine on ports 80/443 yet — check the firewall"
+  },
+  {
+    "i": 711,
+    "key": "Let's Encrypt gọi tới máy khác — kiểm bản ghi DNS",
+    "en": "Let's Encrypt reached a different machine — check the DNS records"
+  },
+  {
+    "i": 712,
+    "key": "Let's Encrypt chưa cấp chứng chỉ — app sẽ thử lại",
+    "en": "Let's Encrypt has not issued a certificate yet — the app will retry"
+  },
+  {
+    "i": 713,
+    "key": "Đang chờ người dùng xem trong Muse4AI",
+    "en": "Waiting for user review in Muse4AI"
+  },
+  {
+    "i": 714,
+    "key": "Chỉ gửi một trong `reference_id` hoặc `reference_asset_id`",
+    "en": "Send only one of `reference_id` or `reference_asset_id`"
+  },
+  {
+    "i": 715,
+    "key": "`reference_ids` không dùng kèm `reference_id` hoặc `reference_asset_id`",
+    "en": "`reference_ids` cannot be used with `reference_id` or `reference_asset_id`"
+  },
+  {
+    "i": 716,
+    "key": "Chế độ “Từ ảnh” cần `reference_id` hoặc `reference_asset_id`",
+    "en": "“From image” mode requires `reference_id` or `reference_asset_id`"
+  },
+  {
+    "i": 717,
+    "key": "Nhiều nhất {REF_MAX_PER_JOB} ảnh tham chiếu cho một lượt",
+    "en": "At most {REF_MAX_PER_JOB} reference {REF_MAX_PER_JOB|image|images} per job"
+  },
+  {
+    "i": 718,
+    "key": "Chỉ gửi một trong `times` hoặc `target_seconds`",
+    "en": "Send only one of `times` or `target_seconds`"
+  },
+  {
+    "i": 719,
+    "key": "`times` phải từ 1 đến {maxSteps} (tối đa mỗi chuỗi trong Cài đặt)",
+    "en": "`times` must be between 1 and {maxSteps} (per-chain limit in Settings)"
+  },
+  {
+    "i": 720,
+    "key": "`target_seconds` phải từ {EXTEND_TARGET_MIN_S} đến {EXTEND_TARGET_MAX_S}, bước {EXTEND_TARGET_STEP_S}",
+    "en": "`target_seconds` must be between {EXTEND_TARGET_MIN_S} and {EXTEND_TARGET_MAX_S}, in increments of {EXTEND_TARGET_STEP_S}"
+  },
+  {
+    "i": 721,
+    "key": "Chế độ \"auto\" không dùng `directive` — dùng mode \"directive\"",
+    "en": "\"auto\" mode does not use `directive` — use \"directive\" mode"
+  },
+  {
+    "i": 722,
+    "key": "Chế độ \"directive\" cần `directive` (mô tả đoạn kéo dài)",
+    "en": "\"directive\" mode requires `directive` (description of the extension)"
+  },
+  {
+    "i": 723,
+    "key": "`directive` tối đa {EXTEND_DIRECTIVE_MAX} ký tự",
+    "en": "`directive` is limited to {EXTEND_DIRECTIVE_MAX} {EXTEND_DIRECTIVE_MAX|character|characters}"
+  },
+  {
+    "i": 724,
+    "key": "Yêu cầu không hợp lệ: {value}",
+    "en": "Invalid request: {value}"
+  },
+  {
+    "i": 725,
+    "key": "cần kiểu {expected}",
+    "en": "expected type {expected}"
+  },
+  {
+    "i": 726,
+    "key": "chỉ nhận {value}",
+    "en": "only accepts {value}"
+  },
+  {
+    "i": 727,
+    "key": "trường không hỗ trợ: {keys}",
+    "en": "unsupported fields: {keys}"
+  },
+  {
+    "i": 728,
+    "key": "quá dài/lớn (tối đa {maximum})",
+    "en": "too long/large (maximum {maximum})"
+  },
+  {
+    "i": 729,
+    "key": "quá ngắn/nhỏ (tối thiểu {minimum})",
+    "en": "too short/small (minimum {minimum})"
+  },
+  {
+    "i": 730,
+    "key": "Idempotency-Key phải gồm 1–{API_IDEMPOTENCY_MAX} ký tự ASCII in được",
+    "en": "Idempotency-Key must contain 1–{API_IDEMPOTENCY_MAX} printable ASCII characters"
+  },
+  {
+    "i": 731,
+    "key": "`{name}` phải là số nguyên {min}–{max}",
+    "en": "`{name}` must be an integer between {min}–{max}"
+  },
+  {
+    "i": 732,
+    "key": "không phải số nguyên",
+    "en": "not an integer"
+  },
+  {
+    "i": 733,
+    "key": "`{name}` phải trong khoảng {min}–{max}",
+    "en": "`{name}` must be within {min}–{max}"
+  },
+  {
+    "i": 734,
+    "key": "ngoài khoảng",
+    "en": "out of range"
+  },
+  {
+    "i": 735,
+    "key": "chỉ ký tự ASCII in được",
+    "en": "printable ASCII characters only"
+  },
+  {
+    "i": 736,
+    "key": "gửi đúng một trong asset_id hoặc conversation_id",
+    "en": "send exactly one of asset_id or conversation_id"
+  },
+  {
+    "i": 737,
+    "key": "Ứng dụng đã kết nối",
+    "en": "Connected apps"
+  },
+  {
+    "i": 738,
+    "key": "Agent kết nối bằng OAuth, không cần bạn đưa khoá API. Khi có app xin kết nối, mã 6 số hiện ở đây và bạn gõ mã đó vào trang xác nhận trong trình duyệt.",
+    "en": "Apps connect through OAuth, so you never hand over an API key. When an app asks to connect, a six-digit code appears here and you type it into the confirmation page in your browser."
+  },
+  {
+    "i": 739,
+    "key": "{client} đang xin kết nối",
+    "en": "{client} wants to connect"
+  },
+  {
+    "i": 740,
+    "key": "Quay về",
+    "en": "Returns to"
+  },
+  {
+    "i": 741,
+    "key": "Còn {n} lần nhập",
+    "en": "{n} {n|try|tries} left"
+  },
+  {
+    "i": 742,
+    "key": "Gõ đúng 6 số này vào trang xác nhận đang mở trong trình duyệt.",
+    "en": "Type these six digits into the confirmation page open in your browser."
+  },
+  {
+    "i": 743,
+    "key": "Đã bỏ yêu cầu kết nối",
+    "en": "Connection request dismissed"
+  },
+  {
+    "i": 744,
+    "key": "Chưa có ứng dụng nào kết nối.",
+    "en": "No apps connected yet."
+  },
+  {
+    "i": 745,
+    "key": "Ngắt kết nối",
+    "en": "Disconnect"
+  },
+  {
+    "i": 746,
+    "key": "Ngắt kết nối “{name}”?",
+    "en": "Disconnect “{name}”?"
+  },
+  {
+    "i": 747,
+    "key": "Ứng dụng mất quyền ngay: mọi token của nó bị chặn ở lần gọi kế tiếp. Muốn dùng lại, nó phải xin kết nối một lần nữa.",
+    "en": "The app loses access at once: every token it holds is refused from the next call. To use it again, it must ask to connect once more."
+  },
+  {
+    "i": 748,
+    "key": "Đã ngắt kết nối “{name}”",
+    "en": "Disconnected “{name}”"
+  },
+  {
+    "i": 749,
+    "key": "Mã xác nhận {code} — gõ mã này vào trang xác nhận trong trình duyệt",
+    "en": "Confirmation code {code} — type it into the confirmation page in your browser"
+  },
+  {
+    "i": 750,
+    "key": "Kết nối {client} với Muse4AI",
+    "en": "Connect {client} to Muse4AI"
+  },
+  {
+    "i": 751,
+    "key": "{client} muốn dùng Muse4AI theo tài khoản của bạn.",
+    "en": "{client} wants to use Muse4AI as you."
+  },
+  {
+    "i": 752,
+    "key": "Bạn đang ra quyết định trên máy tính của mình, nơi Muse4AI đang chạy.",
+    "en": "You are deciding on the computer where Muse4AI is running."
+  },
+  {
+    "i": 753,
+    "key": "Nhà phát triển ứng dụng",
+    "en": "Developer"
+  },
+  {
+    "i": 754,
+    "key": "Ứng dụng sẽ quay về",
+    "en": "The app will return to"
+  },
+  {
+    "i": 755,
+    "key": "Quyền được xin",
+    "en": "Access requested"
+  },
+  {
+    "i": 756,
+    "key": "Mã xác nhận",
+    "en": "Confirmation code"
+  },
+  {
+    "i": 757,
+    "key": "Nhập đúng 6 số đang hiện trong cửa sổ Muse4AI.",
+    "en": "Type the six digits shown in the Muse4AI window."
+  },
+  {
+    "i": 758,
+    "key": "Cho phép kết nối",
+    "en": "Allow connection"
+  },
+  {
+    "i": 759,
+    "key": "Hủy kết nối",
+    "en": "Cancel connection"
+  },
+  {
+    "i": 760,
+    "key": "Muse4AI vẫn tự quyết định quyền theo cài đặt và chính sách của bạn; ứng dụng không vượt qua được điều đó.",
+    "en": "Muse4AI still decides access from your own settings and policies; the app cannot get around that."
+  },
+  {
+    "i": 761,
+    "key": "Thân yêu cầu phải là JSON",
+    "en": "The request body must be JSON"
+  },
+  {
+    "i": 762,
+    "key": "Đã hủy kết nối",
+    "en": "Connection cancelled"
+  },
+  {
+    "i": 763,
+    "key": "Không có quyền nào được cấp. Bạn có thể thử lại bất cứ lúc nào.",
+    "en": "Nothing was granted. You can try again any time."
+  },
+  {
+    "i": 764,
+    "key": "Mã chưa đúng — hãy xem lại cửa sổ Muse4AI rồi nhập lại.",
+    "en": "That code is not right — check the Muse4AI window and try again."
+  },
+  {
+    "i": 765,
+    "key": "Yêu cầu kết nối này đã hết hạn hoặc đã được trả lời. Hãy bật lại kết nối trong ứng dụng.",
+    "en": "This connection request expired or was already answered. Start it again from the app."
+  },
+  {
+    "i": 766,
+    "key": "Muse4AI không hoàn thành được yêu cầu này",
+    "en": "Muse4AI could not complete this request"
+  },
+  {
+    "i": 767,
+    "key": "Muse4AI này đã đủ {OAUTH_CLIENT_MAX} ứng dụng — ngắt kết nối một ứng dụng trong Cài đặt › API & agent",
+    "en": "This Muse4AI already has {OAUTH_CLIENT_MAX} {OAUTH_CLIENT_MAX|app|apps} — disconnect one in Settings › API & agent"
+  },
+  {
+    "i": 768,
+    "key": "redirect_uris phải là mảng không rỗng gồm URL https hoặc http trên máy này",
+    "en": "redirect_uris must be a non-empty array of https URLs, or http on this machine"
+  },
+  {
+    "i": 769,
+    "key": "Mỗi ứng dụng tối đa 10 URL quay về",
+    "en": "Each app may register at most 10 return URLs"
+  },
+  {
+    "i": 770,
+    "key": "URL quay về không được chấp nhận (cần https, hoặc http trên máy này)",
+    "en": "Return URL not accepted (needs https, or http on this machine)"
+  },
+  {
+    "i": 771,
+    "key": "grant_types phải có authorization_code hoặc refresh_token",
+    "en": "grant_types must contain authorization_code or refresh_token"
+  },
+  {
+    "i": 772,
+    "key": "Ứng dụng không quen: đăng ký trước bằng POST /oauth/register hoặc dùng client_id do Muse4AI này cấp",
+    "en": "Unknown app: register first with POST /oauth/register, or use a client_id this Muse4AI issued"
+  },
+  {
+    "i": 773,
+    "key": "Ứng dụng này chỉ trả lời response_type=code",
+    "en": "This app only answers response_type=code"
+  },
+  {
+    "i": 774,
+    "key": "redirect_uri không khớp với URL ứng dụng đã đăng ký",
+    "en": "redirect_uri does not match a URL the app registered"
+  },
+  {
+    "i": 775,
+    "key": "Bắt buộc PKCE: gửi code_challenge kèm code_challenge_method=S256",
+    "en": "PKCE is required: send code_challenge with code_challenge_method=S256"
+  },
+  {
+    "i": 776,
+    "key": "state quá dài",
+    "en": "state is too long"
+  },
+  {
+    "i": 777,
+    "key": "Yêu cầu kết nối này không còn ở đây — hãy bắt lại từ ứng dụng agent",
+    "en": "This connection request is no longer here — start it again from the agent app"
+  },
+  {
+    "i": 778,
+    "key": "Yêu cầu kết nối này đã được trả lời",
+    "en": "This connection request was already answered"
+  },
+  {
+    "i": 779,
+    "key": "Yêu cầu kết nối này đã hết hạn — hãy bắt lại từ ứng dụng agent",
+    "en": "This connection request expired — start it again from the agent app"
+  },
+  {
+    "i": 780,
+    "key": "Người dùng đã hủy",
+    "en": "The user cancelled"
+  },
+  {
+    "i": 781,
+    "key": "Nhập sai mã quá nhiều lần",
+    "en": "Too many wrong codes"
+  },
+  {
+    "i": 782,
+    "key": "Mã sai — còn {left} lần nhập",
+    "en": "{left} {left|try|tries} left"
+  },
+  {
+    "i": 783,
+    "key": "grant_type phải là authorization_code hoặc refresh_token",
+    "en": "grant_type must be authorization_code or refresh_token"
+  },
+  {
+    "i": 784,
+    "key": "code là bắt buộc",
+    "en": "code is required"
+  },
+  {
+    "i": 785,
+    "key": "Mã này không hợp lệ, đã dùng, hoặc quá cũ",
+    "en": "This code is not valid, already used, or too old"
+  },
+  {
+    "i": 786,
+    "key": "Ứng dụng không quen",
+    "en": "Unknown app"
+  },
+  {
+    "i": 787,
+    "key": "Mã này được cấp cho ứng dụng khác",
+    "en": "This code was issued to a different app"
+  },
+  {
+    "i": 788,
+    "key": "redirect_uri không khớp với yêu cầu kết nối",
+    "en": "redirect_uri does not match the connection request"
+  },
+  {
+    "i": 789,
+    "key": "Kiểm tra PKCE thất bại: code_verifier không khớp code_challenge",
+    "en": "PKCE check failed: code_verifier does not match code_challenge"
+  },
+  {
+    "i": 790,
+    "key": "refresh_token là bắt buộc",
+    "en": "refresh_token is required"
+  },
+  {
+    "i": 791,
+    "key": "Refresh token này không có ở đây",
+    "en": "This refresh token is not known here"
+  },
+  {
+    "i": 792,
+    "key": "Kết nối này đã bị thu hồi trong Muse4AI",
+    "en": "This connection was revoked in Muse4AI"
+  },
+  {
+    "i": 793,
+    "key": "Refresh token này thuộc ứng dụng khác",
+    "en": "This refresh token belongs to a different app"
+  },
+  {
+    "i": 794,
+    "key": "Kết nối này im lặng quá lâu — hãy kết nối lại",
+    "en": "This connection went quiet for too long — connect again"
+  },
+  {
+    "i": 795,
+    "key": "Refresh token này đã dùng hai lần — kết nối bị đóng để bảo mật, hãy kết nối lại",
+    "en": "This refresh token was used twice — the connection was closed for safety, connect again"
+  },
+  {
+    "i": 796,
+    "key": "Xem thư viện, hàng chờ và trạng thái tài khoản",
+    "en": "View the library, the queue and account status"
+  },
+  {
+    "i": 797,
+    "key": "Tạo ảnh, video, trả lời và kéo dài video",
+    "en": "Create images, videos, answers and video extensions"
+  },
+  {
+    "i": 798,
+    "key": "Ứng dụng agent",
+    "en": "Agent app"
+  },
+  {
+    "i": 799,
+    "key": "Cầu nối AI agent — dùng được với Muse",
+    "en": "AI agent bridge — works with Muse"
+  },
+  {
+    "i": 800,
+    "key": "Giao diện này chỉ chạy bên trong ứng dụng Muse4AI.",
+    "en": "This interface only runs inside the Muse4AI app."
+  },
+  {
+    "i": 801,
+    "key": "Không khởi động được giao diện",
+    "en": "Cannot start the interface"
+  },
+  {
+    "i": 802,
+    "key": "Thử lại",
+    "en": "Retry"
+  },
+  {
+    "i": 803,
+    "key": "Đang mở Muse4AI",
+    "en": "Opening Muse4AI"
+  },
+  {
+    "i": 804,
+    "key": "Thoát khi còn lượt đang chạy?",
+    "en": "Exit while jobs are still running?"
+  },
+  {
+    "i": 805,
+    "key": "Còn {running} lượt đang tạo. Lượt đã gửi sẽ được đối soát khi mở lại app; lượt chưa gửi vẫn nằm trong hàng chờ.",
+    "en": "{running} {running|job is|jobs are} still generating. Submitted jobs will be reconciled when you reopen the app; unsubmitted jobs will stay in the queue."
+  },
+  {
+    "i": 806,
+    "key": "Tiếp tục chạy",
+    "en": "Keep running"
+  },
+  {
+    "i": 807,
+    "key": " (đã thu hồi)",
+    "en": " (revoked)"
+  },
+  {
+    "i": 808,
+    "key": "Đang chờ tài khoản",
+    "en": "Waiting for an account"
+  },
+  {
+    "i": 809,
+    "key": "Điều hướng chính",
+    "en": "Main navigation"
+  },
+  {
+    "i": 810,
+    "key": "{badge} lượt chưa xong",
+    "en": "{badge} unfinished {badge|job|jobs}"
+  },
+  {
+    "i": 811,
+    "key": "Có lượt cần anh xem",
+    "en": "Some jobs need review"
+  },
+  {
+    "i": 812,
+    "key": "Tài khoản",
+    "en": "Account"
+  },
+  {
+    "i": 813,
+    "key": "Tài khoản@@nav",
+    "en": "Accounts"
+  },
+  {
+    "i": 814,
+    "key": "Chưa có tài khoản — bấm để thêm",
+    "en": "No accounts yet — click to add"
+  },
+  {
+    "i": 815,
+    "key": "Đang tạo",
+    "en": "Generating"
+  },
+  {
+    "i": 816,
+    "key": "Đang kết nối lại…",
+    "en": "Reconnecting…"
+  },
+  {
+    "i": 817,
+    "key": "Ổ đĩa còn {diskFreeBytes}",
+    "en": "{diskFreeBytes} disk space remaining"
+  },
+  {
+    "i": 818,
+    "key": "Thiết kế và phát triển bởi",
+    "en": "Designed and built by"
+  },
+  {
+    "i": 819,
+    "key": "Bộ máy chạy nền không trả lời. Các lượt vẫn được lưu an toàn trên máy; tạm khoá thao tác cho đến khi nối lại.",
+    "en": "The background engine is not responding. Jobs are safely stored on this computer; controls are temporarily disabled until it reconnects."
+  },
+  {
+    "i": 820,
+    "key": "Tải lại giao diện",
+    "en": "Reload interface"
+  },
+  {
+    "i": 821,
+    "key": "Em tạm dừng các lượt {value} để không gửi sai. Các lượt khác vẫn chạy.",
+    "en": "{value} jobs are paused to prevent incorrect submissions. Other jobs are still running."
+  },
+  {
+    "i": 822,
+    "key": " và ",
+    "en": " and "
+  },
+  {
+    "i": 823,
+    "key": "Ổ đĩa gần đầy — đã tạm dừng tải về",
+    "en": "Disk almost full — downloads paused"
+  },
+  {
+    "i": 824,
+    "key": "Còn {diskFreeBytes} trống ở thư mục thư viện.",
+    "en": "{diskFreeBytes} free in the Library folder."
+  },
+  {
+    "i": 825,
+    "key": "Mở Cài đặt",
+    "en": "Open Settings"
+  },
+  {
+    "i": 826,
+    "key": "Ẩn",
+    "en": "Hide"
+  },
+  {
+    "i": 827,
+    "key": "Đã khôi phục {recovered} lượt{value}",
+    "en": "Recovered {recovered} {recovered|job|jobs}{value}"
+  },
+  {
+    "i": 828,
+    "key": " · {review} cần xem",
+    "en": " · {review} {review|needs|need} review"
+  },
+  {
+    "i": 829,
+    "key": "Hàng chờ được giữ nguyên từ lần mở trước.",
+    "en": "The queue is unchanged from the previous session."
+  },
+  {
+    "i": 830,
+    "key": "Mở",
+    "en": "Open"
+  },
+  {
+    "i": 831,
+    "key": "Đóng thông báo",
+    "en": "Dismiss notification"
+  },
+  {
+    "i": 832,
+    "key": "Chưa đổi được ngôn ngữ",
+    "en": "Cannot change language yet"
+  },
+  {
+    "i": 833,
+    "key": "Ngôn ngữ giao diện",
+    "en": "Interface language"
+  },
+  {
+    "i": 834,
+    "key": "Đổi ngôn ngữ sang {language}",
+    "en": "Change language to {language}"
+  },
+  {
+    "i": 835,
+    "key": "Đóng",
+    "en": "Close"
+  },
+  {
+    "i": 836,
+    "key": "Không",
+    "en": "No"
+  },
+  {
+    "i": 837,
+    "key": "Chi tiết",
+    "en": "Details"
+  },
+  {
+    "i": 838,
+    "key": "Giảm {label}",
+    "en": "Decrease {label}"
+  },
+  {
+    "i": 839,
+    "key": "Tăng {label}",
+    "en": "Increase {label}"
+  },
+  {
+    "i": 840,
+    "key": "Không cần khoá (OAuth)",
+    "en": "No key needed (OAuth)"
+  },
+  {
+    "i": 841,
+    "key": "Dán địa chỉ này vào app là xong. Khi app hỏi cách đăng nhập, chọn OAuth rồi gõ mã 6 số đang hiện trong cửa sổ Muse4AI — không phải đưa khoá API cho ai.",
+    "en": "Paste this address into the app and you are done. When the app asks how to sign in, choose OAuth and type the six-digit code showing in the Muse4AI window — you never hand an API key to anyone."
+  },
+  {
+    "i": 842,
+    "key": "# Codex CLI (mở Codex rồi chạy: codex mcp login muse4ai)",
+    "en": "# Codex CLI (open Codex, then run: codex mcp login muse4ai)"
+  },
+  {
+    "i": 843,
+    "key": "# Cursor, VS Code, Claude Desktop, ChatGPT: dán đúng địa chỉ này, không kèm dòng khoá nào",
+    "en": "# Cursor, VS Code, Claude Desktop, ChatGPT: paste this exact address, with no key line at all"
+  },
+  {
+    "i": 844,
+    "key": "Chạy lệnh này trong terminal của máy có Claude Code.",
+    "en": "Run this command in the terminal on the computer with Claude Code."
+  },
+  {
+    "i": 845,
+    "key": "Dán vào ~/.cursor/mcp.json (hoặc .cursor/mcp.json trong dự án).",
+    "en": "Paste into ~/.cursor/mcp.json (or .cursor/mcp.json in your project)."
+  },
+  {
+    "i": 846,
+    "key": "Dán vào .vscode/mcp.json rồi bấm Start trên dòng muse4ai.",
+    "en": "Paste into .vscode/mcp.json, then click Start on the muse4ai row."
+  },
+  {
+    "i": 847,
+    "key": "Dán vào claude_desktop_config.json (cần Node.js; dùng cầu nối mcp-remote), rồi khởi động lại Claude Desktop.",
+    "en": "Paste into claude_desktop_config.json (requires Node.js; uses the mcp-remote bridge), then restart Claude Desktop."
+  },
+  {
+    "i": 848,
+    "key": "Chạy lệnh dưới (hoặc dán khối TOML vào ~/.codex/config.toml). Codex đọc khoá từ biến môi trường MUSE_API_KEY — đặt biến này trước khi mở Codex.",
+    "en": "Run the command below (or paste the TOML block into ~/.codex/config.toml). Codex reads the key from the MUSE_API_KEY environment variable — set it before opening Codex."
+  },
+  {
+    "i": 849,
+    "key": "# hoặc trong ~/.codex/config.toml",
+    "en": "# or in ~/.codex/config.toml"
+  },
+  {
+    "i": 850,
+    "key": "# PowerShell (một lần):",
+    "en": "# PowerShell (once):"
+  },
+  {
+    "i": 851,
+    "key": "Chạy lệnh dưới, hoặc dán vào ~/.gemini/settings.json rồi mở lại Gemini CLI (gõ /mcp để kiểm).",
+    "en": "Run the command below, or paste into ~/.gemini/settings.json and reopen Gemini CLI (type /mcp to check)."
+  },
+  {
+    "i": 852,
+    "key": "Chỉ dùng thư viện có sẵn của Python 3. Lỗi mạng giữa chừng thì chạy lại cùng IDEM — app trả đúng lượt cũ, không tạo lượt trùng.",
+    "en": "Uses only the Python 3 standard library. If the network fails midway, rerun with the same IDEM — the app returns the original job without creating a duplicate."
+  },
+  {
+    "i": 853,
+    "key": "IDEM = str(uuid.uuid4())  # giữ nguyên khi gửi lại",
+    "en": "IDEM = str(uuid.uuid4())  # keep unchanged when resubmitting"
+  },
+  {
+    "i": 854,
+    "key": "job = call(\"POST\", \"/v1/jobs\", {\"kind\": \"image\", \"prompt\": \"Một tách cà phê trên bàn gỗ\"},",
+    "en": "job = call(\"POST\", \"/v1/jobs\", {\"kind\": \"image\", \"prompt\": \"A cup of coffee on a wooden table\"},"
+  },
+  {
+    "i": 855,
+    "key": "OpenAI gọi từ máy chủ của họ nên cần địa chỉ Internet (tên miền hoặc đường hầm). Đổi model theo tài khoản của anh.",
+    "en": "OpenAI makes calls from its servers, so an Internet address (domain or tunnel) is required. Change the model to match your account."
+  },
+  {
+    "i": 856,
+    "key": "    input=\"Tạo ảnh một tách cà phê trên bàn gỗ bằng Muse, chờ xong rồi đưa link tải.\",",
+    "en": "    input=\"Generate an image of a cup of coffee on a wooden table using Muse, wait until it is done, then provide the download link.\","
+  },
+  {
+    "i": 857,
+    "key": "Cách 1: nút MCP Client Tool (Streamable HTTP, Bearer). Cách 2: nút HTTP Request như dưới, rồi một nút nữa gọi GET /v1/jobs/{id}?wait=50 cho tới khi status là succeeded.",
+    "en": "Option 1: MCP Client Tool node (Streamable HTTP, Bearer). Option 2: HTTP Request node as shown below, then another node calling GET /v1/jobs/{id}?wait=50 until status is succeeded."
+  },
+  {
+    "i": 858,
+    "key": "  Body (JSON): { \"kind\": \"image\", \"prompt\": \"Một tách cà phê trên bàn gỗ\" }",
+    "en": "  Body (JSON): { \"kind\": \"image\", \"prompt\": \"A cup of coffee on a wooden table\" }"
+  },
+  {
+    "i": 859,
+    "key": "Gửi lượt rồi chờ kết quả. Trên PowerShell dùng curl.exe thay cho curl.",
+    "en": "Submit a job and wait for the result. In PowerShell, use curl.exe instead of curl."
+  },
+  {
+    "i": 860,
+    "key": "  -d '{\"kind\":\"image\",\"prompt\":\"Một tách cà phê trên bàn gỗ\"}'",
+    "en": "  -d '{\"kind\":\"image\",\"prompt\":\"A cup of coffee on a wooden table\"}'"
+  },
+  {
+    "i": 861,
+    "key": "# thay JOB_ID bằng jobs[0].id ở trên; gọi lại tới khi status là succeeded",
+    "en": "# replace JOB_ID with jobs[0].id above; repeat until status is succeeded"
+  },
+  {
+    "i": 862,
+    "key": "Không có kết nối tới bộ máy",
+    "en": "No connection to the engine"
+  },
+  {
+    "i": 863,
+    "key": "Hàng chờ",
+    "en": "Queue"
+  },
+  {
+    "i": 864,
+    "key": "Hàng loạt",
+    "en": "Batches"
+  },
+  {
+    "i": 865,
+    "key": "Thư viện",
+    "en": "Library"
+  },
+  {
+    "i": 866,
+    "key": "Cài đặt",
+    "en": "Settings"
+  },
+  {
+    "i": 867,
+    "key": "{alias}: bước đăng nhập Muse đã dừng sau 15 phút",
+    "en": "{alias}: Muse sign-in step stopped after 15 minutes"
+  },
+  {
+    "i": 868,
+    "key": "{alias} đã sẵn sàng",
+    "en": "{alias} is ready"
+  },
+  {
+    "i": 869,
+    "key": "Chuẩn bị",
+    "en": "Prepare"
+  },
+  {
+    "i": 870,
+    "key": "Gửi",
+    "en": "Submit"
+  },
+  {
+    "i": 871,
+    "key": "Tạo",
+    "en": "Generate"
+  },
+  {
+    "i": 872,
+    "key": "Tải về",
+    "en": "Download"
+  },
+  {
+    "i": 873,
+    "key": "{label} đến {stateUntil}",
+    "en": "{label} until {stateUntil}"
+  },
+  {
+    "i": 874,
+    "key": "tuần {weeklyUsed} %{value}",
+    "en": "weekly {weeklyUsed} %{value}"
+  },
+  {
+    "i": 875,
+    "key": " (cũ)",
+    "en": " (outdated)"
+  },
+  {
+    "i": 876,
+    "key": "chưa đọc hạn mức",
+    "en": "quota not read yet"
+  },
+  {
+    "i": 877,
+    "key": "{accountsCount} tài khoản · {itemsCount} đang nhận việc",
+    "en": "{accountsCount} {accountsCount|account|accounts} · {itemsCount} accepting jobs"
+  },
+  {
+    "i": 878,
+    "key": "Thêm tài khoản",
+    "en": "Add account"
+  },
+  {
+    "i": 879,
+    "key": "Chưa có tài khoản nào",
+    "en": "No accounts yet"
+  },
+  {
+    "i": 880,
+    "key": "Thêm tài khoản Muse đầu tiên: em gán cho nó một proxy rồi mở cửa sổ để anh đăng nhập. Em không lưu mật khẩu.",
+    "en": "Add your first Muse account: Muse4AI assigns it a proxy, then opens a window for you to sign in. Passwords are not stored."
+  },
+  {
+    "i": 881,
+    "key": "{alias} đang tạo một lượt",
+    "en": "{alias} is generating a job"
+  },
+  {
+    "i": 882,
+    "key": "Dừng ngay",
+    "en": "Stop now"
+  },
+  {
+    "i": 883,
+    "key": "Sau lượt hiện tại",
+    "en": "After current job"
+  },
+  {
+    "i": 884,
+    "key": "“Dừng ngay” sẽ chuyển lượt đang tạo sang “Cần anh xem” để không gửi trùng. “Sau lượt hiện tại” chờ lượt xong rồi mới mở cửa sổ.",
+    "en": "“Stop now” moves the generating job to “Needs review” to prevent duplicate submissions. “After current job” waits for the job to finish before opening the window."
+  },
+  {
+    "i": 885,
+    "key": "Hoạt động {lastActiveAt}",
+    "en": "Active {lastActiveAt}"
+  },
+  {
+    "i": 886,
+    "key": "Thao tác cho {alias}",
+    "en": "Actions for {alias}"
+  },
+  {
+    "i": 887,
+    "key": "Kiểm phiên đăng nhập",
+    "en": "Check sign-in session"
+  },
+  {
+    "i": 888,
+    "key": "Đọc hạn mức Muse",
+    "en": "Read Muse quota"
+  },
+  {
+    "i": 889,
+    "key": "Đã cập nhật hạn mức",
+    "en": "Quota updated"
+  },
+  {
+    "i": 890,
+    "key": "Xem IP ra của proxy",
+    "en": "View proxy exit IP"
+  },
+  {
+    "i": 891,
+    "key": "Tiếp tục nhận việc",
+    "en": "Resume accepting jobs"
+  },
+  {
+    "i": 892,
+    "key": "Tạm dừng nhận việc",
+    "en": "Pause accepting jobs"
+  },
+  {
+    "i": 893,
+    "key": "Đổi proxy",
+    "en": "Change proxy"
+  },
+  {
+    "i": 894,
+    "key": "Đổi tên / avatar",
+    "en": "Change name / avatar"
+  },
+  {
+    "i": 895,
+    "key": "Xoá tài khoản",
+    "en": "Delete account"
+  },
+  {
+    "i": 896,
+    "key": "Chưa có proxy",
+    "en": "No proxy yet"
+  },
+  {
+    "i": 897,
+    "key": "Hôm nay",
+    "en": "Today"
+  },
+  {
+    "i": 898,
+    "key": "{todayCount} lượt",
+    "en": "{todayCount} {todayCount|job|jobs}"
+  },
+  {
+    "i": 899,
+    "key": "Gán proxy trước",
+    "en": "Assign a proxy first"
+  },
+  {
+    "i": 900,
+    "key": "Đăng nhập",
+    "en": "Sign in"
+  },
+  {
+    "i": 901,
+    "key": "Tiếp tục",
+    "en": "Continue"
+  },
+  {
+    "i": 902,
+    "key": "Mở phiên điều khiển",
+    "en": "Open control session"
+  },
+  {
+    "i": 903,
+    "key": "Xem màn hình",
+    "en": "View screen"
+  },
+  {
+    "i": 904,
+    "key": "Điều khiển",
+    "en": "Control"
+  },
+  {
+    "i": 905,
+    "key": "Mở Điều khiển để tự xác minh trên Muse",
+    "en": "Open Control to verify your account on Muse"
+  },
+  {
+    "i": 906,
+    "key": "Màn hình của {alias}",
+    "en": "{alias}'s screen"
+  },
+  {
+    "i": 907,
+    "key": "Chỉ xem · cập nhật mỗi giây",
+    "en": "View only · updates every second"
+  },
+  {
+    "i": 908,
+    "key": "Ảnh chụp màn hình trình duyệt của {alias}",
+    "en": "Browser screenshot for {alias}"
+  },
+  {
+    "i": 909,
+    "key": "Không có gì đang diễn ra. Khi tài khoản làm việc, màn hình Muse sẽ hiện ở đây.",
+    "en": "Nothing is happening. When the account is working, the Muse screen will appear here."
+  },
+  {
+    "i": 910,
+    "key": "Đăng nhập Muse cho {alias}",
+    "en": "Sign in to Muse for {alias}"
+  },
+  {
+    "i": 911,
+    "key": "Anh đang điều khiển {alias}",
+    "en": "You are controlling {alias}"
+  },
+  {
+    "i": 912,
+    "key": "Huỷ đăng nhập",
+    "en": "Cancel sign-in"
+  },
+  {
+    "i": 913,
+    "key": "Mở lại cửa sổ",
+    "en": "Reopen window"
+  },
+  {
+    "i": 914,
+    "key": "Đã xong, kiểm tra phiên",
+    "en": "Done, check session"
+  },
+  {
+    "i": 915,
+    "key": "Để sau",
+    "en": "Later"
+  },
+  {
+    "i": 916,
+    "key": "Mở điều khiển",
+    "en": "Open control"
+  },
+  {
+    "i": 917,
+    "key": "Em đã mở một cửa sổ Muse riêng cho {alias}, đi qua proxy của tài khoản này.",
+    "en": "A separate Muse window has been opened for {alias}, using this account's proxy."
+  },
+  {
+    "i": 918,
+    "key": "Nhập email hoặc số điện thoại của tài khoản Muse.",
+    "en": "Enter the email or phone number for the Muse account."
+  },
+  {
+    "i": 919,
+    "key": "Nhập mã xác nhận Muse gửi về.",
+    "en": "Enter the verification code sent by Muse."
+  }
+]

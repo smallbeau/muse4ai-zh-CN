@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 920,
+    "key": "Chọn “Remember this device” nếu có.",
+    "en": "Select “Remember this device” if available."
+  },
+  {
+    "i": 921,
+    "key": "Em tự nhận ra khi đăng nhập xong — anh không cần bấm gì thêm.",
+    "en": "Sign-in completion is detected automatically — no further clicks are needed."
+  },
+  {
+    "i": 922,
+    "key": "Cửa sổ {value} của {alias} đang mở. Tài khoản tạm ngừng nhận việc cho tới khi anh bấm “Đã xong”.",
+    "en": "The {value} window for {alias} is open. The account will not accept jobs until you click “Done”."
+  },
+  {
+    "i": 923,
+    "key": "Muse cần anh tự xác minh tài khoản trong cửa sổ Muse. Em không vượt bước này.",
+    "en": "Muse requires you to verify your account in the Muse window. Muse4AI does not bypass this step."
+  },
+  {
+    "i": 924,
+    "key": "Phiên đăng nhập đã hết. Đăng nhập lại để tài khoản tiếp tục nhận việc.",
+    "en": "The sign-in session has expired. Sign in again so the account can resume accepting jobs."
+  },
+  {
+    "i": 925,
+    "key": "Tài khoản đang {toLowerCase}.",
+    "en": "The account is {toLowerCase}."
+  },
+  {
+    "i": 926,
+    "key": "Em không lưu mật khẩu hay mã xác nhận. Phiên đăng nhập nằm trong hồ sơ trình duyệt riêng của tài khoản trên máy này.",
+    "en": "Passwords and verification codes are not stored. The sign-in session is kept in the account's separate browser profile on this computer."
+  },
+  {
+    "i": 927,
+    "key": "Chưa tới",
+    "en": "Not reached yet"
+  },
+  {
+    "i": 928,
+    "key": "Đang chờ anh đăng nhập",
+    "en": "Waiting for you to sign in"
+  },
+  {
+    "i": 929,
+    "key": "Đã đăng nhập",
+    "en": "Signed in"
+  },
+  {
+    "i": 930,
+    "key": "Đã đăng nhập sẵn",
+    "en": "Already signed in"
+  },
+  {
+    "i": 931,
+    "key": "Bước này đã dừng",
+    "en": "This step has stopped"
+  },
+  {
+    "i": 932,
+    "key": "Chưa dùng được",
+    "en": "Not usable yet"
+  },
+  {
+    "i": 933,
+    "key": "Đăng nhập tài khoản {alias}",
+    "en": "Sign in to account {alias}"
+  },
+  {
+    "i": 934,
+    "key": "Huỷ",
+    "en": "Cancel"
+  },
+  {
+    "i": 935,
+    "key": "Đang kiểm tra phiên…",
+    "en": "Checking session…"
+  },
+  {
+    "i": 936,
+    "key": "Các bước đăng nhập",
+    "en": "Sign-in steps"
+  },
+  {
+    "i": 937,
+    "key": "Cùng hồ sơ và proxy {label}{value}",
+    "en": "Same profile and proxy {label}{value}"
+  },
+  {
+    "i": 938,
+    "key": "của tài khoản",
+    "en": "for the account"
+  },
+  {
+    "i": 939,
+    "key": "Em đã mở trang Muse trong cửa sổ riêng của {alias}, đi qua proxy của tài khoản này.",
+    "en": "Muse has been opened in a separate window for {alias}, using this account's proxy."
+  },
+  {
+    "i": 940,
+    "key": "Nhập email hoặc số điện thoại, rồi mã xác nhận Muse gửi về.",
+    "en": "Enter your email or phone number, then the verification code sent by Muse."
+  },
+  {
+    "i": 941,
+    "key": "Em tự nhận ra khi anh đăng nhập xong.",
+    "en": "Sign-in completion is detected automatically."
+  },
+  {
+    "i": 942,
+    "key": "App không điền mật khẩu hay mã xác minh",
+    "en": "The app does not enter passwords or verification codes"
+  },
+  {
+    "i": 943,
+    "key": "Anh luôn là người kiểm soát tài khoản của mình.",
+    "en": "You always stay in control of your account."
+  },
+  {
+    "i": 944,
+    "key": "Tự nhận ra khi anh đăng nhập xong",
+    "en": "Automatically detects when you finish signing in"
+  },
+  {
+    "i": 945,
+    "key": "Mỗi bước tối đa 15 phút.",
+    "en": "Each step has a 15-minute limit."
+  },
+  {
+    "i": 946,
+    "key": "Tên gọi",
+    "en": "Display name"
+  },
+  {
+    "i": 947,
+    "key": "Chỉ để anh nhận ra trong app — không phải tên đăng nhập Muse.",
+    "en": "Only used to identify the account in the app — not your Muse sign-in name."
+  },
+  {
+    "i": 948,
+    "key": "{freeCount} proxy chưa dùng · {usedCount} đang dùng (dùng chung được).",
+    "en": "{freeCount} unused {freeCount|proxy|proxies} · {usedCount} in use (sharing is allowed)."
+  },
+  {
+    "i": 949,
+    "key": "Mọi proxy khoẻ đều đang dùng — chọn một proxy để dùng chung, hoặc nhập thêm proxy.",
+    "en": "Every healthy proxy is in use — pick one to share, or add more proxies."
+  },
+  {
+    "i": 950,
+    "key": "Chưa có proxy khoẻ nào.",
+    "en": "No healthy proxies yet."
+  },
+  {
+    "i": 951,
+    "key": "Nhập thêm proxy",
+    "en": "Add more proxies"
+  },
+  {
+    "i": 952,
+    "key": "dùng chung với {names}",
+    "en": "shared with {names}"
+  },
+  {
+    "i": 953,
+    "key": "Proxy này đang dùng cho {names}. Dùng chung được, nhưng các tài khoản sẽ ra cùng một địa chỉ IP.",
+    "en": "This proxy is in use by {names}. Sharing works, but the accounts will go out through the same IP address."
+  },
+  {
+    "i": 954,
+    "key": "Đang dùng: {names}",
+    "en": "In use by {names}"
+  },
+  {
+    "i": 955,
+    "key": "Chưa ai dùng",
+    "en": "Not in use"
+  },
+  {
+    "i": 956,
+    "key": "Trang Muse mở thêm (Trung tâm tài khoản Meta, nút Kết nối của công cụ…) hiện trong cửa sổ riêng, cùng proxy của tài khoản.",
+    "en": "Pages Muse opens (Meta Accounts Center, a tool's Connect button…) show in their own window, through the same proxy as the account."
+  },
+  {
+    "i": 957,
+    "key": "Nhập proxy",
+    "en": "Enter proxy"
+  },
+  {
+    "i": 958,
+    "key": "Chọn proxy",
+    "en": "Select proxy"
+  },
+  {
+    "i": 959,
+    "key": "Tiếp tục đăng nhập",
+    "en": "Continue to sign in"
+  },
+  {
+    "i": 960,
+    "key": "Thêm tài khoản Muse",
+    "en": "Add Muse account"
+  },
+  {
+    "i": 961,
+    "key": "Lưu",
+    "en": "Save"
+  },
+  {
+    "i": 962,
+    "key": "Chưa đổi được proxy",
+    "en": "Cannot change proxy yet"
+  },
+  {
+    "i": 963,
+    "key": "Đã đổi proxy",
+    "en": "Proxy changed"
+  },
+  {
+    "i": 964,
+    "key": "Đổi proxy cho {alias}",
+    "en": "Change proxy for {alias}"
+  },
+  {
+    "i": 965,
+    "key": "Proxy đang dùng cho tài khoản khác vẫn chọn được (dùng chung). Nếu tài khoản đang làm việc, app ngừng gửi việc mới và chờ lượt đang chạy xong (tối đa 60 giây) rồi mới đổi.",
+    "en": "You can also pick a proxy another account uses (shared). If the account is working, the app stops sending new jobs and waits for the running job to finish (up to 60 seconds) before switching."
+  },
+  {
+    "i": 966,
+    "key": "Chưa có proxy nào.",
+    "en": "No proxies yet."
+  },
+  {
+    "i": 967,
+    "key": "chưa kiểm",
+    "en": "not checked"
+  },
+  {
+    "i": 968,
+    "key": "đang dùng",
+    "en": "in use"
+  },
+  {
+    "i": 969,
+    "key": "Đang chờ {alias} xong lượt đang chạy",
+    "en": "Waiting for {alias} to finish the running job"
+  },
+  {
+    "i": 970,
+    "key": "Không gửi việc mới trong lúc chờ · còn tối đa {left} giây…",
+    "en": "No new jobs will be sent while waiting · up to {left} {left|second|seconds} left…"
+  },
+  {
+    "i": 971,
+    "key": "Lượt đang tạo chưa xong",
+    "en": "The generating job is not done yet"
+  },
+  {
+    "i": 972,
+    "key": "Muse đã nhận các lượt này. Dừng chờ sẽ chuyển chúng sang “Cần anh xem” rồi đổi proxy.",
+    "en": "Muse has accepted these jobs. Stopping the wait will move them to “Needs review”, then change the proxy."
+  },
+  {
+    "i": 973,
+    "key": "Dừng chờ và đổi proxy",
+    "en": "Stop waiting and change proxy"
+  },
+  {
+    "i": 974,
+    "key": "Đã xoá {alias}",
+    "en": "Deleted {alias}"
+  },
+  {
+    "i": 975,
+    "key": "Xoá tài khoản {alias}?",
+    "en": "Delete account {alias}?"
+  },
+  {
+    "i": 976,
+    "key": "Lượt chưa gửi sẽ quay lại hàng chờ cho tài khoản khác. Hồ sơ trình duyệt và phiên đăng nhập của tài khoản này bị xoá khỏi máy; ảnh/video đã tải vẫn giữ trong thư viện.",
+    "en": "Unsent jobs will return to the queue for other accounts. This account's browser profile and sign-in session will be deleted from this computer; downloaded images/videos will remain in the library."
+  },
+  {
+    "i": 977,
+    "key": "Gõ “{alias}” để xác nhận",
+    "en": "Type “{alias}” to confirm"
+  },
+  {
+    "i": 978,
+    "key": "Tên chưa khớp",
+    "en": "Name does not match"
+  },
+  {
+    "i": 979,
+    "key": "Đang chờ {alias} xong lượt hiện tại",
+    "en": "Waiting for {alias} to finish the current job"
+  },
+  {
+    "i": 980,
+    "key": "Còn tối đa {left} giây…",
+    "en": "Up to {left} {left|second|seconds} left…"
+  },
+  {
+    "i": 981,
+    "key": "Muse đã nhận lượt này. Buộc dừng sẽ chuyển lượt sang “Cần anh xem” rồi xoá tài khoản.",
+    "en": "Muse has accepted this job. Forcing a stop will move it to “Needs review”, then delete the account."
+  },
+  {
+    "i": 982,
+    "key": "Buộc dừng và xoá",
+    "en": "Force stop and delete"
+  },
+  {
+    "i": 983,
+    "key": "Nháp",
+    "en": "Draft"
+  },
+  {
+    "i": 984,
+    "key": "Đang chạy",
+    "en": "Running"
+  },
+  {
+    "i": 985,
+    "key": "Tạm dừng",
+    "en": "Paused"
+  },
+  {
+    "i": 986,
+    "key": "Nhập danh sách prompt từ tệp .txt hoặc .csv, kiểm từng dòng rồi chạy đều trên các tài khoản",
+    "en": "Import a prompt list from a .txt or .csv file, check each row, then distribute jobs evenly across accounts"
+  },
+  {
+    "i": 987,
+    "key": "Lô mới",
+    "en": "New batch"
+  },
+  {
+    "i": 988,
+    "key": "Chưa có lô nào",
+    "en": "No batches yet"
+  },
+  {
+    "i": 989,
+    "key": "Một lô có thể chứa tới 1.000 lượt. Em chạy lần lượt, chia đều cho các tài khoản đang rảnh.",
+    "en": "A batch can contain up to 1,000 jobs. Jobs run in order, distributed evenly across available accounts."
+  },
+  {
+    "i": 990,
+    "key": "{total} lượt",
+    "en": "{total} {total|job|jobs}"
+  },
+  {
+    "i": 991,
+    "key": "· {failed} lỗi",
+    "en": "· {failed} {failed|error|errors}"
+  },
+  {
+    "i": 992,
+    "key": "· {review} cần xem",
+    "en": "· {review} need review"
+  },
+  {
+    "i": 993,
+    "key": "Xoá nháp",
+    "en": "Delete draft"
+  },
+  {
+    "i": 994,
+    "key": "Xoá lô nháp?",
+    "en": "Delete draft batch?"
+  },
+  {
+    "i": 995,
+    "key": "“{name}” chưa chạy lượt nào. Xoá sẽ không ảnh hưởng thư viện.",
+    "en": "“{name}” has not run any jobs. Deleting it will not affect the library."
+  },
+  {
+    "i": 996,
+    "key": "Về danh sách lô",
+    "en": "Back to batch list"
+  },
+  {
+    "i": 997,
+    "key": "{validCount} dòng hợp lệ · {errorCount} lỗi · {totalJobs} lượt sẽ chạy",
+    "en": "{validCount} valid {validCount|row|rows} · {errorCount} {errorCount|error|errors} · {totalJobs} {totalJobs|job|jobs} to run"
+  },
+  {
+    "i": 998,
+    "key": "Dán danh sách prompt hoặc kéo thả tệp .txt/.csv",
+    "en": "Paste a prompt list or drag and drop a .txt/.csv file"
+  },
+  {
+    "i": 999,
+    "key": "Lưu nháp",
+    "en": "Save draft"
+  },
+  {
+    "i": 1000,
+    "key": "Bắt đầu {totalJobs} lượt",
+    "en": "Start {totalJobs} {totalJobs|job|jobs}"
+  },
+  {
+    "i": 1001,
+    "key": "Lô nháp",
+    "en": "Draft batch"
+  },
+  {
+    "i": 1002,
+    "key": "Tên lô",
+    "en": "Batch name"
+  },
+  {
+    "i": 1003,
+    "key": "Ví dụ: Bộ ảnh cà phê tháng 10",
+    "en": "Example: October coffee images"
+  },
+  {
+    "i": 1004,
+    "key": "Mặc định cho các dòng",
+    "en": "Defaults for rows"
+  },
+  {
+    "i": 1005,
+    "key": "Loại",
+    "en": "Type"
+  },
+  {
+    "i": 1006,
+    "key": "Cách tạo",
+    "en": "Generation method"
+  },
+  {
+    "i": 1007,
+    "key": "Từ chữ",
+    "en": "From text"
+  },
+  {
+    "i": 1008,
+    "key": "Từ ảnh (cột reference)",
+    "en": "From image (reference column)"
+  },
+  {
+    "i": 1009,
+    "key": "Lặp mỗi dòng",
+    "en": "Repeat each row"
+  },
+  {
+    "i": 1010,
+    "key": "Lặp",
+    "en": "Repeat"
+  },
+  {
+    "i": 1011,
+    "key": "×{i}",
+    "en": "×{i}"
+  },
+  {
+    "i": 1012,
+    "key": "Tài khoản cho lô",
+    "en": "Accounts for batch"
+  },
+  {
+    "i": 1013,
+    "key": "Tự động",
+    "en": "Auto"
+  },
+  {
+    "i": 1014,
+    "key": "Đổi mặc định sẽ áp cho lần đọc danh sách tiếp theo. Tối đa {BATCH_MAX_JOBS} lượt mỗi lô.",
+    "en": "Changes to defaults apply the next time the list is read. Up to {BATCH_MAX_JOBS} {BATCH_MAX_JOBS|job|jobs} per batch."
+  },
+  {
+    "i": 1015,
+    "key": "Xem mẫu CSV",
+    "en": "View CSV sample"
+  },
+  {
+    "i": 1016,
+    "key": "Mỗi dòng một prompt.\nDòng bắt đầu bằng # là ghi chú.",
+    "en": "One prompt per line.\nLines starting with # are comments."
+  },
+  {
+    "i": 1017,
+    "key": "Có ký tự lạ — tệp có thể không phải UTF-8. Mở tệp trong Notepad, chọn Lưu thành → Mã hoá UTF-8 rồi thử lại.",
+    "en": "Unexpected characters — the file may not be UTF-8. Open it in Notepad, choose Save as → UTF-8 encoding, then try again."
+  },
+  {
+    "i": 1018,
+    "key": "Kiểm danh sách",
+    "en": "Check list"
+  },
+  {
+    "i": 1019,
+    "key": "Chọn tệp…",
+    "en": "Choose file…"
+  },
+  {
+    "i": 1020,
+    "key": "Bỏ các dòng lỗi",
+    "en": "Remove invalid rows"
+  },
+  {
+    "i": 1021,
+    "key": "Chưa có dòng nào",
+    "en": "No rows yet"
+  },
+  {
+    "i": 1022,
+    "key": "Dán danh sách bên trái rồi bấm “Kiểm danh sách”, hoặc kéo thả tệp .txt/.csv vào đây.",
+    "en": "Paste a list on the left and click “Check list”, or drag and drop a .txt/.csv file here."
+  },
+  {
+    "i": 1023,
+    "key": "Thả tệp .txt hoặc .csv",
+    "en": "Drop a .txt or .csv file"
+  },
+  {
+    "i": 1024,
+    "key": "Mẫu CSV",
+    "en": "CSV sample"
+  },
+  {
+    "i": 1025,
+    "key": "Dòng đầu là tiêu đề. Chỉ cột “prompt” bắt buộc; kind = image/video, mode = text/reference, reference = đường dẫn ảnh trên máy, repeat = 1–4.",
+    "en": "The first row is the header. Only the “prompt” column is required; kind = image/video, mode = text/reference, reference = local image path, repeat = 1–4."
+  },
+  {
+    "i": 1026,
+    "key": "Dòng",
+    "en": "Row"
+  },
+  {
+    "i": 1027,
+    "key": "(trống)",
+    "en": "(empty)"
+  },
+  {
+    "i": 1028,
+    "key": "Từ ảnh",
+    "en": "From image"
+  },
+  {
+    "i": 1029,
+    "key": "×{repeat}",
+    "en": "×{repeat}"
+  },
+  {
+    "i": 1030,
+    "key": "Bỏ dòng {line}",
+    "en": "Remove row {line}"
+  },
+  {
+    "i": 1031,
+    "key": "Cần xem",
+    "en": "Needs review"
+  },
+  {
+    "i": 1032,
+    "key": "Lỗi",
+    "en": "Failed"
+  },
+  {
+    "i": 1033,
+    "key": "Đang chờ",
+    "en": "Waiting"
+  },
+  {
+    "i": 1034,
+    "key": "{completed} xong · {running} đang chạy · {waiting} đang chờ{value}{value2}",
+    "en": "{completed} done · {running} running · {waiting} waiting{value}{value2}"
+  },
+  {
+    "i": 1035,
+    "key": " · {failed} lỗi",
+    "en": " · {failed} {failed|error|errors}"
+  },
+  {
+    "i": 1036,
+    "key": "Danh sách lô",
+    "en": "Batch list"
+  },
+  {
+    "i": 1037,
+    "key": "Huỷ phần còn lại",
+    "en": "Cancel remaining jobs"
+  },
+  {
+    "i": 1038,
+    "key": "Đã đưa các lượt lỗi vào hàng chờ",
+    "en": "Failed jobs added to the queue"
+  },
+  {
+    "i": 1039,
+    "key": "Thử lại lượt lỗi",
+    "en": "Retry failed jobs"
+  },
+  {
+    "i": 1040,
+    "key": "Mở thư mục",
+    "en": "Open folder"
+  },
+  {
+    "i": 1041,
+    "key": "Xuất CSV",
+    "en": "Export CSV"
+  },
+  {
+    "i": 1042,
+    "key": "Lô đã kết thúc. Kết quả nằm trong thư viện, nhóm theo tên lô.",
+    "en": "The batch has finished. Results are in the library, grouped by batch name."
+  },
+  {
+    "i": 1043,
+    "key": "Trạng thái",
+    "en": "Status"
+  },
+  {
+    "i": 1044,
+    "key": "Thời gian",
+    "en": "Duration"
+  },
+  {
+    "i": 1045,
+    "key": "Đang tải",
+    "en": "Loading"
+  },
+  {
+    "i": 1046,
+    "key": "Huỷ phần còn lại của lô?",
+    "en": "Cancel the rest of the batch?"
+  },
+  {
+    "i": 1047,
+    "key": "{waiting} lượt chưa chạy sẽ bị huỷ. Lượt đang tạo vẫn chạy tiếp cho tới khi xong.",
+    "en": "{waiting} {waiting|job|jobs} that have not started will be cancelled. Generating jobs will continue until done."
+  },
+  {
+    "i": 1048,
+    "key": "Hội thoại đang có lượt chưa xong — chờ lượt đó xong rồi hỏi tiếp",
+    "en": "This conversation has an unfinished job — wait for it to finish before asking a follow-up"
+  },
+  {
+    "i": 1049,
+    "key": "tệp",
+    "en": "file"
+  },
+  {
+    "i": 1050,
+    "key": "Tệp Muse trả về",
+    "en": "Files returned by Muse"
+  },
+  {
+    "i": 1051,
+    "key": "Không tìm thấy file",
+    "en": "File not found"
+  },
+  {
+    "i": 1052,
+    "key": "Hiện trong thư mục",
+    "en": "Show in folder"
+  },
+  {
+    "i": 1053,
+    "key": "Loại tệp này có thể chạy chương trình nên app chỉ mở thư mục chứa nó",
+    "en": "This file type can run programs, so the app only opens its containing folder"
+  },
+  {
+    "i": 1054,
+    "key": "Đã chép nội dung tệp",
+    "en": "File contents copied"
+  },
+  {
+    "i": 1055,
+    "key": "Chép",
+    "en": "Copy"
+  },
+  {
+    "i": 1056,
+    "key": "Đang đọc tệp",
+    "en": "Reading file"
+  },
+  {
+    "i": 1057,
+    "key": "Mở {url} (hỏi trước)",
+    "en": "Open {url} (ask first)"
+  },
+  {
+    "i": 1058,
+    "key": "Muse kèm một bảng tương tác — chỉ xem được trên trang Muse",
+    "en": "Muse included an interactive table — viewable only on the Muse website"
+  },
+  {
+    "i": 1059,
+    "key": "Khối mã {lang}",
+    "en": "{lang} code block"
+  },
+  {
+    "i": 1060,
+    "key": "Khối mã",
+    "en": "Code block"
+  },
+  {
+    "i": 1061,
+    "key": "Mở liên kết ngoài app?",
+    "en": "Open link outside the app?"
+  },
+  {
+    "i": 1062,
+    "key": "Liên kết này do Muse viết trong câu trả lời. App không kiểm nội dung trang đó.",
+    "en": "Muse included this link in its answer. The app does not check that page's contents."
+  },
+  {
+    "i": 1063,
+    "key": "Mở liên kết",
+    "en": "Open link"
+  },
+  {
+    "i": 1064,
+    "key": "Thu gọn",
+    "en": "Collapse"
+  },
+  {
+    "i": 1065,
+    "key": "Xem đầy đủ",
+    "en": "View full answer"
+  },
+  {
+    "i": 1066,
+    "key": "Câu trả lời dài hơn 1 MB — bản đầy đủ nằm trong tệp bên dưới.",
+    "en": "The answer is larger than 1 MB — the full version is in the file below."
+  },
+  {
+    "i": 1067,
+    "key": "Muse không viết câu trả lời nào.",
+    "en": "Muse did not provide an answer."
+  },
+  {
+    "i": 1068,
+    "key": "Muse trả nhiều tệp hơn giới hạn — app chỉ giữ 20 tệp đầu.",
+    "en": "Muse returned more files than allowed — the app kept only the first 20."
+  },
+  {
+    "i": 1069,
+    "key": "Hỏi tiếp",
+    "en": "Ask a follow-up"
+  },
+  {
+    "i": 1070,
+    "key": "Đã chép câu trả lời",
+    "en": "Answer copied"
+  },
+  {
+    "i": 1071,
+    "key": "Chép câu trả lời",
+    "en": "Copy answer"
+  },
+  {
+    "i": 1072,
+    "key": "“{name}” lớn hơn 20 MB",
+    "en": "“{name}” is larger than 20 MB"
+  },
+  {
+    "i": 1073,
+    "key": "Tệp dán",
+    "en": "Pasted file"
+  },
+  {
+    "i": 1074,
+    "key": "Không đính kèm được “{name}”",
+    "en": "Could not attach “{name}”"
+  },
+  {
+    "i": 1075,
+    "key": "Tối đa {CHAT_ATTACH_MAX} tệp cho một câu hỏi",
+    "en": "Up to {CHAT_ATTACH_MAX} {CHAT_ATTACH_MAX|file|files} per question"
+  },
+  {
+    "i": 1076,
+    "key": "Tổng tệp đính kèm vượt 50 MB",
+    "en": "Total attachments exceed 50 MB"
+  },
+  {
+    "i": 1077,
+    "key": "Tối đa {REF_MAX_PER_JOB} ảnh tham chiếu cho một lượt",
+    "en": "Up to {REF_MAX_PER_JOB} reference {REF_MAX_PER_JOB|image|images} per job"
+  },
+  {
+    "i": 1078,
+    "key": "Đã chuyển sang “Từ ảnh”",
+    "en": "Switched to “From image”"
+  },
+  {
+    "i": 1079,
+    "key": "Ảnh sẽ dùng làm tham chiếu cho lượt tiếp theo.",
+    "en": "The images will be used as references for the next job."
+  },
+  {
+    "i": 1080,
+    "key": "Trên {REF_SOFT_MAX} ảnh, Muse có thể bỏ sót ảnh",
+    "en": "With more than {REF_SOFT_MAX} {REF_SOFT_MAX|image|images}, Muse may miss some"
+  },
+  {
+    "i": 1081,
+    "key": "Thử thật: 10 ảnh vẫn đủ; 15 ảnh Muse chuyển sang ghép phẳng, không có tiếng.",
+    "en": "In testing: 10 images still worked; with 15, Muse switched to a flat collage with no sound."
+  },
+  {
+    "i": 1082,
+    "key": "Bỏ tệp {index}: {name}",
+    "en": "Remove file {index}: {name}"
+  },
+  {
+    "i": 1083,
+    "key": "Bỏ tệp",
+    "en": "Remove file"
+  },
+  {
+    "i": 1084,
+    "key": "Nhập câu hỏi trước khi gửi",
+    "en": "Enter a question before sending"
+  },
+  {
+    "i": 1085,
+    "key": "Nhập mô tả trước khi gửi",
+    "en": "Enter a description before sending"
+  },
+  {
+    "i": 1086,
+    "key": "Hỏi đáp chưa được kiểm trên phiên bản Muse hiện tại",
+    "en": "Chat has not been tested on the current version of Muse"
+  },
+  {
+    "i": 1087,
+    "key": "Thêm video MP4",
+    "en": "Add MP4 video"
+  },
+  {
+    "i": 1088,
+    "key": "Thêm ảnh tham chiếu",
+    "en": "Add reference image"
+  },
+  {
+    "i": 1089,
+    "key": "Chưa có tài khoản nào — thêm tài khoản để bắt đầu tạo",
+    "en": "No accounts yet — add an account to start generating"
+  },
+  {
+    "i": 1090,
+    "key": "Chưa có tài khoản sẵn sàng — lượt sẽ chờ trong hàng",
+    "en": "No accounts ready — the job will wait in the queue"
+  },
+  {
+    "i": 1091,
+    "key": "Mở Tài khoản",
+    "en": "Open Accounts"
+  },
+  {
+    "i": 1092,
+    "key": "Tiếp hội thoại{value}",
+    "en": "Continue conversation{value}"
+  },
+  {
+    "i": 1093,
+    "key": "Bỏ tiếp hội thoại, hỏi trong hội thoại mới",
+    "en": "Stop continuing this conversation and ask in a new one"
+  },
+  {
+    "i": 1094,
+    "key": "Hỏi trong hội thoại mới",
+    "en": "Ask in a new conversation"
+  },
+  {
+    "i": 1095,
+    "key": "{chatFilesCount}/{CHAT_ATTACH_MAX} tệp",
+    "en": "{chatFilesCount}/{CHAT_ATTACH_MAX} {chatFilesCount|file|files}"
+  },
+  {
+    "i": 1096,
+    "key": "Video tham chiếu {i}: {name}",
+    "en": "Reference video {i}: {name}"
+  },
+  {
+    "i": 1097,
+    "key": "Ảnh tham chiếu {i}: {name}",
+    "en": "Reference image {i}: {name}"
+  },
+  {
+    "i": 1098,
+    "key": "Bỏ ảnh tham chiếu {i}",
+    "en": "Remove reference image {i}"
+  },
+  {
+    "i": 1099,
+    "key": "Bỏ ảnh tham chiếu",
+    "en": "Remove reference image"
+  },
+  {
+    "i": 1100,
+    "key": "{referencesCount} ảnh tham chiếu",
+    "en": "{referencesCount} {referencesCount|reference image|reference images}"
+  },
+  {
+    "i": 1101,
+    "key": "{referencesCount} tệp tham chiếu",
+    "en": "{referencesCount} {referencesCount|reference file|reference files}"
+  },
+  {
+    "i": 1102,
+    "key": "Câu hỏi cho Muse",
+    "en": "Question for Muse"
+  },
+  {
+    "i": 1103,
+    "key": "Mô tả ảnh hoặc video",
+    "en": "Image or video description"
+  },
+  {
+    "i": 1104,
+    "key": "Hỏi tiếp trong hội thoại này…",
+    "en": "Ask a follow-up in this conversation…"
+  },
+  {
+    "i": 1105,
+    "key": "Hỏi Muse bất cứ điều gì, đính kèm tệp nếu cần…",
+    "en": "Ask Muse anything, attach files if needed…"
+  },
+  {
+    "i": 1106,
+    "key": "Muốn sửa video thế nào…",
+    "en": "Describe how to edit the video…"
+  },
+  {
+    "i": 1107,
+    "key": "Muốn sửa ảnh thế nào…",
+    "en": "Describe how to edit the image…"
+  },
+  {
+    "i": 1108,
+    "key": "Mô tả chuyển động cho ảnh…",
+    "en": "Describe motion for the image…"
+  },
+  {
+    "i": 1109,
+    "key": "Mô tả ảnh anh muốn tạo…",
+    "en": "Describe the image you want to create…"
+  },
+  {
+    "i": 1110,
+    "key": "Mô tả video anh muốn tạo…",
+    "en": "Describe the video you want to create…"
+  },
+  {
+    "i": 1111,
+    "key": "Đính kèm tệp (CSV, TXT, MD, JSON, PDF, ảnh, MP4)",
+    "en": "Attach files (CSV, TXT, MD, JSON, PDF, images, MP4)"
+  },
+  {
+    "i": 1112,
+    "key": "Thêm ảnh hoặc video tham chiếu",
+    "en": "Add reference image or video"
+  },
+  {
+    "i": 1113,
+    "key": "Hỏi đáp",
+    "en": "Chat"
+  },
+  {
+    "i": 1114,
+    "key": "Video từ chữ",
+    "en": "Video from text"
+  },
+  {
+    "i": 1115,
+    "key": "Từ ảnh (sửa ảnh)",
+    "en": "From image (edit image)"
+  },
+  {
+    "i": 1116,
+    "key": "Từ ảnh (ảnh → video)",
+    "en": "From image (image → video)"
+  },
+  {
+    "i": 1117,
+    "key": "Sửa video (MP4 → video)",
+    "en": "Edit video (MP4 → video)"
+  },
+  {
+    "i": 1118,
+    "key": "Sửa video",
+    "en": "Edit video"
+  },
+  {
+    "i": 1119,
+    "key": "Số lần lặp",
+    "en": "Repeat count"
+  },
+  {
+    "i": 1120,
+    "key": "×{i}{value}",
+    "en": "×{i}{value}"
+  },
+  {
+    "i": 1121,
+    "key": " — một lượt",
+    "en": " — one job"
+  },
+  {
+    "i": 1122,
+    "key": " — {i} lượt riêng",
+    "en": " — {i} separate {i|job|jobs}"
+  },
+  {
+    "i": 1123,
+    "key": "Số lượt tạo với cùng prompt",
+    "en": "Number of jobs using the same prompt"
+  },
+  {
+    "i": 1124,
+    "key": "Hội thoại chỉ chạy trên tài khoản đã tạo ra nó",
+    "en": "A conversation can only run on the account that created it"
+  },
+  {
+    "i": 1125,
+    "key": "Tài khoản của hội thoại",
+    "en": "Conversation account"
+  },
+  {
+    "i": 1126,
+    "key": "Ưu tiên tài khoản còn hạn mức, chia đều",
+    "en": "Prioritize accounts with remaining quota, distribute evenly"
+  },
+  {
+    "i": 1127,
+    "key": "{label} — lượt sẽ chờ tài khoản này",
+    "en": "{label} — the job will wait for this account"
+  },
+  {
+    "i": 1128,
+    "key": "Gửi — {blockReason}",
+    "en": "Send — {blockReason}"
+  },
+  {
+    "i": 1129,
+    "key": "Gửi (Enter)",
+    "en": "Send (Enter)"
+  },
+  {
+    "i": 1130,
+    "key": "Enter để gửi, Shift+Enter xuống dòng, Ctrl+V để dán tệp đính kèm.",
+    "en": "Enter to send, Shift+Enter for a new line, Ctrl+V to paste attachments."
+  },
+  {
+    "i": 1131,
+    "key": "Enter để gửi, Shift+Enter xuống dòng, Ctrl+V để dán ảnh tham chiếu.",
+    "en": "Enter to send, Shift+Enter for a new line, Ctrl+V to paste reference images."
+  },
+  {
+    "i": 1132,
+    "key": "{alias}: HTTP dùng được",
+    "en": "{alias}: HTTP is available"
+  },
+  {
+    "i": 1133,
+    "key": "{alias}: HTTP vẫn lỗi",
+    "en": "{alias}: HTTP is still failing"
+  },
+  {
+    "i": 1134,
+    "key": "Cách chạy của {alias}",
+    "en": "Execution method for {alias}"
+  },
+  {
+    "i": 1135,
+    "key": "Cách chạy",
+    "en": "Execution method"
+  },
+  {
+    "i": 1136,
+    "key": "Đổi cách chạy của {alias}",
+    "en": "Change execution method for {alias}"
+  },
+  {
+    "i": 1137,
+    "key": "Đổi cách chạy",
+    "en": "Change execution method"
+  },
+  {
+    "i": 1138,
+    "key": "Đang thử HTTP…",
+    "en": "Testing HTTP…"
+  },
+  {
+    "i": 1139,
+    "key": "Thử HTTP ngay",
+    "en": "Test HTTP now"
+  },
+  {
+    "i": 1140,
+    "key": "Đang làm {busy} trên tối đa {maxConcurrent} việc",
+    "en": "Running {busy} of up to {maxConcurrent} concurrent {maxConcurrent|job|jobs}"
+  },
+  {
+    "i": 1141,
+    "key": "Không nhận việc mới",
+    "en": "Not accepting new jobs"
+  },
+  {
+    "i": 1142,
+    "key": "Khuyên dùng",
+    "en": "Recommended"
+  },
+  {
+    "i": 1143,
+    "key": "Đã lưu cách chạy",
+    "en": "Execution method saved"
+  },
+  {
+    "i": 1144,
+    "key": "Cách chạy · {alias}",
+    "en": "Execution method · {alias}"
+  },
+  {
+    "i": 1145,
+    "key": "Tối đa việc cùng lúc",
+    "en": "Maximum concurrent jobs"
+  },
+  {
+    "i": 1146,
+    "key": "Nhập từ {min} đến {max}",
+    "en": "Enter a value from {min} to {max}"
+  },
+  {
+    "i": 1147,
+    "key": "Tính chung cho cả HTTP và giao diện",
+    "en": "Combined limit for HTTP and UI control"
+  },
+  {
+    "i": 1148,
+    "key": "Tối đa qua giao diện",
+    "en": "Maximum via UI control"
+  },
+  {
+    "i": 1149,
+    "key": "Mỗi việc dùng một trang Muse riêng · thiếu RAM thì chờ",
+    "en": "Each job uses a separate Muse page · waits if RAM is insufficient"
+  }
+]

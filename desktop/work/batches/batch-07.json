@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 1380,
+    "key": "{label} {ok}/{jobsCount} lượt",
+    "en": "{label} {ok}/{jobsCount} {jobsCount|job|jobs}"
+  },
+  {
+    "i": 1381,
+    "key": "{all} lượt · {value} đang chạy · {value2} đang chờ",
+    "en": "{all} {all|job|jobs} · {value} running · {value2} waiting"
+  },
+  {
+    "i": 1382,
+    "key": "Lọc theo trạng thái",
+    "en": "Filter by status"
+  },
+  {
+    "i": 1383,
+    "key": "Tìm prompt (Ctrl+F)",
+    "en": "Search prompt (Ctrl+F)"
+  },
+  {
+    "i": 1384,
+    "key": "Tìm prompt",
+    "en": "Search prompt"
+  },
+  {
+    "i": 1385,
+    "key": "Xoá tìm kiếm",
+    "en": "Clear search"
+  },
+  {
+    "i": 1386,
+    "key": "Chuỗi kéo dài đang chạy",
+    "en": "Running extend chains"
+  },
+  {
+    "i": 1387,
+    "key": "Chuỗi kéo dài · {activeChainsCount}",
+    "en": "Extend chains · {activeChainsCount}"
+  },
+  {
+    "i": 1388,
+    "key": "Xem cả {activeChainsCount} chuỗi",
+    "en": "View all {activeChainsCount} {activeChainsCount|chain|chains}"
+  },
+  {
+    "i": 1389,
+    "key": "Thao tác nhiều lượt",
+    "en": "Bulk job actions"
+  },
+  {
+    "i": 1390,
+    "key": "Huỷ ({canCancelCount})",
+    "en": "Cancel ({canCancelCount})"
+  },
+  {
+    "i": 1391,
+    "key": "Đã thử lại",
+    "en": "Retried"
+  },
+  {
+    "i": 1392,
+    "key": "Thử lại ({canRetryCount})",
+    "en": "Retry ({canRetryCount})"
+  },
+  {
+    "i": 1393,
+    "key": "Đã ưu tiên",
+    "en": "Prioritized"
+  },
+  {
+    "i": 1394,
+    "key": "Ưu tiên ({canPrioCount})",
+    "en": "Prioritize ({canPrioCount})"
+  },
+  {
+    "i": 1395,
+    "key": "Chọn tất cả lượt đang hiện",
+    "en": "Select all visible jobs"
+  },
+  {
+    "i": 1396,
+    "key": "Giờ",
+    "en": "Time"
+  },
+  {
+    "i": 1397,
+    "key": "Chưa có lượt nào",
+    "en": "No jobs yet"
+  },
+  {
+    "i": 1398,
+    "key": "Không có lượt nào ở trạng thái này",
+    "en": "No jobs with this status"
+  },
+  {
+    "i": 1399,
+    "key": "Gửi lượt đầu tiên ở Studio hoặc tạo một lô.",
+    "en": "Submit your first job in Studio or create a batch."
+  },
+  {
+    "i": 1400,
+    "key": "Xoá lọc",
+    "en": "Clear filters"
+  },
+  {
+    "i": 1401,
+    "key": "Huỷ {canCancelCount} lượt?",
+    "en": "Cancel {canCancelCount} {canCancelCount|job|jobs}?"
+  },
+  {
+    "i": 1402,
+    "key": "Các lượt chưa gửi sẽ không chạy nữa. Anh có thể thử lại sau trong mục Đã huỷ.",
+    "en": "Jobs not yet submitted will no longer run. You can retry them later under Cancelled."
+  },
+  {
+    "i": 1403,
+    "key": "Huỷ các lượt",
+    "en": "Cancel jobs"
+  },
+  {
+    "i": 1404,
+    "key": "Kéo dài · lần {step} · {prompt}",
+    "en": "Extend · step {step} · {prompt}"
+  },
+  {
+    "i": 1405,
+    "key": "Chọn lượt",
+    "en": "Select job"
+  },
+  {
+    "i": 1406,
+    "key": "có tham chiếu",
+    "en": "with reference"
+  },
+  {
+    "i": 1407,
+    "key": "{n} tệp",
+    "en": "{n} {n|file|files}"
+  },
+  {
+    "i": 1408,
+    "key": "Lượt này lỗi",
+    "en": "This job failed"
+  },
+  {
+    "i": 1409,
+    "key": "Cần anh xem lượt này",
+    "en": "This job needs review"
+  },
+  {
+    "i": 1410,
+    "key": "Gợi ý: {hint}",
+    "en": "Tip: {hint}"
+  },
+  {
+    "i": 1411,
+    "key": "{media} tệp + {docs} tài liệu",
+    "en": "{media} {media|file|files} + {docs} {docs|document|documents}"
+  },
+  {
+    "i": 1412,
+    "key": "Bấm để xem chi tiết",
+    "en": "Click to view details"
+  },
+  {
+    "i": 1413,
+    "key": "Hạn mức Muse của {alias}",
+    "en": "Muse quota for {alias}"
+  },
+  {
+    "i": 1414,
+    "key": "Hạn mức Muse",
+    "en": "Muse quota"
+  },
+  {
+    "i": 1415,
+    "key": "Đọc lại hạn mức của {alias}",
+    "en": "Refresh quota for {alias}"
+  },
+  {
+    "i": 1416,
+    "key": "Tuần",
+    "en": "Week"
+  },
+  {
+    "i": 1417,
+    "key": "Hạn mức tuần đã dùng {weeklyUsed} %",
+    "en": "Weekly quota used: {weeklyUsed} %"
+  },
+  {
+    "i": 1418,
+    "key": "Token bổ sung",
+    "en": "Additional tokens"
+  },
+  {
+    "i": 1419,
+    "key": "Chưa đọc hạn mức",
+    "en": "Quota not yet checked"
+  },
+  {
+    "i": 1420,
+    "key": "Đang đọc…",
+    "en": "Checking…"
+  },
+  {
+    "i": 1421,
+    "key": "Đọc ngay",
+    "en": "Check now"
+  },
+  {
+    "i": 1422,
+    "key": "cũ",
+    "en": "outdated"
+  },
+  {
+    "i": 1423,
+    "key": "lượt mới chuyển sang tài khoản khác",
+    "en": "new jobs switch to another account"
+  },
+  {
+    "i": 1424,
+    "key": "Muse báo hết hạn mức khi đang tạo",
+    "en": "Muse reported no quota remaining during generation"
+  },
+  {
+    "i": 1425,
+    "key": "Chạy việc",
+    "en": "Job execution"
+  },
+  {
+    "i": 1426,
+    "key": "Thông báo",
+    "en": "Notifications"
+  },
+  {
+    "i": 1427,
+    "key": "Bảo mật",
+    "en": "Security"
+  },
+  {
+    "i": 1428,
+    "key": "Chẩn đoán",
+    "en": "Diagnostics"
+  },
+  {
+    "i": 1429,
+    "key": "Giới thiệu",
+    "en": "About"
+  },
+  {
+    "i": 1430,
+    "key": "Mục cài đặt",
+    "en": "Settings sections"
+  },
+  {
+    "i": 1431,
+    "key": "Kính đầy đủ",
+    "en": "Full glass"
+  },
+  {
+    "i": 1432,
+    "key": "Kính nhẹ",
+    "en": "Light glass"
+  },
+  {
+    "i": 1433,
+    "key": "Nền đặc",
+    "en": "Solid"
+  },
+  {
+    "i": 1434,
+    "key": "Nền đặc (Windows đang tắt hiệu ứng trong suốt)",
+    "en": "Solid (Windows transparency effects are off)"
+  },
+  {
+    "i": 1435,
+    "key": "Ngôn ngữ",
+    "en": "Language"
+  },
+  {
+    "i": 1436,
+    "key": "Đổi là có hiệu lực ngay trên mọi màn, thông báo và menu khay; lưu cho lần mở sau.",
+    "en": "Changes apply immediately to all screens, notifications and the tray menu, and are saved for next time."
+  },
+  {
+    "i": 1437,
+    "key": "Ảnh và video tải về được lưu thẳng vào thư mục này, chia theo tháng và theo lô.",
+    "en": "Downloaded images and videos are saved directly to this folder, organized by month and batch."
+  },
+  {
+    "i": 1438,
+    "key": "Đã đổi thư mục thư viện",
+    "en": "Library folder changed"
+  },
+  {
+    "i": 1439,
+    "key": "Đổi thư mục",
+    "en": "Change folder"
+  },
+  {
+    "i": 1440,
+    "key": "Đổi thư mục chỉ áp dụng cho tệp mới; tệp cũ giữ nguyên chỗ. Còn trống {diskFreeBytes}.",
+    "en": "Changing the folder only affects new files; existing files stay where they are. {diskFreeBytes} free."
+  },
+  {
+    "i": 1441,
+    "key": "Hiển thị",
+    "en": "Appearance"
+  },
+  {
+    "i": 1442,
+    "key": "Đang dùng: {effective}",
+    "en": "Currently using: {effective}"
+  },
+  {
+    "i": 1443,
+    "key": "Chế độ kính",
+    "en": "Glass mode"
+  },
+  {
+    "i": 1444,
+    "key": "{value} Windows bật “Giảm chuyển động” thì avatar đứng yên.",
+    "en": "{value} The avatar stays still when “Reduce motion” is enabled in Windows."
+  },
+  {
+    "i": 1445,
+    "key": "Đang theo mặc định của máy: có GPU tăng tốc nên dùng Kính đầy đủ.",
+    "en": "Using the system default: GPU acceleration is available, so Full glass is used."
+  },
+  {
+    "i": 1446,
+    "key": "Đang theo mặc định của máy: không có GPU tăng tốc (như máy chủ ảo) nên dùng Kính nhẹ để cuộn mượt.",
+    "en": "Using the system default: no GPU acceleration (such as on a virtual server), so Light glass is used for smooth scrolling."
+  },
+  {
+    "i": 1447,
+    "key": "Windows tắt “Hiệu ứng trong suốt” thì luôn dùng Nền đặc; bật lại sẽ về lựa chọn này.",
+    "en": "Solid is always used when Windows “Transparency effects” are off; turning them back on restores this choice."
+  },
+  {
+    "i": 1448,
+    "key": "Khởi động",
+    "en": "Startup"
+  },
+  {
+    "i": 1449,
+    "key": "Mở Muse4AI khi đăng nhập Windows",
+    "en": "Open Muse4AI when signing in to Windows"
+  },
+  {
+    "i": 1450,
+    "key": "Mở thu nhỏ dưới khay, tiếp tục hàng chờ.",
+    "en": "Start minimized in the system tray and resume the queue."
+  },
+  {
+    "i": 1451,
+    "key": "Mở khi đăng nhập Windows",
+    "en": "Open when signing in to Windows"
+  },
+  {
+    "i": 1452,
+    "key": "Số việc chạy cùng lúc nằm ở Cài đặt › Chạy việc và trong thẻ từng tài khoản.",
+    "en": "Concurrent jobs can be set in Settings › Job execution and on each account card."
+  },
+  {
+    "i": 1453,
+    "key": "Số việc cùng lúc",
+    "en": "Concurrent jobs"
+  },
+  {
+    "i": 1454,
+    "key": "Mỗi tài khoản đặt riêng (1–20); trần toàn app 1–100",
+    "en": "Set per account (1–20); app-wide limit 1–100"
+  },
+  {
+    "i": 1455,
+    "key": "Mở Chạy việc",
+    "en": "Open Job execution"
+  },
+  {
+    "i": 1456,
+    "key": "Tự thử lại khi lỗi trước lúc gửi",
+    "en": "Automatically retry failures before submission"
+  },
+  {
+    "i": 1457,
+    "key": "Chỉ thử lại khi chắc chắn Muse chưa nhận lượt — không bao giờ gửi lại mù sau khi đã gửi.",
+    "en": "Retry only when Muse has definitely not received the job — never blindly resubmit after submission."
+  },
+  {
+    "i": 1458,
+    "key": "Số lần thử lại",
+    "en": "Retry count"
+  },
+  {
+    "i": 1459,
+    "key": "1 lần",
+    "en": "1 retry"
+  },
+  {
+    "i": 1460,
+    "key": "2 lần",
+    "en": "2 retries"
+  },
+  {
+    "i": 1461,
+    "key": "Thông báo Windows",
+    "en": "Windows notifications"
+  },
+  {
+    "i": 1462,
+    "key": "Lô xong, tài khoản cần đăng nhập lại hoặc xác minh, lượt cần anh xem, ổ đĩa sắp đầy.",
+    "en": "Batch completed, account needs sign-in or verification, job needs review, or disk space is low."
+  },
+  {
+    "i": 1463,
+    "key": "Hiện thông báo Windows",
+    "en": "Show Windows notifications"
+  },
+  {
+    "i": 1464,
+    "key": "Khi tắt, thông báo vẫn hiện trong app.",
+    "en": "When off, notifications still appear in the app."
+  },
+  {
+    "i": 1465,
+    "key": "Dữ liệu nằm trên máy này",
+    "en": "Data stays on this computer"
+  },
+  {
+    "i": 1466,
+    "key": "Không có máy chủ hay tài khoản Muse4AI nào cả.",
+    "en": "There are no Muse4AI servers or accounts."
+  },
+  {
+    "i": 1467,
+    "key": "Mật khẩu proxy được mã hoá bằng Windows (DPAPI), chỉ tài khoản Windows này đọc được.",
+    "en": "Proxy passwords are encrypted by Windows (DPAPI) and can only be read by this Windows account."
+  },
+  {
+    "i": 1468,
+    "key": "Phiên đăng nhập Muse nằm trong hồ sơ trình duyệt riêng của từng tài khoản; em không lưu mật khẩu hay mã xác nhận.",
+    "en": "Muse sign-in sessions are stored in each account's separate browser profile; Muse4AI does not store passwords or verification codes."
+  },
+  {
+    "i": 1469,
+    "key": "Mỗi tài khoản luôn đi qua proxy của nó. Proxy lỗi thì tài khoản dừng, không bao giờ tự đi mạng trực tiếp.",
+    "en": "Each account always uses its own proxy. If the proxy fails, the account stops and never automatically connects directly."
+  },
+  {
+    "i": 1470,
+    "key": "Nhật ký và gói chẩn đoán đã che IP, email, mật khẩu và cookie.",
+    "en": "IP addresses, emails, passwords and cookies are redacted in logs and diagnostic packages."
+  },
+  {
+    "i": 1471,
+    "key": "Khoá API cho agent chỉ được lưu dạng băm (không xem lại được) và thu hồi có hiệu lực ngay ở lần gọi kế tiếp.",
+    "en": "API keys for agents are stored only as hashes (they cannot be viewed again), and revocation takes effect on the next call."
+  },
+  {
+    "i": 1472,
+    "key": "Khi chia sẻ API qua Cloudflare, lời gọi và tệp tải về đi qua máy chủ Cloudflare; tắt API là dừng chia sẻ.",
+    "en": "When sharing the API through Cloudflare, calls and file downloads pass through Cloudflare servers; turning off the API stops sharing."
+  },
+  {
+    "i": 1473,
+    "key": "Mở thư mục dữ liệu",
+    "en": "Open data folder"
+  },
+  {
+    "i": 1474,
+    "key": "Lưu ý khi dùng Muse qua app",
+    "en": "Notice about using Muse through the app"
+  },
+  {
+    "i": 1475,
+    "key": "Muse4AI điều khiển trang web Muse thay anh — đây không phải cách kết nối chính thức. Muse có thể giới hạn hoặc khoá tài khoản; em dừng ngay khi gặp hạn mức, yêu cầu xác minh hoặc vùng không hỗ trợ và không tìm cách vượt. Nên dùng tài khoản phụ.",
+    "en": "Muse4AI controls the Muse website for you — this is not an official connection method. Muse may restrict or suspend accounts; Muse4AI stops immediately on quota limits, verification requests or unsupported regions and does not try to bypass them. Using a secondary account is recommended."
+  },
+  {
+    "i": 1476,
+    "key": "Gói chẩn đoán",
+    "en": "Diagnostic package"
+  },
+  {
+    "i": 1477,
+    "key": "Gồm nhật ký gần đây và tình trạng tài khoản/proxy, đã che thông tin nhạy cảm. Gửi cho người hỗ trợ khi cần.",
+    "en": "Includes recent logs and account/proxy status, with sensitive information redacted. Send it to support when needed."
+  },
+  {
+    "i": 1478,
+    "key": "Đã xuất gói chẩn đoán",
+    "en": "Diagnostic package exported"
+  },
+  {
+    "i": 1479,
+    "key": "Xuất gói chẩn đoán (.zip)",
+    "en": "Export diagnostic package (.zip)"
+  },
+  {
+    "i": 1480,
+    "key": "Tình trạng bộ máy",
+    "en": "Engine status"
+  },
+  {
+    "i": 1481,
+    "key": "Phiên bản",
+    "en": "Version"
+  },
+  {
+    "i": 1482,
+    "key": "Tăng tốc đồ hoạ",
+    "en": "Graphics acceleration"
+  },
+  {
+    "i": 1483,
+    "key": "Không (dùng Kính nhẹ)",
+    "en": "No (using Light glass)"
+  },
+  {
+    "i": 1484,
+    "key": "Hiệu ứng trong suốt",
+    "en": "Transparency effects"
+  },
+  {
+    "i": 1485,
+    "key": "Bật",
+    "en": "On"
+  },
+  {
+    "i": 1486,
+    "key": "Tắt",
+    "en": "Off"
+  },
+  {
+    "i": 1487,
+    "key": "Ổ đĩa thư viện",
+    "en": "Library drive"
+  },
+  {
+    "i": 1488,
+    "key": "Còn {diskFreeBytes}",
+    "en": "{diskFreeBytes} free"
+  },
+  {
+    "i": 1489,
+    "key": "Không đọc được",
+    "en": "Unable to read"
+  },
+  {
+    "i": 1490,
+    "key": "Muse đổi giao diện",
+    "en": "Muse interface changed"
+  },
+  {
+    "i": 1491,
+    "key": "Phiên bản {version} · bản cài thử nghiệm, chưa ký số",
+    "en": "Version {version} · unsigned test build"
+  },
+  {
+    "i": 1492,
+    "key": "Tạo ảnh và video qua Muse trên Windows: nhiều tài khoản, mỗi tài khoản đi qua proxy của nó, hàng chờ bền vững và thư viện trên máy.",
+    "en": "Generate images and videos through Muse on Windows: multiple accounts, each through its own proxy, a persistent queue and a local library."
+  },
+  {
+    "i": 1493,
+    "key": "Cài bản mới",
+    "en": "Install a new version"
+  },
+  {
+    "i": 1494,
+    "key": "Chưa có tự cập nhật. Dữ liệu, tài khoản và thư viện được giữ nguyên khi cài đè.",
+    "en": "Automatic updates are not available yet. Installing over the current version preserves your data, accounts and library."
+  },
+  {
+    "i": 1495,
+    "key": "Cách dễ nhất: chạy tệp Muse4AI-…-Setup-win-x64.exe mới và chọn English hoặc Tiếng Việt — bộ cài tự đóng Muse4AI nếu app đang mở. Bộ cài EXE dùng chung trình cài với gói ZIP nên cũng giữ dữ liệu và tự quay lại bản cũ nếu lỗi.",
+    "en": "Easiest: run the new Muse4AI-…-Setup-win-x64.exe and choose English or Vietnamese — setup closes Muse4AI for you if it is open. The EXE uses the same installer as the ZIP package, so it also keeps your data and rolls back to the old version if anything fails."
+  },
+  {
+    "i": 1496,
+    "key": "Hoặc cài từ gói ZIP:",
+    "en": "Or install from the ZIP package:"
+  },
+  {
+    "i": 1497,
+    "key": "Tải tệp Muse4AI-…-win-x64.zip mới và giải nén.",
+    "en": "Download the new Muse4AI-…-win-x64.zip file and extract it."
+  },
+  {
+    "i": 1498,
+    "key": "Thoát Muse4AI (chuột phải biểu tượng dưới khay → Thoát).",
+    "en": "Exit Muse4AI (right-click the tray icon → Exit)."
+  },
+  {
+    "i": 1499,
+    "key": "Mở PowerShell trong thư mục vừa giải nén và chạy lệnh dưới. Trình cài kiểm mã SHA-256 trước khi chép và tự quay lại bản cũ nếu lỗi.",
+    "en": "Open PowerShell in the extracted folder and run the command below. The installer verifies the SHA-256 hash before copying and automatically rolls back to the old version if it fails."
+  },
+  {
+    "i": 1500,
+    "key": "Chép lệnh",
+    "en": "Copy command"
+  },
+  {
+    "i": 1501,
+    "key": "Đã chép lệnh",
+    "en": "Command copied"
+  },
+  {
+    "i": 1502,
+    "key": "Mã nguồn mở và ghi công",
+    "en": "Open source and credits"
+  },
+  {
+    "i": 1503,
+    "key": "Phần làm việc với web Muse (nhận diện nút, gửi prompt, đính kèm ảnh, nhận kết quả, đọc hạn mức) dựa trên muse2api — © 2026 MUSE2API Authors và © 2026 www222fff, giấy phép MIT. Toàn văn giấy phép: tệp resources\\muse2api.txt trong thư mục cài.",
+    "en": "The Muse web integration (button detection, prompt submission, image attachments, result retrieval, quota checks) is based on muse2api — © 2026 MUSE2API Authors and © 2026 www222fff, MIT license. Full license text: resources\\muse2api.txt in the installation folder."
+  },
+  {
+    "i": 1504,
+    "key": "Mã tương thích Vibes cũ (không còn bật trong ứng dụng) dựa trên VibesAI-api — © 2026 vibes-api contributors, giấy phép MIT. Muse4AI không dùng phần tự đăng nhập của dự án này. Toàn văn giấy phép: tệp resources\\VibesAI-api.txt trong thư mục cài.",
+    "en": "Legacy Vibes compatibility code (no longer enabled in the app) is based on VibesAI-api — © 2026 vibes-api contributors, MIT license. Muse4AI does not use this project's automatic sign-in functionality. Full license text: resources\\VibesAI-api.txt in the installation folder."
+  },
+  {
+    "i": 1505,
+    "key": "Phông chữ Be Vietnam Pro và JetBrains Mono (SIL Open Font License).",
+    "en": "Be Vietnam Pro and JetBrains Mono fonts (SIL Open Font License)."
+  },
+  {
+    "i": 1506,
+    "key": "Bỏ qua {skipped} proxy đã có sẵn.",
+    "en": "Skipped {skipped} existing {skipped|proxy|proxies}."
+  },
+  {
+    "i": 1507,
+    "key": "Đã thêm {added} proxy",
+    "en": "Added {added} {added|proxy|proxies}"
+  },
+  {
+    "i": 1508,
+    "key": "{value}Em đang kiểm từng proxy…",
+    "en": "{value}Checking each proxy…"
+  },
+  {
+    "i": 1509,
+    "key": "Không có proxy mới",
+    "en": "No new proxies"
+  },
+  {
+    "i": 1510,
+    "key": "Danh sách trống.",
+    "en": "The list is empty."
+  },
+  {
+    "i": 1511,
+    "key": "Mỗi dòng một proxy (hoặc dán nguyên chuỗi cách nhau bằng dấu cách): host:port:user:pass hoặc http://user:pass@host:port. Mật khẩu được mã hoá trên máy.",
+    "en": "One proxy per line (or paste a space-separated list): host:port:user:pass or http://user:pass@host:port. Passwords are encrypted on this computer."
+  },
+  {
+    "i": 1512,
+    "key": "… và {errorsCount} mục lỗi khác",
+    "en": "… and {errorsCount} other failed {errorsCount|entry|entries}"
+  },
+  {
+    "i": 1513,
+    "key": "Thêm và kiểm",
+    "en": "Add and check"
+  },
+  {
+    "i": 1514,
+    "key": "{healthy} proxy khoẻ · {failed} lỗi",
+    "en": "{healthy} healthy {healthy|proxy|proxies} · {failed} failed"
+  },
+  {
+    "i": 1515,
+    "key": "Kiểm tất cả",
+    "en": "Check all"
+  },
+  {
+    "i": 1516,
+    "key": "{proxiesCount} proxy · {healthy} khoẻ · {itemsCount} đang gán",
+    "en": "{proxiesCount} {proxiesCount|proxy|proxies} · {healthy} healthy · {itemsCount} assigned"
+  },
+  {
+    "i": 1517,
+    "key": "Nên dùng mỗi tài khoản Muse một proxy riêng. Dùng chung được, nhưng các tài khoản sẽ ra cùng một địa chỉ IP.",
+    "en": "A separate proxy for each Muse account is best. Sharing works, but the accounts will go out through the same IP address."
+  },
+  {
+    "i": 1518,
+    "key": "Gỡ khỏi {n} tài khoản",
+    "en": "Unassign from {n} accounts"
+  },
+  {
+    "i": 1519,
+    "key": "Tên",
+    "en": "Name"
+  },
+  {
+    "i": 1520,
+    "key": "Địa chỉ",
+    "en": "Address"
+  },
+  {
+    "i": 1521,
+    "key": "Tình trạng",
+    "en": "Status"
+  },
+  {
+    "i": 1522,
+    "key": "Đường ra",
+    "en": "Exit IP"
+  },
+  {
+    "i": 1523,
+    "key": "Thao tác",
+    "en": "Actions"
+  },
+  {
+    "i": 1524,
+    "key": "có mật khẩu",
+    "en": "with password"
+  },
+  {
+    "i": 1525,
+    "key": "không mật khẩu",
+    "en": "no password"
+  },
+  {
+    "i": 1526,
+    "key": "Đang kiểm",
+    "en": "Checking"
+  },
+  {
+    "i": 1527,
+    "key": "Khoẻ",
+    "en": "Healthy"
+  },
+  {
+    "i": 1528,
+    "key": "Trống",
+    "en": "Unassigned"
+  },
+  {
+    "i": 1529,
+    "key": "Thao tác {label}",
+    "en": "Actions for {label}"
+  },
+  {
+    "i": 1530,
+    "key": "Kiểm lại",
+    "en": "Recheck"
+  },
+  {
+    "i": 1531,
+    "key": "Gỡ khỏi tài khoản",
+    "en": "Unassign from account"
+  },
+  {
+    "i": 1532,
+    "key": "Xoá proxy",
+    "en": "Delete proxy"
+  },
+  {
+    "i": 1533,
+    "key": "Gỡ khỏi tài khoản trước",
+    "en": "Unassign from account first"
+  },
+  {
+    "i": 1534,
+    "key": "Kiểm gần nhất {value}",
+    "en": "Last checked {value}"
+  },
+  {
+    "i": 1535,
+    "key": "Xoá proxy {label}?",
+    "en": "Delete proxy {label}?"
+  },
+  {
+    "i": 1536,
+    "key": "Mật khẩu của proxy này cũng bị xoá khỏi máy.",
+    "en": "This proxy's password will also be deleted from this computer."
+  },
+  {
+    "i": 1537,
+    "key": "Chỉ máy này",
+    "en": "This computer only"
+  },
+  {
+    "i": 1538,
+    "key": "Mạng riêng",
+    "en": "Private network"
+  },
+  {
+    "i": 1539,
+    "key": "Đường hầm tạm thời",
+    "en": "Quick tunnel"
+  },
+  {
+    "i": 1540,
+    "key": "Đường hầm có tên",
+    "en": "Named tunnel"
+  },
+  {
+    "i": 1541,
+    "key": "Tạo và huỷ",
+    "en": "Create and cancel"
+  },
+  {
+    "i": 1542,
+    "key": "Chỉ xem tình trạng",
+    "en": "View status only"
+  },
+  {
+    "i": 1543,
+    "key": "Đã chép",
+    "en": "Copied"
+  },
+  {
+    "i": 1544,
+    "key": "Không chép được — chọn chữ rồi bấm Ctrl+C",
+    "en": "Unable to copy — select the text and press Ctrl+C"
+  },
+  {
+    "i": 1545,
+    "key": "Cho máy khác gọi tới",
+    "en": "Allow calls from other computers"
+  },
+  {
+    "i": 1546,
+    "key": "Mặc định chỉ chương trình trên chính máy này gọi được. Khoá API vẫn luôn bắt buộc.",
+    "en": "By default, only programs on this computer can make calls. An API key is always required."
+  },
+  {
+    "i": 1547,
+    "key": "Mở API ra Internet?",
+    "en": "Expose the API to the Internet?"
+  },
+  {
+    "i": 1548,
+    "key": "Ai có khoá API đều tạo được ảnh/video bằng hạn mức Muse của anh, từ bất cứ đâu.",
+    "en": "Anyone with an API key can generate images/videos using your Muse quota, from anywhere."
+  },
+  {
+    "i": 1549,
+    "key": "Lời gọi đi qua máy chủ Cloudflare. App tải bộ kết nối cloudflared (≈ 55 MB, kiểm mã SHA-256) ở lần đầu và chạy ẩn; tắt API hoặc thoát app là dừng chia sẻ.",
+    "en": "Calls pass through Cloudflare servers. The app downloads the cloudflared connector (≈ 55 MB, SHA-256 verified) on first use and runs it in the background; turning off the API or exiting the app stops sharing."
+  },
+  {
+    "i": 1550,
+    "key": "Mở ra Internet",
+    "en": "Expose to the Internet"
+  },
+  {
+    "i": 1551,
+    "key": "Thôi",
+    "en": "Cancel"
+  },
+  {
+    "i": 1552,
+    "key": "mọi giao diện mạng, chỉ nhận mạng riêng",
+    "en": "all network interfaces, private networks only"
+  },
+  {
+    "i": 1553,
+    "key": "Cho Claude, Cursor, n8n hay agent của anh gửi lượt tạo ảnh/video vào hàng chờ của máy này — cùng luật như khi anh bấm trong Studio.",
+    "en": "Let Claude, Cursor, n8n or your agent submit image/video generation jobs to this computer's queue — under the same rules as submitting in Studio."
+  },
+  {
+    "i": 1554,
+    "key": "Bật API cho agent",
+    "en": "Enable API for agents"
+  },
+  {
+    "i": 1555,
+    "key": "Đang tắt",
+    "en": "Off"
+  },
+  {
+    "i": 1556,
+    "key": "Chưa chạy",
+    "en": "Not running"
+  },
+  {
+    "i": 1557,
+    "key": "Đã đổi sang cổng {suggestedPort}",
+    "en": "Switched to port {suggestedPort}"
+  },
+  {
+    "i": 1558,
+    "key": "Dùng cổng {suggestedPort}",
+    "en": "Use port {suggestedPort}"
+  },
+  {
+    "i": 1559,
+    "key": "Đang mở cổng",
+    "en": "Opening port"
+  },
+  {
+    "i": 1560,
+    "key": "Khi tắt, app không mở cổng mạng nào cho agent. Bật lên thì app chỉ nghe trên chính máy này cho tới khi anh chọn cho máy khác gọi tới.",
+    "en": "When off, the app opens no network ports for agents. When enabled, it listens only on this computer until you allow calls from other computers."
+  },
+  {
+    "i": 1561,
+    "key": "Nâng cao",
+    "en": "Advanced"
+  },
+  {
+    "i": 1562,
+    "key": "Đã đổi sang cổng {portNum}",
+    "en": "Switched to port {portNum}"
+  },
+  {
+    "i": 1563,
+    "key": "Cổng",
+    "en": "Port"
+  },
+  {
+    "i": 1564,
+    "key": "Đổi cổng",
+    "en": "Change port"
+  },
+  {
+    "i": 1565,
+    "key": "Trực tuyến",
+    "en": "Online"
+  },
+  {
+    "i": 1566,
+    "key": "Chép địa chỉ",
+    "en": "Copy address"
+  },
+  {
+    "i": 1567,
+    "key": "Đã dừng chia sẻ",
+    "en": "Sharing stopped"
+  },
+  {
+    "i": 1568,
+    "key": "Dừng chia sẻ",
+    "en": "Stop sharing"
+  },
+  {
+    "i": 1569,
+    "key": "Đang tải bộ kết nối… {progress}%",
+    "en": "Downloading connector… {progress}%"
+  },
+  {
+    "i": 1570,
+    "key": "Đang kiểm địa chỉ công khai…",
+    "en": "Checking public address…"
+  },
+  {
+    "i": 1571,
+    "key": "Mất kết nối, đang thử lại (lần {attempt}/5)…",
+    "en": "Connection lost, retrying (attempt {attempt}/5)…"
+  },
+  {
+    "i": 1572,
+    "key": "Đang kết nối tới Cloudflare…",
+    "en": "Connecting to Cloudflare…"
+  },
+  {
+    "i": 1573,
+    "key": "Chỉ chương trình chạy trên máy này (ví dụ Claude Code, n8n cài cùng máy) gọi được, qua địa chỉ {localUrl}.",
+    "en": "Only programs running on this computer (such as Claude Code or n8n installed locally) can make calls, using {localUrl}."
+  },
+  {
+    "i": 1574,
+    "key": "Máy trong mạng nội bộ hoặc Tailscale gọi được; địa chỉ từ Internet công cộng bị từ chối. Địa chỉ của máy này:",
+    "en": "Computers on the local network or Tailscale can make calls; public Internet addresses are rejected. This computer's addresses:"
+  },
+  {
+    "i": 1575,
+    "key": "Không thấy địa chỉ mạng riêng nào.",
+    "en": "No private network addresses found."
+  },
+  {
+    "i": 1576,
+    "key": "Nếu máy khác không gọi tới được, quản trị viên mở tường lửa Windows bằng lệnh PowerShell dưới (app không tự sửa tường lửa):",
+    "en": "If other computers cannot connect, an administrator can open Windows Firewall with the PowerShell command below (the app does not modify the firewall automatically):"
+  },
+  {
+    "i": 1577,
+    "key": "Chép lệnh mở tường lửa",
+    "en": "Copy firewall command"
+  },
+  {
+    "i": 1578,
+    "key": "Địa chỉ tạm thời đổi mỗi lần mở app và không cam kết chạy liên tục — khi chạy thật dùng Tên miền trỏ về máy (thẻ dưới) hoặc đường hầm có tên.",
+    "en": "The temporary address changes each time the app opens, with no uptime guarantee — for production, use a domain pointing to this computer (card below) or a named tunnel."
+  },
+  {
+    "i": 1579,
+    "key": "Đã lưu đường hầm riêng",
+    "en": "Custom tunnel saved"
+  },
+  {
+    "i": 1580,
+    "key": "Trong Cloudflare Zero Trust › Networks › Tunnels: tạo đường hầm kiểu Cloudflared, chép token; thêm Public Hostname là tên miền dưới đây với Service",
+    "en": "In Cloudflare Zero Trust › Networks › Tunnels: create a Cloudflared tunnel, copy the token; add a Public Hostname using the domain below with Service"
+  },
+  {
+    "i": 1581,
+    "key": "Tên miền",
+    "en": "Domain"
+  },
+  {
+    "i": 1582,
+    "key": "Ví dụ muse.tenmiencuaanh.com",
+    "en": "For example muse.yourdomain.com"
+  },
+  {
+    "i": 1583,
+    "key": "Token đường hầm",
+    "en": "Tunnel token"
+  },
+  {
+    "i": 1584,
+    "key": "Lưu mã hoá bằng Windows, không hiện lại",
+    "en": "Encrypted with Windows when saved; never shown again"
+  },
+  {
+    "i": 1585,
+    "key": "Đã lưu trong kho bí mật",
+    "en": "Saved in the secret store"
+  },
+  {
+    "i": 1586,
+    "key": "Đã xoá token",
+    "en": "Token deleted"
+  },
+  {
+    "i": 1587,
+    "key": "Xoá",
+    "en": "Delete"
+  },
+  {
+    "i": 1588,
+    "key": "Lưu và kết nối",
+    "en": "Save and connect"
+  },
+  {
+    "i": 1589,
+    "key": "Khoá API",
+    "en": "API keys"
+  },
+  {
+    "i": 1590,
+    "key": "Mỗi agent một khoá. Khoá chỉ hiện một lần lúc tạo; app chỉ giữ bản băm. Thu hồi là chặn ngay lần gọi kế tiếp.",
+    "en": "One key per agent. The key is shown only once when created; the app stores only its hash. Revoking it blocks the very next call."
+  },
+  {
+    "i": 1591,
+    "key": "Đã đủ {API_KEY_MAX_ACTIVE} khoá — thu hồi bớt khoá cũ",
+    "en": "Limit of {API_KEY_MAX_ACTIVE} {API_KEY_MAX_ACTIVE|key|keys} reached — revoke old keys"
+  },
+  {
+    "i": 1592,
+    "key": "Tạo khoá",
+    "en": "Create key"
+  },
+  {
+    "i": 1593,
+    "key": "Đã đủ {API_KEY_MAX_ACTIVE} khoá còn hiệu lực — thu hồi bớt khoá cũ để tạo khoá mới.",
+    "en": "Limit of {API_KEY_MAX_ACTIVE} active {API_KEY_MAX_ACTIVE|key|keys} reached — revoke old keys to create a new one."
+  },
+  {
+    "i": 1594,
+    "key": "Chưa có khoá nào.",
+    "en": "No keys yet."
+  },
+  {
+    "i": 1595,
+    "key": "Quyền",
+    "en": "Scopes"
+  },
+  {
+    "i": 1596,
+    "key": "Dùng gần nhất",
+    "en": "Last used"
+  },
+  {
+    "i": 1597,
+    "key": "Chưa dùng",
+    "en": "Never used"
+  },
+  {
+    "i": 1598,
+    "key": "Thu hồi",
+    "en": "Revoke"
+  },
+  {
+    "i": 1599,
+    "key": "Đã thu hồi: {value}",
+    "en": "Revoked: {value}"
+  },
+  {
+    "i": 1600,
+    "key": "Thu hồi khoá “{name}”?",
+    "en": "Revoke key “{name}”?"
+  },
+  {
+    "i": 1601,
+    "key": "Agent dùng khoá này bị từ chối ngay ở lần gọi kế tiếp. Lượt đã gửi vẫn chạy tiếp trong hàng chờ. Không hoàn tác được.",
+    "en": "Agents using this key will be denied on their next call. Submitted jobs will continue in the queue. This cannot be undone."
+  },
+  {
+    "i": 1602,
+    "key": "Đã thu hồi “{name}”",
+    "en": "Revoked “{name}”"
+  },
+  {
+    "i": 1603,
+    "key": "Khoá “{name}” đã tạo",
+    "en": "Key “{name}” created"
+  },
+  {
+    "i": 1604,
+    "key": "Đã chép, đóng",
+    "en": "Copied, close"
+  },
+  {
+    "i": 1605,
+    "key": "Kiểm ngay chạy được khi có tài khoản rảnh",
+    "en": "Check now works when an account is free"
+  },
+  {
+    "i": 1606,
+    "key": "Chép khoá ngay — đóng hộp thoại này là không xem lại được. Quyền: {value}.",
+    "en": "Copy the key now — you cannot view it again after closing this dialog. Scopes: {value}."
+  },
+  {
+    "i": 1607,
+    "key": "Chép khoá API",
+    "en": "Copy API key"
+  },
+  {
+    "i": 1608,
+    "key": "Tạo khoá API",
+    "en": "Create API key"
+  },
+  {
+    "i": 1609,
+    "key": "Tên khoá",
+    "en": "Key name"
+  }
+]

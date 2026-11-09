@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 460,
+    "key": "Không có dòng hợp lệ để chạy",
+    "en": "No valid rows to run"
+  },
+  {
+    "i": 461,
+    "key": "Dòng {line}: chế độ chưa hỗ trợ",
+    "en": "Row {line}: unsupported mode"
+  },
+  {
+    "i": 462,
+    "key": "Dòng {line}: không đọc được ảnh tham chiếu",
+    "en": "Row {line}: cannot read the reference image"
+  },
+  {
+    "i": 463,
+    "key": "Lô không chạy",
+    "en": "The batch is not running"
+  },
+  {
+    "i": 464,
+    "key": "Lô không tạm dừng",
+    "en": "The batch is not paused"
+  },
+  {
+    "i": 465,
+    "key": "Lô không còn lượt chờ",
+    "en": "The batch has no waiting jobs left"
+  },
+  {
+    "i": 466,
+    "key": "Không có lượt lỗi nào thử lại được",
+    "en": "No failed jobs can be retried"
+  },
+  {
+    "i": 467,
+    "key": "Chỉ xoá được lô nháp",
+    "en": "Only draft batches can be deleted"
+  },
+  {
+    "i": 468,
+    "key": "Chưa có proxy khoẻ nào trống — nhập proxy trước",
+    "en": "No healthy proxy is available — add a proxy first"
+  },
+  {
+    "i": 469,
+    "key": "Proxy chưa được kiểm hoặc đang lỗi",
+    "en": "The proxy is untested or failing"
+  },
+  {
+    "i": 470,
+    "key": "Proxy đang dùng cho {alias}",
+    "en": "The proxy is in use by {alias}"
+  },
+  {
+    "i": 471,
+    "key": "tài khoản khác",
+    "en": "another account"
+  },
+  {
+    "i": 472,
+    "key": "Cách chạy không hợp lệ",
+    "en": "Invalid run mode"
+  },
+  {
+    "i": 473,
+    "key": "Tối đa việc cùng lúc phải từ {min} đến {max}",
+    "en": "Maximum concurrent jobs must be between {min} and {max}"
+  },
+  {
+    "i": 474,
+    "key": "Tối đa qua giao diện phải từ {min} đến {max}",
+    "en": "Maximum concurrent UI jobs must be between {min} and {max}"
+  },
+  {
+    "i": 475,
+    "key": "Bản này không có kênh trực tiếp",
+    "en": "This version has no direct channel"
+  },
+  {
+    "i": 476,
+    "key": "Tài khoản đang chọn chỉ chạy giao diện",
+    "en": "The selected account only supports the UI path"
+  },
+  {
+    "i": 477,
+    "key": "Không thử khi tài khoản {toLowerCase}",
+    "en": "Cannot test while the account is {toLowerCase}"
+  },
+  {
+    "i": 478,
+    "key": "Không còn proxy này",
+    "en": "This proxy is no longer available"
+  },
+  {
+    "i": 479,
+    "key": "Tài khoản đang đăng nhập, được điều khiển hoặc đang kiểm — thử lại sau",
+    "en": "The account is signing in, under UI control, or being checked — try again later"
+  },
+  {
+    "i": 480,
+    "key": "Đã đổi proxy khi lượt đang chạy — mở Muse để xem kết quả",
+    "en": "The proxy changed while the job was running — open Muse to check the result"
+  },
+  {
+    "i": 481,
+    "key": "Tài khoản đang bận — thử lại khi rảnh",
+    "en": "The account is busy — try again when it is idle"
+  },
+  {
+    "i": 482,
+    "key": "Tài khoản đang làm việc",
+    "en": "The account is working"
+  },
+  {
+    "i": 483,
+    "key": "Vibes đang tắt cho tài khoản này — bật lại trong ⋯",
+    "en": "Vibes is disabled for this account — enable it in ⋯"
+  },
+  {
+    "i": 484,
+    "key": "Bước đăng nhập Muse đã dừng sau 15 phút",
+    "en": "Muse sign-in stopped after 15 minutes"
+  },
+  {
+    "i": 485,
+    "key": "Bước đăng nhập Vibes đã dừng sau 15 phút",
+    "en": "Vibes sign-in stopped after 15 minutes"
+  },
+  {
+    "i": 486,
+    "key": "Tài khoản đang chạy một lượt Vibes — chờ xong rồi tắt",
+    "en": "The account is running a Vibes job — wait for it to finish before disabling"
+  },
+  {
+    "i": 487,
+    "key": "Tài khoản đang đăng nhập — xong rồi tắt",
+    "en": "The account is signing in — wait for it to finish before disabling"
+  },
+  {
+    "i": 488,
+    "key": "Không có tài khoản Vibes mới để chọn",
+    "en": "No new Vibes account to select"
+  },
+  {
+    "i": 489,
+    "key": "Kiểm phiên Vibes lại trước",
+    "en": "Recheck the Vibes session first"
+  },
+  {
+    "i": 490,
+    "key": "Sẽ chuyển sang điều khiển khi xong lượt hiện tại",
+    "en": "Will switch to UI control when the current job finishes"
+  },
+  {
+    "i": 491,
+    "key": "Tài khoản đang bận",
+    "en": "The account is busy"
+  },
+  {
+    "i": 492,
+    "key": "Anh đã dừng giữa chừng để điều khiển",
+    "en": "You stopped the job midway to take control"
+  },
+  {
+    "i": 493,
+    "key": "Không đọc được hạn mức của Muse",
+    "en": "Could not read Muse quota"
+  },
+  {
+    "i": 494,
+    "key": "Không kiểm được IP: proxy của tài khoản này không kết nối được",
+    "en": "Cannot check IP: this account’s proxy cannot connect"
+  },
+  {
+    "i": 495,
+    "key": "Tài khoản bị xoá khi lượt đang chạy",
+    "en": "The account was deleted while the job was running"
+  },
+  {
+    "i": 496,
+    "key": "Không còn tài khoản này",
+    "en": "This account is no longer available"
+  },
+  {
+    "i": 497,
+    "key": "Dòng không hợp lệ",
+    "en": "Invalid row"
+  },
+  {
+    "i": 498,
+    "key": "Không kết nối được",
+    "en": "Could not connect"
+  },
+  {
+    "i": 499,
+    "key": "Proxy đang dùng cho {alias} khi tài khoản đang chạy",
+    "en": "The proxy is in use by {alias} while the account is running"
+  },
+  {
+    "i": 500,
+    "key": "Dữ liệu cục bộ bị hỏng ({message})",
+    "en": "Local data is corrupted ({message})"
+  },
+  {
+    "i": 501,
+    "key": "Dữ liệu cục bộ bị hỏng (quick_check)",
+    "en": "Local data is corrupted (quick_check)"
+  },
+  {
+    "i": 502,
+    "key": "Dữ liệu thuộc phiên bản mới hơn (v{current}) so với app (v{target})",
+    "en": "The data version (v{current}) is newer than the app version (v{target})"
+  },
+  {
+    "i": 503,
+    "key": "Thiếu bước nâng dữ liệu v{v}",
+    "en": "Missing data migration step v{v}"
+  },
+  {
+    "i": 504,
+    "key": "Nâng dữ liệu lỗi: {message}",
+    "en": "Data migration failed: {message}"
+  },
+  {
+    "i": 505,
+    "key": "Muse không nhận tệp đính kèm: {message}",
+    "en": "Muse did not accept the attachment: {message}"
+  },
+  {
+    "i": 506,
+    "key": "Không tìm thấy hội thoại để hỏi tiếp",
+    "en": "Conversation not found for follow-up"
+  },
+  {
+    "i": 507,
+    "key": "Muse từ chối lượt gửi (HTTP {status})",
+    "en": "Muse rejected the submission (HTTP {status})"
+  },
+  {
+    "i": 508,
+    "key": "Muse từ chối lượt gửi: {msg}",
+    "en": "Muse rejected the submission: {msg}"
+  },
+  {
+    "i": 509,
+    "key": "Tệp đính kèm không còn trên máy",
+    "en": "The attachment is no longer on this computer"
+  },
+  {
+    "i": 510,
+    "key": "Ảnh lớn hơn mức kênh trực tiếp gửi được",
+    "en": "The image exceeds the direct channel’s upload limit"
+  },
+  {
+    "i": 511,
+    "key": "Hội thoại có tin khác với lời nhắn đã gửi — cần anh xem",
+    "en": "The conversation contains a message that differs from the one sent — needs review"
+  },
+  {
+    "i": 512,
+    "key": "Chưa xác minh được Muse đã nhận lượt này — kênh trực tiếp lỗi",
+    "en": "Could not verify that Muse received this job — direct channel failed"
+  },
+  {
+    "i": 513,
+    "key": "Chưa lấy được kết quả — kênh trực tiếp lỗi",
+    "en": "Could not retrieve the result — direct channel failed"
+  },
+  {
+    "i": 514,
+    "key": "Muse chưa xong sau {timeout} phút",
+    "en": "Muse has not finished after {timeout} {timeout|minute|minutes}"
+  },
+  {
+    "i": 515,
+    "key": "Tệp Muse trả không hợp lệ: {message}",
+    "en": "The file returned by Muse is invalid: {message}"
+  },
+  {
+    "i": 516,
+    "key": "Muse gặp lỗi kỹ thuật, chưa tạo được tệp{value}",
+    "en": "Muse encountered a technical issue and could not generate the file{value}"
+  },
+  {
+    "i": 517,
+    "key": "Muse báo đã tạo tệp nhưng lượt không có tệp nào",
+    "en": "Muse reported generating a file, but the job has no files"
+  },
+  {
+    "i": 518,
+    "key": "Tệp thiếu byte ({dataCount}/{byteLen})",
+    "en": "The file is missing bytes ({dataCount}/{byteLen})"
+  },
+  {
+    "i": 519,
+    "key": "Tải tệp qua kênh trực tiếp lỗi {delaysCount} lần: {last}",
+    "en": "File download through the direct channel failed {delaysCount} {delaysCount|time|times}: {last}"
+  },
+  {
+    "i": 520,
+    "key": "API cho agent chưa sẵn sàng",
+    "en": "The agent API is not ready"
+  },
+  {
+    "i": 521,
+    "key": "Lệnh không hợp lệ",
+    "en": "Invalid command"
+  },
+  {
+    "i": 522,
+    "key": "Dữ liệu gửi lên không hợp lệ",
+    "en": "Invalid submitted data"
+  },
+  {
+    "i": 523,
+    "key": "Có lỗi không mong muốn, anh thử lại giúp em",
+    "en": "An unexpected error occurred, please try again"
+  },
+  {
+    "i": 524,
+    "key": "Chỉ mở được liên kết http hoặc https",
+    "en": "Only http or https links can be opened"
+  },
+  {
+    "i": 525,
+    "key": "Tệp lớn hơn 5 MB",
+    "en": "The file is larger than 5 MB"
+  },
+  {
+    "i": 526,
+    "key": "Ảnh dán",
+    "en": "Pasted image"
+  },
+  {
+    "i": 527,
+    "key": "Tệp lớn hơn 1 MB",
+    "en": "The file is larger than 1 MB"
+  },
+  {
+    "i": 528,
+    "key": "Loại tệp này có thể chạy chương trình nên app không mở — bấm “Mở thư mục” để xem",
+    "en": "This file type can run programs, so the app will not open it — click “Open folder” to view it"
+  },
+  {
+    "i": 529,
+    "key": "Windows không mở được tệp này",
+    "en": "Windows could not open this file"
+  },
+  {
+    "i": 530,
+    "key": "Giá trị cài đặt không hợp lệ",
+    "en": "Invalid setting value"
+  },
+  {
+    "i": 531,
+    "key": "Số trang giao diện không được lớn hơn tổng việc cùng lúc",
+    "en": "The number of UI pages cannot exceed the total concurrent jobs"
+  },
+  {
+    "i": 532,
+    "key": "Không ghi được vào thư mục này — chọn thư mục khác",
+    "en": "Cannot write to this folder — choose another folder"
+  },
+  {
+    "i": 533,
+    "key": "API đang tắt",
+    "en": "The API is disabled"
+  },
+  {
+    "i": 534,
+    "key": "Muse4AI — tạo ảnh và video qua Muse",
+    "en": "Muse4AI — generate images and videos through Muse"
+  },
+  {
+    "i": 535,
+    "key": "Muse4AI không khởi động được",
+    "en": "Muse4AI could not start"
+  },
+  {
+    "i": 536,
+    "key": "Không được phép",
+    "en": "Not allowed"
+  },
+  {
+    "i": 537,
+    "key": "Không tìm thấy bản sao lưu nào dùng được.",
+    "en": "No usable backups found."
+  },
+  {
+    "i": 538,
+    "key": "Muse4AI — khôi phục dữ liệu",
+    "en": "Muse4AI — data recovery"
+  },
+  {
+    "i": 539,
+    "key": "Dữ liệu cục bộ bị hỏng nên app chưa mở được.",
+    "en": "Local data is corrupted, so the app cannot open."
+  },
+  {
+    "i": 540,
+    "key": "Em có thể khôi phục từ bản sao lưu tự động lúc {when}. Hàng chờ, tài khoản và cài đặt thay đổi sau thời điểm đó sẽ không còn; ảnh/video trong thư viện không bị ảnh hưởng. Tệp hỏng được giữ lại bên cạnh để chẩn đoán.",
+    "en": "You can restore the automatic backup from {when}. Queue, account and settings changes made after that time will be lost; Library images/videos will not be affected. The corrupted file is kept alongside it for diagnostics."
+  },
+  {
+    "i": 541,
+    "key": "Khôi phục bản sao lưu",
+    "en": "Restore backup"
+  },
+  {
+    "i": 542,
+    "key": "Thoát",
+    "en": "Exit"
+  },
+  {
+    "i": 543,
+    "key": "Anh đã chọn chưa khôi phục.",
+    "en": "You chose not to restore."
+  },
+  {
+    "i": 544,
+    "key": "Dữ liệu cũ đã được khôi phục nguyên vẹn.",
+    "en": "Your previous data has been fully restored."
+  },
+  {
+    "i": 545,
+    "key": "Không mở được dữ liệu Muse4AI",
+    "en": "Cannot open Muse4AI data"
+  },
+  {
+    "i": 546,
+    "key": "Thư mục dữ liệu: {dir}",
+    "en": "Data folder: {dir}"
+  },
+  {
+    "i": 547,
+    "key": "Không kết nối được tới proxy",
+    "en": "Cannot connect to proxy"
+  },
+  {
+    "i": 548,
+    "key": "Muse4AI vẫn đang chạy",
+    "en": "Muse4AI is still running"
+  },
+  {
+    "i": 549,
+    "key": "Các lượt tạo tiếp tục dưới khay hệ thống. Nhấn biểu tượng ở khay để mở lại.",
+    "en": "Generation jobs continue in the system tray. Click the tray icon to reopen."
+  },
+  {
+    "i": 550,
+    "key": "Muse4AI — {n} lượt đang chờ/chạy",
+    "en": "Muse4AI — {n} {n|job|jobs} waiting/running"
+  },
+  {
+    "i": 551,
+    "key": "Mở Muse4AI",
+    "en": "Open Muse4AI"
+  },
+  {
+    "i": 552,
+    "key": "Tạm dừng mọi lô",
+    "en": "Pause all batches"
+  },
+  {
+    "i": 553,
+    "key": "Danh sách prompt",
+    "en": "Prompt list"
+  },
+  {
+    "i": 554,
+    "key": "Ảnh",
+    "en": "Image"
+  },
+  {
+    "i": 555,
+    "key": "Tệp đính kèm",
+    "en": "Attachments"
+  },
+  {
+    "i": 556,
+    "key": "Danh sách proxy",
+    "en": "Proxy list"
+  },
+  {
+    "i": 557,
+    "key": "Tệp tải về rỗng",
+    "en": "Downloaded file is empty"
+  },
+  {
+    "i": 558,
+    "key": "Tệp tải về không phải ảnh/video hợp lệ",
+    "en": "Downloaded file is not a valid image/video"
+  },
+  {
+    "i": 559,
+    "key": "Muse trả về video thay vì ảnh",
+    "en": "Muse returned a video instead of an image"
+  },
+  {
+    "i": 560,
+    "key": "Không giải mã được tệp: {message}",
+    "en": "Cannot decode file: {message}"
+  },
+  {
+    "i": 561,
+    "key": "Tệp không có kích thước/độ dài hợp lệ",
+    "en": "File has invalid dimensions/duration"
+  },
+  {
+    "i": 562,
+    "key": "Tệp thiếu byte ({bytesCount}/{declaredBytes})",
+    "en": "File is missing bytes ({bytesCount}/{declaredBytes})"
+  },
+  {
+    "i": 563,
+    "key": "Không giải mã được tệp tham chiếu",
+    "en": "Cannot decode reference file"
+  },
+  {
+    "i": 564,
+    "key": "Không tìm thấy tệp tham chiếu",
+    "en": "Reference file not found"
+  },
+  {
+    "i": 565,
+    "key": "Đây không phải tệp media",
+    "en": "This is not a media file"
+  },
+  {
+    "i": 566,
+    "key": "Tệp đính kèm lớn hơn 20 MB",
+    "en": "Attachment exceeds 20 MB"
+  },
+  {
+    "i": 567,
+    "key": "Không tìm thấy tệp",
+    "en": "File not found"
+  },
+  {
+    "i": 568,
+    "key": "Đây không phải tệp",
+    "en": "This is not a file"
+  },
+  {
+    "i": 569,
+    "key": "Không còn tệp này",
+    "en": "This file no longer exists"
+  },
+  {
+    "i": 570,
+    "key": "Tệp này không xem trước được — mở bằng ứng dụng khác",
+    "en": "This file cannot be previewed — open it in another app"
+  },
+  {
+    "i": 571,
+    "key": "Dòng {line}: {message}",
+    "en": "Line {line}: {message}"
+  },
+  {
+    "i": 572,
+    "key": "Chọn ít nhất 1 ảnh còn trên máy",
+    "en": "Select at least 1 image still on this computer"
+  },
+  {
+    "i": 573,
+    "key": "Ảnh thành video {now}",
+    "en": "Image to video {now}"
+  },
+  {
+    "i": 574,
+    "key": "Tệp đã bị di chuyển hoặc xoá ngoài app",
+    "en": "File was moved or deleted outside the app"
+  },
+  {
+    "i": 575,
+    "key": "[thư mục thư viện]",
+    "en": "[Library folder]"
+  },
+  {
+    "i": 576,
+    "key": "(đã xoá)",
+    "en": "(deleted)"
+  },
+  {
+    "i": 577,
+    "key": "Đang tải…",
+    "en": "Loading…"
+  },
+  {
+    "i": 578,
+    "key": "Đóng trang",
+    "en": "Close page"
+  },
+  {
+    "i": 579,
+    "key": "quá thời gian giải mã",
+    "en": "decoding timed out"
+  },
+  {
+    "i": 580,
+    "key": "video lỗi giải mã",
+    "en": "video decoding failed"
+  },
+  {
+    "i": 581,
+    "key": "Gọi quá nhanh — thử lại sau {retryAfterS} giây",
+    "en": "Too many requests — retry after {retryAfterS} {retryAfterS|second|seconds}"
+  },
+  {
+    "i": 582,
+    "key": "dùng cổng trống {suggestedPort}",
+    "en": "use available port {suggestedPort}"
+  },
+  {
+    "i": 583,
+    "key": "đổi cổng khác",
+    "en": "choose another port"
+  },
+  {
+    "i": 584,
+    "key": "Cổng {port} đang bị chương trình khác dùng — {hint}",
+    "en": "Port {port} is in use by another program — {hint}"
+  },
+  {
+    "i": 585,
+    "key": "Windows không cho mở cổng {port} (cổng bị giữ chỗ) — {hint}",
+    "en": "Windows cannot open port {port} (port reserved) — {hint}"
+  },
+  {
+    "i": 586,
+    "key": "Không mở được cổng {port} ({code})",
+    "en": "Could not open port {port} ({code})"
+  },
+  {
+    "i": 587,
+    "key": "lỗi",
+    "en": "error"
+  },
+  {
+    "i": 588,
+    "key": "Cổng phải từ {API_PORT_MIN} đến {API_PORT_MAX}",
+    "en": "Port must be between {API_PORT_MIN} and {API_PORT_MAX}"
+  },
+  {
+    "i": 589,
+    "key": "Cần xác nhận trước khi mở ra Internet",
+    "en": "Confirmation required before exposing to the Internet"
+  },
+  {
+    "i": 590,
+    "key": "Tên miền không hợp lệ (ví dụ: muse.tenmiencuaanh.com)",
+    "en": "Invalid domain (example: muse.yourdomain.com)"
+  },
+  {
+    "i": 591,
+    "key": "Token đường hầm không hợp lệ — dán nguyên chuỗi token từ Cloudflare",
+    "en": "Invalid tunnel token — paste the full token from Cloudflare"
+  },
+  {
+    "i": 592,
+    "key": "Kiểu proxy không hợp lệ",
+    "en": "Invalid proxy type"
+  },
+  {
+    "i": 593,
+    "key": "Đặt tên cho khoá (ví dụ “Agent n8n”)",
+    "en": "Name the key (for example “Agent n8n”)"
+  },
+  {
+    "i": 594,
+    "key": "Tên khoá tối đa {API_KEY_NAME_MAX} ký tự",
+    "en": "Key name limited to {API_KEY_NAME_MAX} {API_KEY_NAME_MAX|character|characters}"
+  },
+  {
+    "i": 595,
+    "key": "Quyền không hợp lệ",
+    "en": "Invalid scope"
+  },
+  {
+    "i": 596,
+    "key": "Tối đa {API_KEY_MAX_ACTIVE} khoá còn hiệu lực — thu hồi bớt khoá cũ",
+    "en": "Maximum {API_KEY_MAX_ACTIVE} active {API_KEY_MAX_ACTIVE|key|keys} — revoke some old keys"
+  },
+  {
+    "i": 597,
+    "key": "Đã có khoá cùng tên",
+    "en": "A key with this name already exists"
+  },
+  {
+    "i": 598,
+    "key": "Khoá không còn hoặc đã thu hồi",
+    "en": "Key no longer exists or has been revoked"
+  },
+  {
+    "i": 599,
+    "key": "`reference_ids` không dùng kèm các trường ảnh tham chiếu khác",
+    "en": "`reference_ids` cannot be used with other reference image fields"
+  },
+  {
+    "i": 600,
+    "key": "Chỉ gửi một loại ảnh tham chiếu",
+    "en": "Send only one reference image type"
+  },
+  {
+    "i": 601,
+    "key": "reference_image_base64 chỉ nhận ảnh — tải MP4 qua POST /v1/references",
+    "en": "reference_image_base64 only accepts images — upload MP4 via POST /v1/references"
+  },
+  {
+    "i": 602,
+    "key": "Ảnh base64 qua MCP tối đa 8 MB — ảnh lớn hơn tải lên qua POST /v1/references",
+    "en": "Base64 images via MCP are limited to 8 MB — upload larger images via POST /v1/references"
+  },
+  {
+    "i": 603,
+    "key": "Tối đa {MCP_INLINE_FILES_MAX} tệp gửi kèm trực tiếp — tệp khác tải qua POST /v1/references",
+    "en": "Maximum {MCP_INLINE_FILES_MAX} inline {MCP_INLINE_FILES_MAX|file|files} — upload other files via POST /v1/references"
+  },
+  {
+    "i": 604,
+    "key": "Tổng tệp gửi kèm trực tiếp qua MCP tối đa 8 MiB — tệp lớn hơn tải qua POST /v1/references",
+    "en": "Total inline files via MCP are limited to 8 MiB — upload larger files via POST /v1/references"
+  },
+  {
+    "i": 605,
+    "key": "{kind} {width}×{height}",
+    "en": "{kind} {width}×{height}"
+  },
+  {
+    "i": 606,
+    "key": "{field} không phải base64 hợp lệ",
+    "en": "{field} is not valid base64"
+  },
+  {
+    "i": 607,
+    "key": "\n  {kind} {width}×{height}: {download_url}",
+    "en": "\n  {kind} {width}×{height}: {download_url}"
+  },
+  {
+    "i": 608,
+    "key": "Lỗi bên trong Muse4AI — xem nhật ký của app",
+    "en": "Internal Muse4AI error — check the app logs"
+  },
+  {
+    "i": 609,
+    "key": "Chỉ nhận lời gọi từ mạng riêng (LAN, Tailscale)",
+    "en": "Only requests from private networks are accepted (LAN, Tailscale)"
+  },
+  {
+    "i": 610,
+    "key": "Không nhận lời gọi từ trình duyệt (có header Origin)",
+    "en": "Browser requests are not accepted (Origin header present)"
+  },
+  {
+    "i": 611,
+    "key": "Không hỗ trợ CORS/OPTIONS",
+    "en": "CORS/OPTIONS is not supported"
+  },
+  {
+    "i": 612,
+    "key": "Tên máy (Host) không đúng địa chỉ của Muse4AI",
+    "en": "Host does not match the Muse4AI address"
+  },
+  {
+    "i": 613,
+    "key": "Không có đường dẫn này — xem /v1/openapi.json",
+    "en": "Route not found — see /v1/openapi.json"
+  },
+  {
+    "i": 614,
+    "key": "Đường dẫn này chỉ nhận {methods}",
+    "en": "This route only accepts {methods}"
+  },
+  {
+    "i": 615,
+    "key": "Thân JSON lớn hơn 256 KB",
+    "en": "JSON body exceeds 256 KB"
+  },
+  {
+    "i": 616,
+    "key": "Thân JSON lớn hơn 64 KB",
+    "en": "JSON body exceeds 64 KB"
+  },
+  {
+    "i": 617,
+    "key": "`status` chỉ nhận {API_STATUSES}",
+    "en": "`status` only accepts {API_STATUSES}"
+  },
+  {
+    "i": 618,
+    "key": "`after_version` phải là số nguyên",
+    "en": "`after_version` must be an integer"
+  },
+  {
+    "i": 619,
+    "key": "Chỉ nhận PNG, JPEG, WEBP, MP4 hoặc tài liệu CSV, TXT, MD, JSON, PDF (gửi byte tệp làm thân yêu cầu)",
+    "en": "Only PNG, JPEG, WEBP, MP4 or CSV, TXT, MD, JSON, PDF documents are accepted (send file bytes as the request body)"
+  },
+  {
+    "i": 620,
+    "key": "X-File-Name phải là UTF-8 mã hoá phần trăm",
+    "en": "X-File-Name must be percent-encoded UTF-8"
+  },
+  {
+    "i": 621,
+    "key": "Tệp tham chiếu lớn hơn 20 MB",
+    "en": "Reference file exceeds 20 MB"
+  },
+  {
+    "i": 622,
+    "key": "Thân yêu cầu rỗng — gửi byte tệp",
+    "en": "Empty request body — send file bytes"
+  },
+  {
+    "i": 623,
+    "key": "Yêu cầu MCP quá lớn",
+    "en": "MCP request too large"
+  },
+  {
+    "i": 624,
+    "key": "Không có đường dẫn này",
+    "en": "Route not found"
+  },
+  {
+    "i": 625,
+    "key": "Khoá API sai hoặc đã bị thu hồi",
+    "en": "Invalid or revoked API key"
+  },
+  {
+    "i": 626,
+    "key": "Thiếu khoá API — gửi header Authorization: Bearer msk_…",
+    "en": "Missing API key — send the Authorization: Bearer msk_… header"
+  },
+  {
+    "i": 627,
+    "key": "Content-Type phải là application/json",
+    "en": "Content-Type must be application/json"
+  },
+  {
+    "i": 628,
+    "key": "Thân yêu cầu rỗng",
+    "en": "Empty request body"
+  },
+  {
+    "i": 629,
+    "key": "Thân yêu cầu không phải JSON hợp lệ",
+    "en": "Request body is not valid JSON"
+  },
+  {
+    "i": 630,
+    "key": "Thân yêu cầu quá lớn",
+    "en": "Request body too large"
+  },
+  {
+    "i": 631,
+    "key": "Tệp đã bị xoá hoặc di chuyển trên máy",
+    "en": "The file has been deleted or moved on this computer"
+  },
+  {
+    "i": 632,
+    "key": "Khoá này chỉ có quyền xem — tạo khoá “Tạo và huỷ” để gửi lượt",
+    "en": "This key is read-only — create a “Create and cancel” key to submit jobs"
+  },
+  {
+    "i": 633,
+    "key": "Khoá này đã có {API_UNFINISHED_PER_KEY} lượt chưa xong — chờ bớt rồi gửi tiếp",
+    "en": "This key already has {API_UNFINISHED_PER_KEY} unfinished {API_UNFINISHED_PER_KEY|job|jobs} — wait for some to finish before submitting more"
+  },
+  {
+    "i": 634,
+    "key": "Vibes đã được bỏ khỏi Muse4AI",
+    "en": "Vibes has been removed from Muse4AI"
+  },
+  {
+    "i": 635,
+    "key": "Vibes chỉ tạo video — dùng kind \"video\" hoặc bỏ site",
+    "en": "Vibes only generates videos — use kind \"video\" or omit site"
+  },
+  {
+    "i": 636,
+    "key": "Tạo trên Vibes chưa được bật trên phiên bản Muse4AI này (xem /v1/status → capabilities)",
+    "en": "Generation on Vibes is not enabled in this version of Muse4AI (see /v1/status → capabilities)"
+  },
+  {
+    "i": 637,
+    "key": "Kiểu tạo này đang khoá trên Muse4AI (xem /v1/status → capabilities)",
+    "en": "This generation type is disabled in Muse4AI (see /v1/status → capabilities)"
+  },
+  {
+    "i": 638,
+    "key": "Không có ảnh tham chiếu này — tải lên lại qua POST /v1/references",
+    "en": "Reference image not found — upload it again via POST /v1/references"
+  },
+  {
+    "i": 639,
+    "key": "không tồn tại",
+    "en": "does not exist"
+  },
+  {
+    "i": 640,
+    "key": "Tối đa {CHAT_ATTACH_MAX} tệp đính kèm",
+    "en": "Maximum {CHAT_ATTACH_MAX} {CHAT_ATTACH_MAX|attachment|attachments}"
+  },
+  {
+    "i": 641,
+    "key": "Không có tệp đính kèm này — tải lên lại qua POST /v1/references",
+    "en": "Attachment not found — upload it again via POST /v1/references"
+  },
+  {
+    "i": 642,
+    "key": "Hội thoại này đang có chuỗi kéo dài hoặc lượt chưa đối soát — chờ xong rồi gửi tiếp",
+    "en": "This conversation has an extend chain or an unreconciled job — wait for completion before sending more"
+  },
+  {
+    "i": 643,
+    "key": "Hội thoại video này tạo qua giao diện Muse — bản này chưa hỏi tiếp được bằng Hỏi đáp",
+    "en": "This video conversation was created through the Muse UI — this version does not support follow-ups in Chat"
+  },
+  {
+    "i": 644,
+    "key": "Idempotency-Key này đã dùng cho một yêu cầu khác — dùng khoá mới cho nội dung mới",
+    "en": "This Idempotency-Key was used for a different request — use a new key for new content"
+  },
+  {
+    "i": 645,
+    "key": "Không có tài khoản tên “{alias}” — dùng \"auto\" hoặc đúng tên gọi trong app",
+    "en": "No account named “{alias}” — use \"auto\" or the exact alias in the app"
+  },
+  {
+    "i": 646,
+    "key": "Không tìm thấy tác phẩm này trong các lượt của khoá",
+    "en": "Could not find this item in this key's jobs"
+  },
+  {
+    "i": 647,
+    "key": "Tác phẩm này đã bị xoá hoặc di chuyển trên máy",
+    "en": "This item has been deleted or moved on this computer"
+  },
+  {
+    "i": 648,
+    "key": "Không có lượt này trong các lượt của khoá",
+    "en": "Job not found in this key's jobs"
+  },
+  {
+    "i": 649,
+    "key": "Tối đa {API_WAITS_PER_KEY} lần chờ đồng thời mỗi khoá — gọi lại sau",
+    "en": "Maximum {API_WAITS_PER_KEY} concurrent {API_WAITS_PER_KEY|wait|waits} per key — try again later"
+  },
+  {
+    "i": 650,
+    "key": "`cursor` không hợp lệ — dùng đúng `next_cursor` của trang trước",
+    "en": "Invalid `cursor` — use the exact `next_cursor` from the previous page"
+  },
+  {
+    "i": 651,
+    "key": "sai định dạng",
+    "en": "invalid format"
+  },
+  {
+    "i": 652,
+    "key": "Không có tác phẩm này trong các lượt của khoá",
+    "en": "Item not found in this key's jobs"
+  },
+  {
+    "i": 653,
+    "key": "Không có hội thoại này trong các lượt của khoá",
+    "en": "Conversation not found in this key's jobs"
+  },
+  {
+    "i": 654,
+    "key": "Một lần kéo dài đang chờ người dùng xem trong Muse4AI",
+    "en": "An extend step needs user review in Muse4AI"
+  },
+  {
+    "i": 655,
+    "key": "Đang có chuỗi kéo dài trong hội thoại này",
+    "en": "An extend chain is already active in this conversation"
+  },
+  {
+    "i": 656,
+    "key": "Không kéo dài được video này",
+    "en": "Could not extend this video"
+  },
+  {
+    "i": 657,
+    "key": "Không có chuỗi kéo dài này trong các lượt của khoá",
+    "en": "Extend chain not found in this key's jobs"
+  },
+  {
+    "i": 658,
+    "key": "Lượt đang chờ người dùng xem trong Muse4AI — chỉ xử lý được trong app",
+    "en": "This job needs user review in Muse4AI — it can only be handled in the app"
+  },
+  {
+    "i": 659,
+    "key": "Lượt đã kết thúc ({state}) — không huỷ được",
+    "en": "This job has ended ({state}) — cannot cancel"
+  },
+  {
+    "i": 660,
+    "key": "Tệp “{filename}” không phải {toUpperCase} hợp lệ: {message}",
+    "en": "File “{filename}” is not valid {toUpperCase}: {message}"
+  },
+  {
+    "i": 661,
+    "key": "Chỉ nhận PNG, JPEG, WEBP, MP4 hoặc tài liệu CSV, TXT, MD, JSON, PDF",
+    "en": "Only PNG, JPEG, WEBP, MP4 or CSV, TXT, MD, JSON, PDF documents are accepted"
+  },
+  {
+    "i": 662,
+    "key": "Không có tệp này trong các lượt của khoá",
+    "en": "File not found in this key's jobs"
+  },
+  {
+    "i": 663,
+    "key": "Link tải sai hoặc đã hết hạn — gọi lại GET /v1/jobs/{id} để lấy link mới",
+    "en": "Invalid or expired download link — call GET /v1/jobs/{id} again for a new link"
+  },
+  {
+    "i": 664,
+    "key": "Không có tệp này",
+    "en": "File not found"
+  },
+  {
+    "i": 665,
+    "key": "Tệp đường hầm không khớp mã kiểm tra — đã xoá tệp, không chạy. Bấm Thử lại để tải lại",
+    "en": "Tunnel file checksum mismatch — file deleted, not run. Click Retry to download again"
+  },
+  {
+    "i": 666,
+    "key": "Không tải được chương trình đường hầm (cloudflared) — kiểm tra mạng rồi bấm Thử lại",
+    "en": "Could not download the tunnel program (cloudflared) — check your network and click Retry"
+  },
+  {
+    "i": 667,
+    "key": "Máy này chưa hỗ trợ đường hầm Cloudflare",
+    "en": "This computer does not support Cloudflare tunnels yet"
+  },
+  {
+    "i": 668,
+    "key": "Không nối được tới Cloudflare — mạng có thể chặn kết nối ra ngoài (cổng 7844)",
+    "en": "Could not connect to Cloudflare — the network may block outbound connections (port 7844)"
+  },
+  {
+    "i": 669,
+    "key": "Cloudflare từ chối tạo địa chỉ tạm thời (giới hạn) — thử lại sau ít phút",
+    "en": "Cloudflare refused to create a temporary address (rate limit) — retry in a few minutes"
+  },
+  {
+    "i": 670,
+    "key": "Token đường hầm không hợp lệ — dán lại token từ Cloudflare",
+    "en": "Invalid tunnel token — paste the token from Cloudflare again"
+  },
+  {
+    "i": 671,
+    "key": "Đường hầm đã chạy nhưng địa chỉ công khai chưa trả lời đúng app — kiểm tra cấu hình tên miền",
+    "en": "The tunnel is running but the public address is not responding with the correct app — check the domain configuration"
+  },
+  {
+    "i": 672,
+    "key": "Đường hầm dừng 5 lần liên tiếp — bấm Thử lại",
+    "en": "The tunnel stopped 5 times in a row — click Retry"
+  },
+  {
+    "i": 673,
+    "key": "Chưa nhập đủ token và tên miền cho đường hầm riêng",
+    "en": "Both token and domain are required for the named tunnel"
+  },
+  {
+    "i": 674,
+    "key": "Mất kết nối, đang nối lại",
+    "en": "Connection lost, reconnecting"
+  },
+  {
+    "i": 675,
+    "key": "Nhập tên miền (ví dụ api.tenmiencuaanh.com)",
+    "en": "Enter a domain (for example api.yourdomain.com)"
+  },
+  {
+    "i": 676,
+    "key": "Nhập tên miền, không nhập địa chỉ IP",
+    "en": "Enter a domain, not an IP address"
+  },
+  {
+    "i": 677,
+    "key": "Tên miền không hợp lệ",
+    "en": "Invalid domain"
+  },
+  {
+    "i": 678,
+    "key": "Đây là địa chỉ đường hầm tạm thời, không dùng làm tên miền",
+    "en": "This is a quick tunnel address and cannot be used as a domain"
+  },
+  {
+    "i": 679,
+    "key": "Tên miền nội bộ (.local, .internal…) — máy trên Internet không tới được",
+    "en": "Internal domain (.local, .internal…) — unreachable from the Internet"
+  },
+  {
+    "i": 680,
+    "key": "Tên miền này đang dùng cho đường hầm có tên — dùng tên khác (ví dụ api.… và tunnel.…)",
+    "en": "This domain is used for a named tunnel — use a different name (for example api.… and tunnel.…)"
+  },
+  {
+    "i": 681,
+    "key": "Tên miền này đang dùng cho Tên miền trỏ về máy — dùng tên khác (ví dụ api.… và tunnel.…)",
+    "en": "This domain is used for Domain pointing to this machine — use a different name (for example api.… and tunnel.…)"
+  },
+  {
+    "i": 682,
+    "key": "Bật API trước khi bật tên miền",
+    "en": "Enable the API before enabling the domain"
+  },
+  {
+    "i": 683,
+    "key": "Chưa thấy bản ghi DNS cho {host}",
+    "en": "No DNS records found for {host} yet"
+  },
+  {
+    "i": 684,
+    "key": "Tên miền trỏ tới địa chỉ nội bộ — máy trên Internet không tới được",
+    "en": "The domain points to an internal address — unreachable from the Internet"
+  },
+  {
+    "i": 685,
+    "key": "Tên miền trỏ tới IP khác IP của máy — có thể đang qua proxy Cloudflare hoặc NAT",
+    "en": "The domain points to a different IP than this machine — it may be behind a Cloudflare proxy or NAT"
+  },
+  {
+    "i": 686,
+    "key": "Đã trỏ tới {ips}",
+    "en": "Now pointing to {ips}"
+  },
+  {
+    "i": 687,
+    "key": "Không hỏi được DNS — kiểm tra mạng của máy",
+    "en": "Could not query DNS — check this machine's network"
+  },
+  {
+    "i": 688,
+    "key": "Đang kiểm cổng 80 và 443",
+    "en": "Checking ports 80 and 443"
+  },
+  {
+    "i": 689,
+    "key": "Cổng 80 và 443 trống",
+    "en": "Ports 80 and 443 are available"
+  }
+]

@@ -8,7 +8,8 @@
 
 /* Design tokens — docs/build-1.0/screens.md §1.2 (single source for colors, radii, motion). */
 @theme {
-  --font-sans: "Be Vietnam Pro", "Segoe UI", system-ui, sans-serif;
+  /* 本地汉化：Be Vietnam Pro 无中文字形，显式补上 Windows / macOS 中文字体，避免中文回退到宋体造成字形不统一。 */
+  --font-sans: "Be Vietnam Pro", "Segoe UI", "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", system-ui, sans-serif;
   --font-mono: "JetBrains Mono", Consolas, monospace;
 
   --color-canvas: #f7f4ee;

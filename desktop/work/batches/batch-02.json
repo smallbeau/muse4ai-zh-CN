@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 230,
+    "key": "Chưa xác định Muse đã nhận lời nhắn hay chưa",
+    "en": "Could not determine whether Muse received the message"
+  },
+  {
+    "i": 231,
+    "key": "Muse gặp lỗi kỹ thuật, chưa tạo được tệp: “upstream 502”",
+    "en": "Muse encountered a technical issue and could not generate a file: “upstream 502”"
+  },
+  {
+    "i": 232,
+    "key": "Không đọc được hạn mức trong Cài đặt của Muse",
+    "en": "Could not read the quota in Muse Settings"
+  },
+  {
+    "i": 233,
+    "key": "Trả lời: {prompt}",
+    "en": "Answer: {prompt}"
+  },
+  {
+    "i": 234,
+    "key": "Muse báo hết hạn mức",
+    "en": "Muse reports the quota is exhausted"
+  },
+  {
+    "i": 235,
+    "key": "Muse gặp lỗi kỹ thuật, chưa tạo được tệp: {quote}",
+    "en": "Muse encountered a technical issue and could not generate a file: {quote}"
+  },
+  {
+    "i": 236,
+    "key": "Muse không tạo nội dung: {quote}",
+    "en": "Muse did not generate content: {quote}"
+  },
+  {
+    "i": 237,
+    "key": "Lỗi mạng khi mở Muse",
+    "en": "Network error while opening Muse"
+  },
+  {
+    "i": 238,
+    "key": "Không mở được Muse ({msg})",
+    "en": "Could not open Muse ({msg})"
+  },
+  {
+    "i": 239,
+    "key": "Không gọi được Muse qua proxy",
+    "en": "Could not reach Muse through proxy"
+  },
+  {
+    "i": 240,
+    "key": "Phiên đăng nhập Muse đã hết",
+    "en": "The Muse sign-in session has expired"
+  },
+  {
+    "i": 241,
+    "key": "Muse từ chối truy cập (cần xác minh hoặc vùng không hỗ trợ)",
+    "en": "Muse denied access (verification required or region unsupported)"
+  },
+  {
+    "i": 242,
+    "key": "Muse yêu cầu đăng nhập",
+    "en": "Muse requires sign-in"
+  },
+  {
+    "i": 243,
+    "key": "Muse chưa sẵn sàng (phiên {status}{value})",
+    "en": "Muse is not ready (session {status}{value})"
+  },
+  {
+    "i": 244,
+    "key": "Máy ảo Muse chưa khởi động xong",
+    "en": "The Muse virtual machine has not finished starting"
+  },
+  {
+    "i": 245,
+    "key": "Không tìm thấy ô nhập tin nhắn của Muse",
+    "en": "Could not find the Muse message input"
+  },
+  {
+    "i": 246,
+    "key": "Trang Muse chưa sẵn sàng",
+    "en": "The Muse page is not ready"
+  },
+  {
+    "i": 247,
+    "key": "Ảnh tham chiếu không còn trên máy",
+    "en": "The reference image is no longer on this computer"
+  },
+  {
+    "i": 248,
+    "key": "Không tìm thấy chỗ đính kèm ảnh của Muse",
+    "en": "Could not find the Muse image attachment control"
+  },
+  {
+    "i": 249,
+    "key": "Muse chưa nhận ảnh tham chiếu",
+    "en": "Muse has not received the reference image"
+  },
+  {
+    "i": 250,
+    "key": "Không nhập được prompt vào Muse",
+    "en": "Could not enter the prompt in Muse"
+  },
+  {
+    "i": 251,
+    "key": "Không tìm thấy nút gửi của Muse",
+    "en": "Could not find the Muse send button"
+  },
+  {
+    "i": 252,
+    "key": "Nút gửi của Muse chưa bật",
+    "en": "The Muse send button is not enabled"
+  },
+  {
+    "i": 253,
+    "key": "Prompt trong ô nhập của Muse bị thay đổi",
+    "en": "The prompt in the Muse input has changed"
+  },
+  {
+    "i": 254,
+    "key": "Không chắc đã bấm gửi",
+    "en": "Could not confirm the send button was clicked"
+  },
+  {
+    "i": 255,
+    "key": "Không thấy Muse xác nhận đã nhận tin nhắn",
+    "en": "No confirmation that Muse received the message"
+  },
+  {
+    "i": 256,
+    "key": "Không mở lại được lượt trên Muse",
+    "en": "Could not reopen the job in Muse"
+  },
+  {
+    "i": 257,
+    "key": "Phiên Muse hết trong lúc chờ kết quả",
+    "en": "The Muse session expired while waiting for results"
+  },
+  {
+    "i": 258,
+    "key": "Muse báo chưa nhận được tin nhắn (Still sending)",
+    "en": "Muse reports the message has not been received (Still sending)"
+  },
+  {
+    "i": 259,
+    "key": "Quá thời gian chờ Muse trả kết quả",
+    "en": "Timed out waiting for Muse results"
+  },
+  {
+    "i": 260,
+    "key": "Muse chưa tải xong hội thoại",
+    "en": "Muse has not finished loading the conversation"
+  },
+  {
+    "i": 261,
+    "key": "Nguồn hội thoại Muse không hợp lệ",
+    "en": "Invalid Muse conversation source"
+  },
+  {
+    "i": 262,
+    "key": "Muse vẫn đang trả lời trong hội thoại này",
+    "en": "Muse is still answering in this conversation"
+  },
+  {
+    "i": 263,
+    "key": "Nút gửi Muse chưa sẵn sàng",
+    "en": "The Muse send button is not ready"
+  },
+  {
+    "i": 264,
+    "key": "Lời nhắn trong ô nhập của Muse bị thay đổi",
+    "en": "The message in the Muse input has changed"
+  },
+  {
+    "i": 265,
+    "key": "Mất nguồn hội thoại Muse",
+    "en": "Muse conversation source lost"
+  },
+  {
+    "i": 266,
+    "key": "Phiên Muse hết trong lúc chờ video kéo dài",
+    "en": "The Muse session expired while waiting for the extended video"
+  },
+  {
+    "i": 267,
+    "key": "Không thấy lời nhắn kéo dài trên Muse",
+    "en": "Could not find the extend message in Muse"
+  },
+  {
+    "i": 268,
+    "key": "Muse trả lời nhưng không có video kéo dài: “{answerText}”",
+    "en": "Muse answered without an extended video: “{answerText}”"
+  },
+  {
+    "i": 269,
+    "key": "Quá thời gian chờ Muse trả video kéo dài",
+    "en": "Timed out waiting for Muse to return the extended video"
+  },
+  {
+    "i": 270,
+    "key": "tệp rỗng",
+    "en": "empty file"
+  },
+  {
+    "i": 271,
+    "key": "Tải tệp từ Muse lỗi: {lastErr}",
+    "en": "Failed to download the file from Muse: {lastErr}"
+  },
+  {
+    "i": 272,
+    "key": "Không mở được Cài đặt của Muse",
+    "en": "Could not open Muse Settings"
+  },
+  {
+    "i": 273,
+    "key": "Không thấy mục Settings của Muse",
+    "en": "Could not find Settings in Muse"
+  },
+  {
+    "i": 274,
+    "key": "Kênh trực tiếp trả dữ liệu lạ ({what})",
+    "en": "The direct channel returned unexpected data ({what})"
+  },
+  {
+    "i": 275,
+    "key": "Trang kênh trực tiếp không phản hồi",
+    "en": "The direct channel page is not responding"
+  },
+  {
+    "i": 276,
+    "key": "Kênh trực tiếp lỗi ({what}): {message}",
+    "en": "Direct channel error ({what}): {message}"
+  },
+  {
+    "i": 277,
+    "key": "Proxy của tài khoản không dùng được cho kênh trực tiếp",
+    "en": "The account's proxy cannot be used for the direct channel"
+  },
+  {
+    "i": 278,
+    "key": "Đọc lịch sử hội thoại quá thời gian",
+    "en": "Timed out reading conversation history"
+  },
+  {
+    "i": 279,
+    "key": "Đọc lịch sử lỗi HTTP {status}",
+    "en": "HTTP {status} while reading history"
+  },
+  {
+    "i": 280,
+    "key": "Lịch sử hội thoại có dạng lạ",
+    "en": "Unexpected conversation history format"
+  },
+  {
+    "i": 281,
+    "key": "Đọc danh sách hội thoại quá thời gian",
+    "en": "Timed out reading the conversation list"
+  },
+  {
+    "i": 282,
+    "key": "Đọc danh sách hội thoại lỗi HTTP {status}",
+    "en": "HTTP {status} while reading the conversation list"
+  },
+  {
+    "i": 283,
+    "key": "Danh sách hội thoại có dạng lạ",
+    "en": "Unexpected conversation list format"
+  },
+  {
+    "i": 284,
+    "key": "Đã huỷ",
+    "en": "Cancelled"
+  },
+  {
+    "i": 285,
+    "key": "Không tải được tệp (HTTP {status})",
+    "en": "Could not download the file (HTTP {status})"
+  },
+  {
+    "i": 286,
+    "key": "hết giờ",
+    "en": "timed out"
+  },
+  {
+    "i": 287,
+    "key": "Tệp quá lớn ({startCount} byte)",
+    "en": "File too large ({startCount} {startCount|byte|bytes})"
+  },
+  {
+    "i": 288,
+    "key": "Tải tệp quá {GW_FETCH_TIMEOUT_MS} phút",
+    "en": "File download exceeded {GW_FETCH_TIMEOUT_MS} {GW_FETCH_TIMEOUT_MS|minute|minutes}"
+  },
+  {
+    "i": 289,
+    "key": "Tệp quá lớn (> {maxBytes} byte)",
+    "en": "File too large (> {maxBytes} {maxBytes|byte|bytes})"
+  },
+  {
+    "i": 290,
+    "key": "Không tải được tệp ({reason})",
+    "en": "Could not download the file ({reason})"
+  },
+  {
+    "i": 291,
+    "key": "Tệp rỗng",
+    "en": "Empty file"
+  },
+  {
+    "i": 292,
+    "key": "Tệp thiếu byte ({total}/{startCount})",
+    "en": "File is missing bytes ({total}/{startCount})"
+  },
+  {
+    "i": 293,
+    "key": "Đã dừng",
+    "en": "Stopped"
+  },
+  {
+    "i": 294,
+    "key": "Không kết nối được Vibes qua proxy",
+    "en": "Could not connect to Vibes through proxy"
+  },
+  {
+    "i": 295,
+    "key": "Lỗi mạng khi mở Vibes",
+    "en": "Network error while opening Vibes"
+  },
+  {
+    "i": 296,
+    "key": "Không gọi được Vibes qua proxy",
+    "en": "Could not reach Vibes through proxy"
+  },
+  {
+    "i": 297,
+    "key": "Không tạo được dự án trên Vibes",
+    "en": "Could not create a project on Vibes"
+  },
+  {
+    "i": 298,
+    "key": "Không tải được ảnh khung đầu lên Vibes ({message})",
+    "en": "Could not upload the first-frame image to Vibes ({message})"
+  },
+  {
+    "i": 299,
+    "key": "Vibes trả về ảnh tải lên không đúng dạng",
+    "en": "Vibes returned the uploaded image in an unexpected format"
+  },
+  {
+    "i": 300,
+    "key": "Thiếu video nguồn",
+    "en": "Source video missing"
+  },
+  {
+    "i": 301,
+    "key": "Phiên Vibes đã hết khi đang chờ kết quả",
+    "en": "The Vibes session expired while waiting for results"
+  },
+  {
+    "i": 302,
+    "key": "Không thấy lượt này trên Vibes",
+    "en": "Could not find this job on Vibes"
+  },
+  {
+    "i": 303,
+    "key": "Vibes trả về lượt khác — không nhận",
+    "en": "Vibes returned a different job — rejected"
+  },
+  {
+    "i": 304,
+    "key": "Vibes không trả lời khi đang chờ kết quả",
+    "en": "Vibes stopped responding while waiting for results"
+  },
+  {
+    "i": 305,
+    "key": "Quá thời gian chờ Vibes trả kết quả",
+    "en": "Timed out waiting for Vibes results"
+  },
+  {
+    "i": 306,
+    "key": "lỗi trang",
+    "en": "page error"
+  },
+  {
+    "i": 307,
+    "key": "Tải video từ Vibes lỗi: {lastErr}",
+    "en": "Failed to download the video from Vibes: {lastErr}"
+  },
+  {
+    "i": 308,
+    "key": "Vibes từ chối nội dung này",
+    "en": "Vibes rejected this content"
+  },
+  {
+    "i": 309,
+    "key": "Vibes báo hết lượt",
+    "en": "Vibes reports no jobs remaining"
+  },
+  {
+    "i": 310,
+    "key": "Vibes báo tạo lỗi",
+    "en": "Vibes reports generation failed"
+  },
+  {
+    "i": 311,
+    "key": "Phiên Vibes đã hết",
+    "en": "The Vibes session has expired"
+  },
+  {
+    "i": 312,
+    "key": "Vibes từ chối truy cập",
+    "en": "Vibes denied access"
+  },
+  {
+    "i": 313,
+    "key": "Vibes không nhận yêu cầu (HTTP {status})",
+    "en": "Vibes did not accept the request (HTTP {status})"
+  },
+  {
+    "i": 314,
+    "key": "Vibes trả lỗi {status} sau khi gửi",
+    "en": "Vibes returned error {status} after submission"
+  },
+  {
+    "i": 315,
+    "key": "Mất kết nối sau khi gửi tới Vibes",
+    "en": "Connection lost after submitting to Vibes"
+  },
+  {
+    "i": 316,
+    "key": "Vibes chưa sẵn sàng (HTTP {status})",
+    "en": "Vibes is not ready (HTTP {status})"
+  },
+  {
+    "i": 317,
+    "key": "Lỗi mạng khi gọi Vibes",
+    "en": "Network error while calling Vibes"
+  },
+  {
+    "i": 318,
+    "key": "Phiên Vibes đã đổi tài khoản — chờ anh chọn",
+    "en": "The Vibes session switched accounts — waiting for your choice"
+  },
+  {
+    "i": 319,
+    "key": "Tài khoản sở hữu video nguồn đã bị xoá",
+    "en": "The account that owns the source video has been deleted"
+  },
+  {
+    "i": 320,
+    "key": "{alias} chuyển sang chạy giao diện",
+    "en": "{alias} switched to UI control"
+  },
+  {
+    "i": 321,
+    "key": "kênh trực tiếp lỗi",
+    "en": "direct channel error"
+  },
+  {
+    "i": 322,
+    "key": "Kênh trực tiếp Muse không tương thích",
+    "en": "The Muse direct channel is incompatible"
+  },
+  {
+    "i": 323,
+    "key": "Các tài khoản tạm chạy qua giao diện. Bấm “Kiểm ngay” trong Cài đặt › Chạy việc khi muốn thử lại.",
+    "en": "Accounts are temporarily using UI control. Click “Check now” in Settings › Job execution when you want to retry."
+  },
+  {
+    "i": 324,
+    "key": "app đóng trước khi bước này xong",
+    "en": "app closed before this step finished"
+  },
+  {
+    "i": 325,
+    "key": "Mất dấu lượt sau khi app đóng",
+    "en": "Lost track of the job after the app closed"
+  },
+  {
+    "i": 326,
+    "key": "1 lượt cần anh xem",
+    "en": "1 job needs review"
+  },
+  {
+    "i": 327,
+    "key": "{alias} cần đăng nhập lại",
+    "en": "{alias} needs to sign in again"
+  },
+  {
+    "i": 328,
+    "key": "Mở để đăng nhập lại tài khoản Muse",
+    "en": "Open to sign in to the Muse account again"
+  },
+  {
+    "i": 329,
+    "key": "{alias} cần xác minh",
+    "en": "{alias} needs verification"
+  },
+  {
+    "i": 330,
+    "key": "Muse yêu cầu xác minh tài khoản",
+    "en": "Muse requires account verification"
+  },
+  {
+    "i": 331,
+    "key": "{alias} hết hạn mức",
+    "en": "{alias} is out of quota"
+  },
+  {
+    "i": 332,
+    "key": "Lượt mới chuyển sang tài khoản khác",
+    "en": "New jobs will use another account"
+  },
+  {
+    "i": 333,
+    "key": "Lượt chờ tới {until}",
+    "en": "Jobs are waiting until {until}"
+  },
+  {
+    "i": 334,
+    "key": "Lượt chờ tài khoản còn hạn mức",
+    "en": "Jobs are waiting for an account with quota"
+  },
+  {
+    "i": 335,
+    "key": "Tất cả tài khoản Muse đã hết hạn mức",
+    "en": "All Muse accounts are out of quota"
+  },
+  {
+    "i": 336,
+    "key": "Lượt chờ tới {first}",
+    "en": "Jobs are waiting until {first}"
+  },
+  {
+    "i": 337,
+    "key": "Lượt chờ tới khi có tài khoản còn hạn mức",
+    "en": "Jobs are waiting until an account has quota"
+  },
+  {
+    "i": 338,
+    "key": "{alias} cần đăng nhập lại Vibes",
+    "en": "{alias} needs to sign in to Vibes again"
+  },
+  {
+    "i": 339,
+    "key": "Mở để đăng nhập lại Vibes cho tài khoản này",
+    "en": "Open to sign in to Vibes again for this account"
+  },
+  {
+    "i": 340,
+    "key": "{alias} cần xác minh Vibes",
+    "en": "{alias} needs Vibes verification"
+  },
+  {
+    "i": 341,
+    "key": "Meta yêu cầu xác minh trước khi dùng Vibes",
+    "en": "Meta requires verification before using Vibes"
+  },
+  {
+    "i": 342,
+    "key": "{alias} chưa dùng được Vibes",
+    "en": "{alias} cannot use Vibes yet"
+  },
+  {
+    "i": 343,
+    "key": "{VIBES_AGE_NOTE} — Muse vẫn chạy bình thường",
+    "en": "{VIBES_AGE_NOTE} — Muse is still running normally"
+  },
+  {
+    "i": 344,
+    "key": "Meta chưa mở Vibes cho tài khoản này",
+    "en": "Meta has not enabled Vibes for this account"
+  },
+  {
+    "i": 345,
+    "key": "{alias}: đã đổi tài khoản Vibes",
+    "en": "{alias}: Vibes account changed"
+  },
+  {
+    "i": 346,
+    "key": "Chọn dùng tài khoản Vibes mới hoặc đăng nhập lại tài khoản cũ",
+    "en": "Choose the new Vibes account or sign in to the old account again"
+  },
+  {
+    "i": 347,
+    "key": "Vibes lỗi {recentCount} lần trong 15 phút",
+    "en": "Vibes failed {recentCount} {recentCount|time|times} in 15 minutes"
+  },
+  {
+    "i": 348,
+    "key": "{alias} đã tạm dừng",
+    "en": "{alias} is paused"
+  },
+  {
+    "i": 349,
+    "key": "Vibes lỗi {recentCount} lần trong 15 phút. Mở để kiểm tra rồi chạy lại.",
+    "en": "Vibes failed {recentCount} {recentCount|time|times} in 15 minutes. Open to check, then resume."
+  },
+  {
+    "i": 350,
+    "key": "{stateNote}. Mở để kiểm tra rồi chạy lại.",
+    "en": "{stateNote}. Open to check, then resume."
+  },
+  {
+    "i": 351,
+    "key": "Lỗi lặp lại",
+    "en": "Repeated failures"
+  },
+  {
+    "i": 352,
+    "key": "Lô “{name}” xong: {completed}/{total}",
+    "en": "Batch “{name}” done: {completed}/{total}"
+  },
+  {
+    "i": 353,
+    "key": "{failed} lỗi · {review} cần xem",
+    "en": "{failed} failed · {review} need review"
+  },
+  {
+    "i": 354,
+    "key": "Tất cả đã xong",
+    "en": "All done"
+  },
+  {
+    "i": 355,
+    "key": "Tài khoản đã bị xoá",
+    "en": "The account was deleted"
+  },
+  {
+    "i": 356,
+    "key": "Ổ đĩa sắp đầy",
+    "en": "Disk is almost full"
+  },
+  {
+    "i": 357,
+    "key": "Đã tạm dừng tải về cho tới khi có thêm chỗ trống",
+    "en": "Downloads are paused until more space is available"
+  },
+  {
+    "i": 358,
+    "key": "Không thấy trong lịch sử Muse",
+    "en": "Not found in Muse history"
+  },
+  {
+    "i": 359,
+    "key": "Không xác minh được Muse đã nhận lượt này",
+    "en": "Could not verify that Muse received this job"
+  },
+  {
+    "i": 360,
+    "key": "Muse trả về ảnh thay vì video",
+    "en": "Muse returned an image instead of a video"
+  },
+  {
+    "i": 361,
+    "key": "Muse không trả về tệp nào",
+    "en": "Muse returned no files"
+  },
+  {
+    "i": 362,
+    "key": "Tải về lỗi {failures} lần: {msg}",
+    "en": "Download failed {failures} {failures|time|times}: {msg}"
+  },
+  {
+    "i": 363,
+    "key": "Kéo dài Muse chưa được xác minh trên bản này",
+    "en": "Muse Extend has not been verified in this version"
+  },
+  {
+    "i": 364,
+    "key": "Bản này chưa xác minh được hội thoại Muse để kéo dài",
+    "en": "This version cannot yet verify the Muse conversation for extending"
+  },
+  {
+    "i": 365,
+    "key": "Chưa xác minh được danh tính Muse",
+    "en": "Muse identity has not been verified"
+  },
+  {
+    "i": 366,
+    "key": "Phiên Muse đã đổi tài khoản",
+    "en": "The Muse session switched accounts"
+  },
+  {
+    "i": 367,
+    "key": "Mất dấu lời nhắn Muse",
+    "en": "Lost track of the Muse message"
+  },
+  {
+    "i": 368,
+    "key": "Không xác định được video tích luỹ",
+    "en": "Could not identify the accumulated video"
+  },
+  {
+    "i": 369,
+    "key": "Bản này chưa chạy được Vibes",
+    "en": "This version cannot run Vibes yet"
+  },
+  {
+    "i": 370,
+    "key": "Vibes chưa sẵn sàng",
+    "en": "Vibes is not ready"
+  },
+  {
+    "i": 371,
+    "key": "Không có mã lượt Vibes",
+    "en": "No Vibes job ID"
+  },
+  {
+    "i": 372,
+    "key": "Không xác minh được Vibes đã nhận lượt này",
+    "en": "Could not verify that Vibes received this job"
+  },
+  {
+    "i": 373,
+    "key": "Vibes không trả về video nào",
+    "en": "Vibes returned no videos"
+  },
+  {
+    "i": 374,
+    "key": "Không còn video nguồn để kéo dài",
+    "en": "The source video is no longer available to extend"
+  },
+  {
+    "i": 375,
+    "key": "Video nguồn thuộc tài khoản khác",
+    "en": "The source video belongs to another account"
+  },
+  {
+    "i": 376,
+    "key": "Phiên Vibes của {alias} đã đổi tài khoản",
+    "en": "The Vibes session for {alias} switched accounts"
+  },
+  {
+    "i": 377,
+    "key": "tài khoản",
+    "en": "account"
+  },
+  {
+    "i": 378,
+    "key": "tài khoản Vibes",
+    "en": "Vibes account"
+  },
+  {
+    "i": 379,
+    "key": "Phiên Vibes đã đổi sang tài khoản khác",
+    "en": "The Vibes session switched to another account"
+  },
+  {
+    "i": 380,
+    "key": "Kéo dài video",
+    "en": "Extend video"
+  },
+  {
+    "i": 381,
+    "key": "{value} trả về đoạn nối thêm — chưa kéo dài tiếp được",
+    "en": "{value} returned an appended segment — cannot extend further yet"
+  },
+  {
+    "i": 382,
+    "key": "Vibes không kéo dài thêm",
+    "en": "Vibes did not extend further"
+  },
+  {
+    "i": 383,
+    "key": "Lần {k} lỗi: {errorMessage}",
+    "en": "Step {k} failed: {errorMessage}"
+  },
+  {
+    "i": 384,
+    "key": "lỗi không xác định",
+    "en": "unknown error"
+  },
+  {
+    "i": 385,
+    "key": "Lần {k} cần anh xem",
+    "en": "Step {k} needs review"
+  },
+  {
+    "i": 386,
+    "key": "Đã bỏ lần {k}",
+    "en": "Step {k} skipped"
+  },
+  {
+    "i": 387,
+    "key": "Lần {k} đã huỷ",
+    "en": "Step {k} cancelled"
+  },
+  {
+    "i": 388,
+    "key": "Đang chờ {reason}",
+    "en": "Waiting {reason}"
+  },
+  {
+    "i": 389,
+    "key": "Chuỗi kéo dài xong · {lastDurationMs}",
+    "en": "Extend chain done · {lastDurationMs}"
+  },
+  {
+    "i": 390,
+    "key": "Chuỗi kéo dài dừng: {reason}",
+    "en": "Extend chain stopped: {reason}"
+  },
+  {
+    "i": 391,
+    "key": "Bản dài nhất {lastDurationMs}",
+    "en": "Longest version {lastDurationMs}"
+  },
+  {
+    "i": 392,
+    "key": "Chuỗi kéo dài cần anh xem",
+    "en": "Extend chain needs review"
+  },
+  {
+    "i": 393,
+    "key": "Không còn tác phẩm này",
+    "en": "This item is no longer available"
+  },
+  {
+    "i": 394,
+    "key": "Chỉ kéo dài được video",
+    "en": "Only videos can be extended"
+  },
+  {
+    "i": 395,
+    "key": "Tài khoản tạo video này đã bị xoá",
+    "en": "The account that created this video was deleted"
+  },
+  {
+    "i": 396,
+    "key": "Video này chưa có nguồn hội thoại Muse",
+    "en": "This video has no source Muse conversation yet"
+  },
+  {
+    "i": 397,
+    "key": "Video này chưa có nguồn hội thoại Muse — video tạo trước bản này hoặc một lượt Muse trả nhiều video; tạo video mới để kéo dài",
+    "en": "This video has no source Muse conversation — it was made before this version, or Muse returned several videos in one reply; make a new video to extend it"
+  },
+  {
+    "i": 398,
+    "key": "Không thấy video nguồn trong hội thoại Muse của tài khoản này (phiên đã đổi tài khoản?)",
+    "en": "The source video is not in this account's Muse conversation (did the session switch accounts?)"
+  },
+  {
+    "i": 399,
+    "key": "Video nguồn không còn là video mới nhất của hội thoại Muse",
+    "en": "The source video is no longer the newest video in its Muse conversation"
+  },
+  {
+    "i": 400,
+    "key": "Mất nguồn hội thoại Muse của video này",
+    "en": "This video's source Muse conversation is gone"
+  },
+  {
+    "i": 401,
+    "key": "Video này tạo qua đường HTTP nhưng kênh trực tiếp đang tắt trong Cài đặt — bật lại để kéo dài",
+    "en": "This video was made over HTTP and the direct channel is off in Settings — turn it back on to extend it"
+  },
+  {
+    "i": 402,
+    "key": "Video nguồn không còn là đầu nhánh đã xác nhận",
+    "en": "The source video is no longer the confirmed branch tip"
+  },
+  {
+    "i": 403,
+    "key": "Hội thoại này đang có chuỗi kéo dài chưa giải quyết",
+    "en": "This conversation has an unresolved extend chain"
+  },
+  {
+    "i": 404,
+    "key": "Hội thoại đang bận",
+    "en": "The conversation is busy"
+  },
+  {
+    "i": 405,
+    "key": "Chuỗi đã dừng",
+    "en": "The chain has stopped"
+  },
+  {
+    "i": 406,
+    "key": "Anh đã dừng chuỗi",
+    "en": "You stopped the chain"
+  },
+  {
+    "i": 407,
+    "key": "Chuỗi đang chạy hoặc đã xong",
+    "en": "The chain is running or already done"
+  },
+  {
+    "i": 408,
+    "key": "Lần trước của chuỗi còn chưa xong — xử lý lần đó trước",
+    "en": "The previous step in the chain is unfinished — resolve it first"
+  },
+  {
+    "i": 409,
+    "key": "Chuỗi đã đủ số lần",
+    "en": "The chain has reached its step limit"
+  },
+  {
+    "i": 410,
+    "key": "Không còn video nguồn",
+    "en": "The source video is no longer available"
+  },
+  {
+    "i": 411,
+    "key": "Hội thoại chưa được đối soát hoặc đang bận",
+    "en": "The conversation has not been reconciled or is busy"
+  },
+  {
+    "i": 412,
+    "key": "Không còn chuỗi này",
+    "en": "This chain is no longer available"
+  },
+  {
+    "i": 413,
+    "key": "Muse báo hết hạn mức · đến {stateUntil}",
+    "en": "Muse reports no quota remaining · until {stateUntil}"
+  },
+  {
+    "i": 414,
+    "key": "Muse vừa đổi giao diện",
+    "en": "Muse just changed its UI"
+  },
+  {
+    "i": 415,
+    "key": "Tạm dừng các lượt {value} chờ bản cập nhật",
+    "en": "{value} jobs are paused pending an update"
+  },
+  {
+    "i": 416,
+    "key": "ảnh",
+    "en": "image"
+  },
+  {
+    "i": 417,
+    "key": "Vibes của tài khoản",
+    "en": "the account’s Vibes"
+  },
+  {
+    "i": 418,
+    "key": "Chờ {what} được xử lý rồi đối soát",
+    "en": "Wait for {what} to be resolved, then reconcile"
+  },
+  {
+    "i": 419,
+    "key": "Đang kiểm lại trên Vibes theo mã lượt",
+    "en": "Rechecking on Vibes by job ID"
+  },
+  {
+    "i": 420,
+    "key": "Muse báo hoạt động bất thường",
+    "en": "Muse reports unusual activity"
+  },
+  {
+    "i": 421,
+    "key": "{note}. Kiểm tài khoản trên Muse rồi cho chạy lại.",
+    "en": "{note}. Check the account on Muse, then resume."
+  },
+  {
+    "i": 422,
+    "key": "Tài khoản tạm dừng vì Muse báo bất thường — đối soát khi anh cho chạy lại",
+    "en": "Account paused because Muse reported unusual activity — reconciliation will run when you resume"
+  },
+  {
+    "i": 423,
+    "key": "Hết lượt Vibes đến {until}",
+    "en": "Vibes quota exhausted until {until}"
+  },
+  {
+    "i": 424,
+    "key": "Vibes vừa đổi giao diện",
+    "en": "Vibes just changed its UI"
+  },
+  {
+    "i": 425,
+    "key": "Tạm dừng các lượt Vibes chờ bản cập nhật — việc Muse vẫn chạy",
+    "en": "Vibes jobs are paused pending an update — Muse jobs are still running"
+  },
+  {
+    "i": 426,
+    "key": "Số lần lặp phải từ {REPEAT_MIN} đến {REPEAT_MAX}",
+    "en": "Repeat count must be between {REPEAT_MIN} and {REPEAT_MAX}"
+  },
+  {
+    "i": 427,
+    "key": "Chế độ “Từ ảnh” cần 1–{REF_MAX_PER_JOB} ảnh tham chiếu",
+    "en": "“From image” mode requires 1–{REF_MAX_PER_JOB} reference images"
+  },
+  {
+    "i": 428,
+    "key": "Chế độ “Từ chữ” không dùng ảnh tham chiếu",
+    "en": "“From text” mode does not use reference images"
+  },
+  {
+    "i": 429,
+    "key": "Ảnh tham chiếu không còn",
+    "en": "The reference image is no longer available"
+  },
+  {
+    "i": 430,
+    "key": "Tài khoản không còn",
+    "en": "The account is no longer available"
+  },
+  {
+    "i": 431,
+    "key": "Video tham chiếu chỉ dùng để sửa video trên Muse",
+    "en": "Reference videos can only be used to edit videos on Muse"
+  },
+  {
+    "i": 432,
+    "key": "Mỗi lượt chỉ sửa được 1 video MP4 (có thể kèm nhiều ảnh)",
+    "en": "Each job can edit only 1 MP4 video (multiple images may be included)"
+  },
+  {
+    "i": 433,
+    "key": "Vibes chỉ tạo video",
+    "en": "Vibes only generates videos"
+  },
+  {
+    "i": 434,
+    "key": "Vibes chưa được kiểm trên phiên bản này",
+    "en": "Vibes has not been tested in this version"
+  },
+  {
+    "i": 435,
+    "key": "Chưa hỗ trợ trên phiên bản Muse hiện tại",
+    "en": "Not supported in the current Muse version"
+  },
+  {
+    "i": 436,
+    "key": "Tệp đính kèm không còn",
+    "en": "The attachment is no longer available"
+  },
+  {
+    "i": 437,
+    "key": "Tổng tệp đính kèm vượt 50 MiB",
+    "en": "Total attachment size exceeds 50 MiB"
+  },
+  {
+    "i": 438,
+    "key": "Không tìm thấy hội thoại",
+    "en": "Conversation not found"
+  },
+  {
+    "i": 439,
+    "key": "Hội thoại này tạo bằng giao diện — bản này chưa hỏi tiếp được qua kênh trực tiếp",
+    "en": "This conversation was created through the UI — this version cannot ask follow-ups through the direct channel yet"
+  },
+  {
+    "i": 440,
+    "key": "Hội thoại thuộc tài khoản khác",
+    "en": "The conversation belongs to another account"
+  },
+  {
+    "i": 441,
+    "key": "Chưa tài khoản nào chạy được Hỏi đáp với các tệp này (kênh trực tiếp tắt hoặc loại tệp chưa hỗ trợ)",
+    "en": "No account can run Chat with these files (direct channel disabled or file type not supported)"
+  },
+  {
+    "i": 442,
+    "key": "Hội thoại đang có một lượt chưa xong",
+    "en": "This conversation has an unfinished job"
+  },
+  {
+    "i": 443,
+    "key": "Đã ngừng chờ trên máy — Vibes có thể vẫn tạo và tính lượt",
+    "en": "Stopped waiting locally — Vibes may still generate and count the job against your quota"
+  },
+  {
+    "i": 444,
+    "key": "Đã ngừng chờ trên máy — Muse có thể vẫn tạo và tính hạn mức",
+    "en": "Stopped waiting locally — Muse may still generate and use quota"
+  },
+  {
+    "i": 445,
+    "key": "Không huỷ được lượt ở trạng thái “{value}”",
+    "en": "Cannot cancel a job in the “{value}” state"
+  },
+  {
+    "i": 446,
+    "key": "Muse đã từ chối nội dung này — sửa prompt rồi gửi lại",
+    "en": "Muse rejected this content — edit the prompt and submit again"
+  },
+  {
+    "i": 447,
+    "key": "Không thử lại được lượt ở trạng thái “{value}”",
+    "en": "Cannot retry a job in the “{value}” state"
+  },
+  {
+    "i": 448,
+    "key": "Lượt không ở trạng thái chờ thử lại",
+    "en": "The job is not waiting for a retry"
+  },
+  {
+    "i": 449,
+    "key": "Chỉ ưu tiên được lượt đang chờ",
+    "en": "Only waiting jobs can be prioritized"
+  },
+  {
+    "i": 450,
+    "key": "Chỉ đổi tài khoản cho lượt đang chờ",
+    "en": "Accounts can only be changed for waiting jobs"
+  },
+  {
+    "i": 451,
+    "key": "Lần kéo dài chỉ chạy trên tài khoản sở hữu video nguồn",
+    "en": "Extend steps can only run on the account that owns the source video"
+  },
+  {
+    "i": 452,
+    "key": "Lượt không cần xem lại",
+    "en": "The job does not need review"
+  },
+  {
+    "i": 453,
+    "key": "Không có mã lượt Vibes để kiểm lại",
+    "en": "No Vibes job ID to recheck"
+  },
+  {
+    "i": 454,
+    "key": "Không có liên kết tới lượt bên Muse để nhập lại",
+    "en": "No link to the Muse job to reimport"
+  },
+  {
+    "i": 455,
+    "key": "Không còn lượt này",
+    "en": "This job is no longer available"
+  },
+  {
+    "i": 456,
+    "key": "Lô {date}",
+    "en": "Batch {date}"
+  },
+  {
+    "i": 457,
+    "key": "Không còn lô này",
+    "en": "This batch is no longer available"
+  },
+  {
+    "i": 458,
+    "key": "Chỉ sửa được lô nháp",
+    "en": "Only draft batches can be edited"
+  },
+  {
+    "i": 459,
+    "key": "Lô đã bắt đầu",
+    "en": "The batch has started"
+  }
+]

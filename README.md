@@ -14,7 +14,8 @@ with no cloud middleman and no per-seat fee.
 [**Download**](https://muse4ai.andrewbabo.com/download) ·
 [**Guide**](https://muse4ai.andrewbabo.com/docs) ·
 [**For agents**](https://muse4ai.andrewbabo.com/agents) ·
-[Tiếng Việt](docs/README-vi.md)
+[Tiếng Việt](docs/README-vi.md) ·
+[**简体中文**](README.zh-CN.md)
 
 ![Website muse4ai.andrewbabo.com](https://img.shields.io/badge/website-muse4ai.andrewbabo.com-1A50D7?style=flat-square)
 ![MIT licensed](https://img.shields.io/badge/license-MIT-2D664D?style=flat-square)
@@ -22,8 +23,30 @@ with no cloud middleman and no per-seat fee.
 ![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-5F5A52?style=flat-square)
 ![841 tests](https://img.shields.io/badge/tests-841-2D664D?style=flat-square)
 ![v2.0.0-beta.34](https://img.shields.io/badge/version-2.0.0--beta.34-B4762B?style=flat-square)
+![Simplified Chinese UI](https://img.shields.io/badge/UI-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-D93F3F?style=flat-square)
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> **简体中文汉化版（非官方） · Unofficial Simplified Chinese Edition**
+>
+> 本仓库是 [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) 的**简体中文界面汉化衍生版**，
+> 基于上游 `v2.0.0-beta.34`（commit `e007aac`）。上游只提供英语与越南语两种界面语言；
+> 本版把 1835 条界面文案中的 **1829 条译为简体中文（覆盖率 99.7%）**，其余 6 条是纯占位符/符号，中英形态一致。
+> **仅翻译界面文案，未改动任何功能、接口、协议或业务逻辑。**
+>
+> - 原作者 Andrew Babo，MIT 许可（`LICENSE` 原样保留）；本汉化版与原作者及 Meta 无关。
+> - 中文使用说明：[README.zh-CN.md](README.zh-CN.md)
+> - 汉化实现与还原英文的方法：[desktop/work/汉化说明.md](desktop/work/汉化说明.md)
+> - 效果截图：[创作台](docs/screens/muse4ai-zh-CN-studio.jpg) · [设置页](docs/screens/muse4ai-zh-CN-settings.jpg)
+>
+> **English:** This is an unofficial Simplified Chinese localization of upstream `v2.0.0-beta.34`.
+> 1829 of 1835 UI strings are translated (99.7%); the remaining 6 are pure placeholders/symbols.
+> **UI text only — no functional, API, protocol or business-logic changes.**
+> Upstream ships English and Vietnamese only. Original work © 2026 Andrew Babo, MIT;
+> not affiliated with the original author or Meta.
 
 ---
 

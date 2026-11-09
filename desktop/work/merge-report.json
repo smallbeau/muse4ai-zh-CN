@@ -1,0 +1,66 @@
+{
+  "totalKeys": 1835,
+  "accepted": 1829,
+  "fallbackToEnglish": 6,
+  "coverage": "99.7%",
+  "files": [
+    "batch-01.json: 230 rows, 230 accepted",
+    "batch-02.json: 230 rows, 230 accepted",
+    "batch-03.json: 230 rows, 230 accepted",
+    "batch-04.json: 230 rows, 230 accepted",
+    "batch-05.json: 230 rows, 230 accepted",
+    "batch-06.json: 230 rows, 230 accepted",
+    "batch-07.json: 230 rows, 230 accepted",
+    "batch-08.json: 225 rows, 225 accepted"
+  ],
+  "rejected": [
+    {
+      "i": 605,
+      "key": "{kind} {width}×{height}",
+      "zh": "{kind} {width}×{height}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    },
+    {
+      "i": 607,
+      "key": "\n  {kind} {width}×{height}: {download_url}",
+      "zh": "\n  {kind} {width}×{height}: {download_url}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    },
+    {
+      "i": 1011,
+      "key": "×{i}",
+      "zh": "×{i}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    },
+    {
+      "i": 1029,
+      "key": "×{repeat}",
+      "zh": "×{repeat}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    },
+    {
+      "i": 1120,
+      "key": "×{i}{value}",
+      "zh": "×{i}{value}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    },
+    {
+      "i": 1352,
+      "key": "{width}×{height}{value} · {bytes}",
+      "zh": "{width}×{height}{value} · {bytes}",
+      "why": [
+        "no CJK (likely untranslated)"
+      ]
+    }
+  ]
+}

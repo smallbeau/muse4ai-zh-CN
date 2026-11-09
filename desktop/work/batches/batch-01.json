@@ -1,0 +1,1152 @@
+[
+  {
+    "i": 0,
+    "key": "Chưa đăng nhập",
+    "en": "Not signed in"
+  },
+  {
+    "i": 1,
+    "key": "Đang đăng nhập",
+    "en": "Signing in"
+  },
+  {
+    "i": 2,
+    "key": "Sẵn sàng",
+    "en": "Ready"
+  },
+  {
+    "i": 3,
+    "key": "Đang làm",
+    "en": "Working"
+  },
+  {
+    "i": 4,
+    "key": "Anh đang điều khiển",
+    "en": "You are in control"
+  },
+  {
+    "i": 5,
+    "key": "Nghỉ",
+    "en": "Cooling down"
+  },
+  {
+    "i": 6,
+    "key": "Hết hạn mức",
+    "en": "Quota exhausted"
+  },
+  {
+    "i": 7,
+    "key": "Cần đăng nhập lại",
+    "en": "Sign-in required"
+  },
+  {
+    "i": 8,
+    "key": "Cần xác minh",
+    "en": "Verification required"
+  },
+  {
+    "i": 9,
+    "key": "Proxy lỗi",
+    "en": "Proxy error"
+  },
+  {
+    "i": 10,
+    "key": "Đã tạm dừng",
+    "en": "Paused"
+  },
+  {
+    "i": 11,
+    "key": "{base} đến {stateUntil}",
+    "en": "{base} until {stateUntil}"
+  },
+  {
+    "i": 12,
+    "key": "Lỗi {recentCount} lần trong 15 phút",
+    "en": "Failed {recentCount} {recentCount|time|times} in 15 minutes"
+  },
+  {
+    "i": 13,
+    "key": "Thiếu prompt",
+    "en": "Missing prompt"
+  },
+  {
+    "i": 14,
+    "key": "Chế độ “Từ ảnh” cần đường dẫn ảnh tham chiếu",
+    "en": "“From image” mode requires a reference image path"
+  },
+  {
+    "i": 15,
+    "key": "Không tìm thấy ảnh tham chiếu",
+    "en": "Reference image not found"
+  },
+  {
+    "i": 16,
+    "key": "Chế độ chưa hỗ trợ trên phiên bản Muse hiện tại",
+    "en": "Mode not supported by the current version of Muse"
+  },
+  {
+    "i": 17,
+    "key": "Tệp CSV cần cột “prompt” ở dòng tiêu đề",
+    "en": "The CSV file requires a “prompt” column in the header row"
+  },
+  {
+    "i": 18,
+    "key": "Cột kind chỉ nhận image hoặc video",
+    "en": "The kind column only accepts image or video"
+  },
+  {
+    "i": 19,
+    "key": "Cột mode chỉ nhận text hoặc reference",
+    "en": "The mode column only accepts text or reference"
+  },
+  {
+    "i": 20,
+    "key": "Tối đa {BATCH_MAX_JOBS} lượt/lô (đang là {totalJobs})",
+    "en": "Maximum {BATCH_MAX_JOBS} {BATCH_MAX_JOBS|job|jobs}/batch (currently {totalJobs})"
+  },
+  {
+    "i": 21,
+    "key": "prompt,kind,mode,reference,repeat\n\"Một tách cà phê trên bàn gỗ, ánh sáng buổi sáng\",image,text,,2\n\"Làm cho chiếc cốc màu xanh lá nhạt\",image,reference,C:\\Anh\\coc.jpg,1\n\"Hơi nước bốc lên chậm, máy quay đứng yên\",video,reference,C:\\Anh\\coc.jpg,1\n",
+    "en": "prompt,kind,mode,reference,repeat\n\"A cup of coffee on a wooden table, morning light\",image,text,,2\n\"Make the cup pale green\",image,reference,C:\\Photos\\cup.jpg,1\n\"Steam rising slowly, stationary camera\",video,reference,C:\\Photos\\cup.jpg,1\n"
+  },
+  {
+    "i": 22,
+    "key": "Ảnh từ chữ",
+    "en": "Text to image"
+  },
+  {
+    "i": 23,
+    "key": "Sửa ảnh",
+    "en": "Edit image"
+  },
+  {
+    "i": 24,
+    "key": "Video từ ảnh",
+    "en": "Image to video"
+  },
+  {
+    "i": 25,
+    "key": "Video từ chữ trên Vibes",
+    "en": "Text to video on Vibes"
+  },
+  {
+    "i": 26,
+    "key": "Video từ ảnh trên Vibes",
+    "en": "Image to video on Vibes"
+  },
+  {
+    "i": 27,
+    "key": "Nhập lời nhắn cho Muse",
+    "en": "Enter a message for Muse"
+  },
+  {
+    "i": 28,
+    "key": "Lời nhắn dài {len} ký tự — tối đa {CHAT_PROMPT_MAX}",
+    "en": "Message is {len} {len|character|characters} long — maximum {CHAT_PROMPT_MAX}"
+  },
+  {
+    "i": 29,
+    "key": "Tệp PDF bị cắt hoặc hỏng",
+    "en": "PDF file is truncated or corrupted"
+  },
+  {
+    "i": 30,
+    "key": "Tệp không phải PDF hợp lệ",
+    "en": "File is not a valid PDF"
+  },
+  {
+    "i": 31,
+    "key": "Tệp không phải văn bản (có byte nhị phân)",
+    "en": "File is not text (contains binary bytes)"
+  },
+  {
+    "i": 32,
+    "key": "Tệp văn bản phải là UTF-8",
+    "en": "Text file must be UTF-8"
+  },
+  {
+    "i": 33,
+    "key": "Tệp JSON không đọc được",
+    "en": "Cannot read JSON file"
+  },
+  {
+    "i": 34,
+    "key": "Không nhận tệp .{ext}",
+    "en": ".{ext} files are not supported"
+  },
+  {
+    "i": 35,
+    "key": "Chỉ HTTP",
+    "en": "HTTP only"
+  },
+  {
+    "i": 36,
+    "key": "Chỉ giao diện",
+    "en": "UI only"
+  },
+  {
+    "i": 37,
+    "key": "Ưu tiên HTTP nhẹ. Lỗi kỹ thuật 3 lần trong 10 phút thì chạy qua giao diện, 15 phút thử lại HTTP. Muse báo bất thường thì tạm dừng, không đổi đường.",
+    "en": "Prefer lightweight HTTP. After 3 technical failures in 10 minutes, switch to the UI and retry HTTP after 15 minutes. If Muse reports unusual activity, pause without switching paths."
+  },
+  {
+    "i": 38,
+    "key": "Nhẹ nhất. HTTP lỗi thì tài khoản ngừng nhận việc, việc tự động sang tài khoản khác.",
+    "en": "Lightest option. If HTTP fails, the account stops accepting jobs and jobs automatically move to another account."
+  },
+  {
+    "i": 39,
+    "key": "Điều khiển trang Muse như bản 1.0. Tốn RAM hơn, chạy ít việc cùng lúc.",
+    "en": "Control the Muse page as in version 1.0. Uses more RAM and runs fewer concurrent jobs."
+  },
+  {
+    "i": 40,
+    "key": "Giao diện",
+    "en": "UI"
+  },
+  {
+    "i": 41,
+    "key": "không kết nối được",
+    "en": "cannot connect"
+  },
+  {
+    "i": 42,
+    "key": "mất kết nối",
+    "en": "connection lost"
+  },
+  {
+    "i": 43,
+    "key": "Muse đổi cách trả dữ liệu",
+    "en": "Muse changed its response format"
+  },
+  {
+    "i": 44,
+    "key": "không tải được tệp",
+    "en": "cannot download file"
+  },
+  {
+    "i": 45,
+    "key": "không nhận được xác nhận gửi",
+    "en": "submission confirmation not received"
+  },
+  {
+    "i": 46,
+    "key": "kênh trực tiếp đã tắt",
+    "en": "direct channel is disabled"
+  },
+  {
+    "i": 47,
+    "key": "kênh trực tiếp không tương thích",
+    "en": "direct channel is incompatible"
+  },
+  {
+    "i": 48,
+    "key": "chọn chỉ giao diện",
+    "en": "UI only selected"
+  },
+  {
+    "i": 49,
+    "key": "Các việc trên cùng tài khoản dùng chung bộ nhớ Muse. Muốn tách dữ liệu giữa agent, dùng tài khoản riêng.",
+    "en": "Jobs on the same account share Muse memory. Use separate accounts to isolate data between agents."
+  },
+  {
+    "i": 50,
+    "key": "Chờ HTTP của {alias}",
+    "en": "Waiting for HTTP for {alias}"
+  },
+  {
+    "i": 51,
+    "key": "Kênh trực tiếp không tương thích",
+    "en": "Direct channel is incompatible"
+  },
+  {
+    "i": 52,
+    "key": "Đang dùng Giao diện",
+    "en": "Using UI"
+  },
+  {
+    "i": 53,
+    "key": "HTTP đã tắt",
+    "en": "HTTP is disabled"
+  },
+  {
+    "i": 54,
+    "key": " lúc {since}",
+    "en": " at {since}"
+  },
+  {
+    "i": 55,
+    "key": " · thử lại {next}",
+    "en": " · retry {next}"
+  },
+  {
+    "i": 56,
+    "key": "{value}HTTP lỗi{at}{retry}",
+    "en": "{value}HTTP failed{at}{retry}"
+  },
+  {
+    "i": 57,
+    "key": "Đang dùng Giao diện · ",
+    "en": "Using UI · "
+  },
+  {
+    "i": 58,
+    "key": "HTTP chập chờn ({value} lỗi)",
+    "en": "HTTP is unstable ({value} {value|error|errors})"
+  },
+  {
+    "i": 59,
+    "key": "HTTP chưa kiểm",
+    "en": "HTTP not checked"
+  },
+  {
+    "i": 60,
+    "key": "Đang dùng HTTP",
+    "en": "Using HTTP"
+  },
+  {
+    "i": 61,
+    "key": "Tự kiểm gần nhất {lastCheckAt} · {value}",
+    "en": "Last self-check {lastCheckAt} · {value}"
+  },
+  {
+    "i": 62,
+    "key": "có lỗi",
+    "en": "issues found"
+  },
+  {
+    "i": 63,
+    "key": "Chưa cần tự kiểm · HTTP đang chạy tốt",
+    "en": "No self-check needed yet · HTTP is working well"
+  },
+  {
+    "i": 64,
+    "key": "Chưa tự kiểm lần nào",
+    "en": "No self-checks yet"
+  },
+  {
+    "i": 65,
+    "key": "Máy chạy Muse của tài khoản chưa thức dậy",
+    "en": "The account's Muse runtime has not woken up"
+  },
+  {
+    "i": 66,
+    "key": "Muse chưa cấp máy chạy cho phiên này",
+    "en": "Muse has not allocated a runtime for this session"
+  },
+  {
+    "i": 67,
+    "key": "Địa chỉ máy chạy Muse không hợp lệ",
+    "en": "Invalid Muse runtime address"
+  },
+  {
+    "i": 68,
+    "key": "Không lấy được mã kết nối của Muse",
+    "en": "Cannot get Muse connection code"
+  },
+  {
+    "i": 69,
+    "key": "Hết thời gian mở kết nối",
+    "en": "Connection timed out"
+  },
+  {
+    "i": 70,
+    "key": "Không mở được kết nối tới Muse",
+    "en": "Cannot open a connection to Muse"
+  },
+  {
+    "i": 71,
+    "key": "Muse yêu cầu xác minh thêm cho kết nối",
+    "en": "Muse requires additional verification for the connection"
+  },
+  {
+    "i": 72,
+    "key": "Bắt tay mã hoá với Muse thất bại",
+    "en": "Encrypted handshake with Muse failed"
+  },
+  {
+    "i": 73,
+    "key": "Kết nối đã đóng",
+    "en": "Connection closed"
+  },
+  {
+    "i": 74,
+    "key": "Đã huỷ tải tệp lên",
+    "en": "File upload cancelled"
+  },
+  {
+    "i": 75,
+    "key": "Đường dẫn tải lên không hợp lệ",
+    "en": "Invalid upload path"
+  },
+  {
+    "i": 76,
+    "key": "Muse không nhận phần {i}/{pieces} của tệp{value}",
+    "en": "Muse did not accept part {i}/{pieces} of the file{value}"
+  },
+  {
+    "i": 77,
+    "key": "Tệp trên Muse sai kích thước ({stCount}/{total} byte)",
+    "en": "File size on Muse is incorrect ({stCount}/{total} {total|byte|bytes})"
+  },
+  {
+    "i": 78,
+    "key": "Muse không đổi tên tệp đã tải lên{value}",
+    "en": "Muse did not rename the uploaded file{value}"
+  },
+  {
+    "i": 79,
+    "key": "Đang gửi",
+    "en": "Sending"
+  },
+  {
+    "i": 80,
+    "key": "Muse đang tạo",
+    "en": "Muse is generating"
+  },
+  {
+    "i": 81,
+    "key": "Đang tải về",
+    "en": "Downloading"
+  },
+  {
+    "i": 82,
+    "key": "Chờ thử lại",
+    "en": "Waiting to retry"
+  },
+  {
+    "i": 83,
+    "key": "Không thể chuyển lượt từ \"{value}\" sang \"{value2}\"",
+    "en": "Cannot move job from \"{value}\" to \"{value2}\""
+  },
+  {
+    "i": 84,
+    "key": "Lỗi mạng hoặc trang chưa sẵn sàng trước khi gửi",
+    "en": "Network failure or page not ready before submission"
+  },
+  {
+    "i": 85,
+    "key": "Phiên đăng nhập đã hết",
+    "en": "Sign-in session expired"
+  },
+  {
+    "i": 86,
+    "key": "Muse cần xác minh tài khoản",
+    "en": "Muse requires account verification"
+  },
+  {
+    "i": 87,
+    "key": "Tài khoản đã hết hạn mức",
+    "en": "Account quota exhausted"
+  },
+  {
+    "i": 88,
+    "key": "Muse từ chối nội dung",
+    "en": "Muse rejected the content"
+  },
+  {
+    "i": 89,
+    "key": "Muse gặp lỗi kỹ thuật, chưa tạo được tệp",
+    "en": "Muse encountered a technical issue and could not generate the file"
+  },
+  {
+    "i": 90,
+    "key": "Proxy không kết nối được",
+    "en": "Proxy cannot connect"
+  },
+  {
+    "i": 91,
+    "key": "Không tải được tệp kết quả",
+    "en": "Cannot download output file"
+  },
+  {
+    "i": 92,
+    "key": "Muse chưa nhận lượt này — gửi lại nếu cần",
+    "en": "Muse has not received this job — resend if needed"
+  },
+  {
+    "i": 93,
+    "key": "Muse không trả nội dung",
+    "en": "Muse returned no content"
+  },
+  {
+    "i": 94,
+    "key": "Kênh trực tiếp không kết nối được",
+    "en": "Direct channel cannot connect"
+  },
+  {
+    "i": 95,
+    "key": "Kênh trực tiếp mất kết nối",
+    "en": "Direct channel connection lost"
+  },
+  {
+    "i": 96,
+    "key": "Muse đổi cách trả dữ liệu của kênh trực tiếp",
+    "en": "Muse changed the direct channel response format"
+  },
+  {
+    "i": 97,
+    "key": "Không tải được tệp qua kênh trực tiếp",
+    "en": "Cannot download file via direct channel"
+  },
+  {
+    "i": 98,
+    "key": "Lỗi không xác định",
+    "en": "Unknown error"
+  },
+  {
+    "i": 99,
+    "key": "Vibes đang tạo",
+    "en": "Vibes is generating"
+  },
+  {
+    "i": 100,
+    "key": "Đăng nhập lại",
+    "en": "Sign in again"
+  },
+  {
+    "i": 101,
+    "key": "Mở Điều khiển để xác minh",
+    "en": "Open Control to verify"
+  },
+  {
+    "i": 102,
+    "key": "Chờ hạn mức hoặc dùng tài khoản khác",
+    "en": "Wait for quota to reset or use another account"
+  },
+  {
+    "i": 103,
+    "key": "Sửa prompt rồi gửi lại",
+    "en": "Edit the prompt and resend"
+  },
+  {
+    "i": 104,
+    "key": "Kiểm tra hoặc đổi proxy",
+    "en": "Check or change proxy"
+  },
+  {
+    "i": 105,
+    "key": "Chờ bản cập nhật",
+    "en": "Wait for an update"
+  },
+  {
+    "i": 106,
+    "key": "Kiểm tài khoản trên Muse rồi cho chạy lại",
+    "en": "Check the account on Muse, then resume"
+  },
+  {
+    "i": 107,
+    "key": "Đến khoảng trên Muse tối đa 60 giây",
+    "en": "Target duration on Muse is limited to 60 seconds"
+  },
+  {
+    "i": 108,
+    "key": "Mục tiêu phải dài hơn video nguồn",
+    "en": "Target duration must exceed the source video length"
+  },
+  {
+    "i": 109,
+    "key": "cần đăng nhập lại Muse",
+    "en": "Muse sign-in required again"
+  },
+  {
+    "i": 110,
+    "key": "cần xác minh Muse",
+    "en": "Muse verification required"
+  },
+  {
+    "i": 111,
+    "key": "hết hạn mức Muse",
+    "en": "Muse quota exhausted"
+  },
+  {
+    "i": 112,
+    "key": "proxy đang lỗi",
+    "en": "proxy is failing"
+  },
+  {
+    "i": 113,
+    "key": "anh đang điều khiển",
+    "en": "you are in control"
+  },
+  {
+    "i": 114,
+    "key": "đang tạm nghỉ",
+    "en": "cooling down"
+  },
+  {
+    "i": 115,
+    "key": "Video này đang trong Thùng rác",
+    "en": "This video is in the Trash"
+  },
+  {
+    "i": 116,
+    "key": "Không tìm thấy video nguồn",
+    "en": "Source video not found"
+  },
+  {
+    "i": 117,
+    "key": "Kéo dài chưa được kiểm trên phiên bản này",
+    "en": "Extend has not been tested on this version"
+  },
+  {
+    "i": 118,
+    "key": "{reason} — chuỗi sẽ chờ",
+    "en": "{reason} — the chain will wait"
+  },
+  {
+    "i": 119,
+    "key": "Muse không kéo dài thêm",
+    "en": "Muse will not extend further"
+  },
+  {
+    "i": 120,
+    "key": "Hội thoại Muse không khớp",
+    "en": "Muse conversation does not match"
+  },
+  {
+    "i": 121,
+    "key": "Muse chưa cung cấp dấu hội thoại bền vững",
+    "en": "Muse has not provided a persistent conversation identifier"
+  },
+  {
+    "i": 122,
+    "key": "Không còn thấy video nguồn trong hội thoại Muse",
+    "en": "Source video is no longer visible in the Muse conversation"
+  },
+  {
+    "i": 123,
+    "key": "Muse chưa cung cấp nhóm trả lời",
+    "en": "Muse has not provided a response group"
+  },
+  {
+    "i": 124,
+    "key": "Hội thoại Muse đã thay đổi",
+    "en": "Muse conversation has changed"
+  },
+  {
+    "i": 125,
+    "key": "Không còn thấy lời nhắn kéo dài trên Muse",
+    "en": "Extend message is no longer visible on Muse"
+  },
+  {
+    "i": 126,
+    "key": "Hội thoại có lời nhắn khác — cần anh xem",
+    "en": "Conversation contains another message — needs review"
+  },
+  {
+    "i": 127,
+    "key": "Hội thoại có câu trả lời ngoài lượt này — cần anh xem",
+    "en": "Conversation contains an answer outside this job — needs review"
+  },
+  {
+    "i": 128,
+    "key": "Hội thoại có nội dung lạ sau lời nhắn — cần anh xem",
+    "en": "Conversation contains unexpected content after the message — needs review"
+  },
+  {
+    "i": 129,
+    "key": "Câu trả lời cũ nằm sau lời nhắn mới — cần anh xem",
+    "en": "An old answer appears after the new message — needs review"
+  },
+  {
+    "i": 130,
+    "key": "Muse trả lời thành nhiều nhóm — cần anh xem",
+    "en": "Muse responded in multiple groups — needs review"
+  },
+  {
+    "i": 131,
+    "key": "Muse trả nhiều video — chưa xác định bản tích luỹ",
+    "en": "Muse returned multiple videos — cumulative version not yet identified"
+  },
+  {
+    "i": 132,
+    "key": "Lẻ",
+    "en": "Single"
+  },
+  {
+    "i": 133,
+    "key": "Dòng {line}, mục {item}",
+    "en": "Line {line}, item {item}"
+  },
+  {
+    "i": 134,
+    "key": "Dòng {line}",
+    "en": "Line {line}"
+  },
+  {
+    "i": 135,
+    "key": "Giao thức “{sc}” không hỗ trợ (dùng http, https hoặc socks5)",
+    "en": "Protocol “{sc}” is not supported (use http, https or socks5)"
+  },
+  {
+    "i": 136,
+    "key": "Thiếu mật khẩu hoặc tên đăng nhập proxy",
+    "en": "Missing proxy password or username"
+  },
+  {
+    "i": 137,
+    "key": "Sai định dạng máy chủ:cổng",
+    "en": "Invalid host:port format"
+  },
+  {
+    "i": 138,
+    "key": "Sai định dạng (cần máy chủ:cổng hoặc máy chủ:cổng:tên:mật khẩu)",
+    "en": "Invalid format (expected host:port or host:port:username:password)"
+  },
+  {
+    "i": 139,
+    "key": "Tên máy chủ proxy không hợp lệ",
+    "en": "Invalid proxy hostname"
+  },
+  {
+    "i": 140,
+    "key": "Cổng proxy phải là số",
+    "en": "Proxy port must be a number"
+  },
+  {
+    "i": 141,
+    "key": "Cổng proxy phải từ 1 đến 65535",
+    "en": "Proxy port must be between 1 and 65535"
+  },
+  {
+    "i": 142,
+    "key": "{display} đã có trong danh sách",
+    "en": "{display} is already in the list"
+  },
+  {
+    "i": 143,
+    "key": " · đặt lại {value}/{value2}",
+    "en": " · resets {value}/{value2}"
+  },
+  {
+    "i": 144,
+    "key": " · đọc lại sau 60 phút",
+    "en": " · check again in 60 minutes"
+  },
+  {
+    "i": 145,
+    "key": " · đặt lại {resetsOn}",
+    "en": " · resets {resetsOn}"
+  },
+  {
+    "i": 146,
+    "key": "Hết hạn mức tuần (Muse báo {weeklyUsed} %){label}",
+    "en": "Weekly quota exhausted (Muse reports {weeklyUsed} %){label}"
+  },
+  {
+    "i": 147,
+    "key": "{value} token còn lại",
+    "en": "{value} {value|token|tokens} remaining"
+  },
+  {
+    "i": 148,
+    "key": "không hết hạn",
+    "en": "does not expire"
+  },
+  {
+    "i": 149,
+    "key": "Sắp hết hạn mức tuần",
+    "en": "Weekly quota nearly exhausted"
+  },
+  {
+    "i": 150,
+    "key": "Đang dùng token bổ sung",
+    "en": "Using additional tokens"
+  },
+  {
+    "i": 151,
+    "key": "Hết hạn mức tuần · chưa rõ token bổ sung",
+    "en": "Weekly quota exhausted · additional tokens unknown"
+  },
+  {
+    "i": 152,
+    "key": "đã dùng {weeklyUsed} %{value}",
+    "en": "{weeklyUsed} % used{value}"
+  },
+  {
+    "i": 153,
+    "key": " · đặt lại {reset}",
+    "en": " · resets {reset}"
+  },
+  {
+    "i": 154,
+    "key": "Không có",
+    "en": "None"
+  },
+  {
+    "i": 155,
+    "key": "Đã dùng hết",
+    "en": "Exhausted"
+  },
+  {
+    "i": 156,
+    "key": "Chưa đọc được",
+    "en": "Not yet retrieved"
+  },
+  {
+    "i": 157,
+    "key": "đã dùng {usedPercent} %",
+    "en": "{usedPercent} % used"
+  },
+  {
+    "i": 158,
+    "key": "Còn token bổ sung",
+    "en": "Additional tokens remaining"
+  },
+  {
+    "i": 159,
+    "key": "Không đọc được lúc {checkedAt}{value}",
+    "en": "Could not retrieve at {checkedAt}{value}"
+  },
+  {
+    "i": 160,
+    "key": " — đang hiện số đọc lúc {readAt}",
+    "en": " — showing data retrieved at {readAt}"
+  },
+  {
+    "i": 161,
+    "key": "Đọc lúc {readAt}",
+    "en": "Retrieved at {readAt}"
+  },
+  {
+    "i": 162,
+    "key": "‹bí mật›",
+    "en": "‹secret›"
+  },
+  {
+    "i": 163,
+    "key": "$1‹bí mật›@",
+    "en": "$1‹secret›@"
+  },
+  {
+    "i": 164,
+    "key": "$1$2‹bí mật›",
+    "en": "$1$2‹secret›"
+  },
+  {
+    "i": 165,
+    "key": "Prompt quá {PROMPT_MAX} ký tự (đang là {vCount})",
+    "en": "Prompt exceeds {PROMPT_MAX} {PROMPT_MAX|character|characters} (currently {vCount})"
+  },
+  {
+    "i": 166,
+    "key": "Chỉ nhận ảnh PNG, JPEG hoặc WEBP",
+    "en": "Only PNG, JPEG or WEBP images are supported"
+  },
+  {
+    "i": 167,
+    "key": "Ảnh vượt {REF_MAX_BYTES} MB",
+    "en": "Image exceeds {REF_MAX_BYTES} MB"
+  },
+  {
+    "i": 168,
+    "key": "Tệp ảnh trống",
+    "en": "Image file is empty"
+  },
+  {
+    "i": 169,
+    "key": "Không đọc được kích thước ảnh",
+    "en": "Cannot read image dimensions"
+  },
+  {
+    "i": 170,
+    "key": "Cạnh ảnh vượt {REF_MAX_EDGE} px",
+    "en": "Image edge exceeds {REF_MAX_EDGE} px"
+  },
+  {
+    "i": 171,
+    "key": "Chỉ nhận video MP4",
+    "en": "Only MP4 videos are supported"
+  },
+  {
+    "i": 172,
+    "key": "Video phải có dữ liệu và không vượt 20 MB",
+    "en": "Video must contain data and not exceed 20 MB"
+  },
+  {
+    "i": 173,
+    "key": "Không đọc được kích thước hoặc độ dài video",
+    "en": "Cannot read video dimensions or duration"
+  },
+  {
+    "i": 174,
+    "key": "Nhập tên gọi",
+    "en": "Enter a display name"
+  },
+  {
+    "i": 175,
+    "key": "Tên gọi tối đa {ALIAS_MAX} ký tự",
+    "en": "Display name must not exceed {ALIAS_MAX} {ALIAS_MAX|character|characters}"
+  },
+  {
+    "i": 176,
+    "key": "Đã có tài khoản tên “{v}”",
+    "en": "An account named “{v}” already exists"
+  },
+  {
+    "i": 177,
+    "key": "Đã đổi tài khoản Vibes",
+    "en": "Vibes account switched"
+  },
+  {
+    "i": 178,
+    "key": "Hết lượt Vibes",
+    "en": "Vibes quota exhausted"
+  },
+  {
+    "i": 179,
+    "key": "{base} đến {statusUntil}",
+    "en": "{base} until {statusUntil}"
+  },
+  {
+    "i": 180,
+    "key": "Vibes cần đăng nhập lại",
+    "en": "Vibes sign-in required again"
+  },
+  {
+    "i": 181,
+    "key": "Vibes cần xác minh",
+    "en": "Vibes verification required"
+  },
+  {
+    "i": 182,
+    "key": "Vibes đã đổi tài khoản",
+    "en": "Vibes account has changed"
+  },
+  {
+    "i": 183,
+    "key": "Vibes chặn tài khoản Meta dưới 18 tuổi",
+    "en": "Vibes blocks Meta accounts under age 18"
+  },
+  {
+    "i": 184,
+    "key": "Tài khoản này chưa dùng được Vibes",
+    "en": "This account cannot use Vibes yet"
+  },
+  {
+    "i": 185,
+    "key": "Vibes chưa đăng nhập",
+    "en": "Not signed in to Vibes"
+  },
+  {
+    "i": 186,
+    "key": "Vibes yêu cầu đăng nhập lại",
+    "en": "Vibes requires you to sign in again"
+  },
+  {
+    "i": 187,
+    "key": "Meta yêu cầu xác minh tài khoản",
+    "en": "Meta requires account verification"
+  },
+  {
+    "i": 188,
+    "key": "Vibes chưa trả lời được (HTTP {status})",
+    "en": "Vibes could not respond (HTTP {status})"
+  },
+  {
+    "i": 189,
+    "key": "{a} đang tạm dừng",
+    "en": "{a} is paused"
+  },
+  {
+    "i": 190,
+    "key": "proxy của {a} được sửa",
+    "en": "proxy for {a} is fixed"
+  },
+  {
+    "i": 191,
+    "key": "anh trả lại điều khiển {a}",
+    "en": "you return control of {a}"
+  },
+  {
+    "i": 192,
+    "key": "bật Vibes cho {a}",
+    "en": "enable Vibes for {a}"
+  },
+  {
+    "i": 193,
+    "key": "{a} đăng nhập lại Vibes",
+    "en": "{a} signs in to Vibes again"
+  },
+  {
+    "i": 194,
+    "key": "{a} xác minh tài khoản Vibes",
+    "en": "{a} verifies the Vibes account"
+  },
+  {
+    "i": 195,
+    "key": "{a} dùng được Vibes",
+    "en": "{a} can use Vibes"
+  },
+  {
+    "i": 196,
+    "key": "anh chọn tài khoản Vibes cho {a}",
+    "en": "you select a Vibes account for {a}"
+  },
+  {
+    "i": 197,
+    "key": "{a} hết giới hạn Vibes{value}",
+    "en": "{a} has exhausted the Vibes quota{value}"
+  },
+  {
+    "i": 198,
+    "key": " đến {statusUntil}",
+    "en": " until {statusUntil}"
+  },
+  {
+    "i": 199,
+    "key": "{a} nghỉ Vibes{value}",
+    "en": "{a} is cooling down on Vibes{value}"
+  },
+  {
+    "i": 200,
+    "key": "{a} đang tạm dừng — chuỗi sẽ chờ",
+    "en": "{a} is paused — the chain will wait"
+  },
+  {
+    "i": 201,
+    "key": "Proxy của {a} đang lỗi — chuỗi sẽ chờ",
+    "en": "proxy for {a} is failing — the chain will wait"
+  },
+  {
+    "i": 202,
+    "key": "{a} cần đăng nhập lại Vibes — chuỗi sẽ chờ",
+    "en": "{a} needs to sign in to Vibes again — the chain will wait"
+  },
+  {
+    "i": 203,
+    "key": "{a} cần xác minh Vibes — chuỗi sẽ chờ",
+    "en": "{a} needs Vibes verification — the chain will wait"
+  },
+  {
+    "i": 204,
+    "key": "{a} hết lượt Vibes{value} — chuỗi sẽ chờ",
+    "en": "{a} has exhausted the Vibes quota{value} — the chain will wait"
+  },
+  {
+    "i": 205,
+    "key": "{a} đang nghỉ Vibes — chuỗi sẽ chờ",
+    "en": "{a} is cooling down on Vibes — the chain will wait"
+  },
+  {
+    "i": 206,
+    "key": "Vibes đang tắt cho {a} — chuỗi sẽ chờ",
+    "en": "Vibes is disabled for {a} — the chain will wait"
+  },
+  {
+    "i": 207,
+    "key": "Video tạo trên Muse chưa kéo dài được — tạo video trên Vibes để dùng Kéo dài",
+    "en": "Videos generated on Muse cannot be extended yet — generate a video on Vibes to use Extend"
+  },
+  {
+    "i": 208,
+    "key": "Nhập mô tả cho Theo mô tả",
+    "en": "Enter a description for By description"
+  },
+  {
+    "i": 209,
+    "key": "Mô tả tối đa {EXTEND_DIRECTIVE_MAX} ký tự",
+    "en": "Description must not exceed {EXTEND_DIRECTIVE_MAX} {EXTEND_DIRECTIVE_MAX|character|characters}"
+  },
+  {
+    "i": 210,
+    "key": "Số lần phải từ 1",
+    "en": "Number of steps must be at least 1"
+  },
+  {
+    "i": 211,
+    "key": "Tối đa {maxSteps} lần mỗi chuỗi (chỉnh trong Cài đặt)",
+    "en": "Maximum {maxSteps} {maxSteps|step|steps} per chain (adjust in Settings)"
+  },
+  {
+    "i": 212,
+    "key": "Đến khoảng phải từ {EXTEND_TARGET_MIN_S} đến {EXTEND_TARGET_MAX_S} giây, bước {EXTEND_TARGET_STEP_S}",
+    "en": "Target duration must be between {EXTEND_TARGET_MIN_S} and {EXTEND_TARGET_MAX_S} {EXTEND_TARGET_MAX_S|second|seconds}, in increments of {EXTEND_TARGET_STEP_S}"
+  },
+  {
+    "i": 213,
+    "key": "Đã kéo dài {value} lần",
+    "en": "Extended by {value} {value|step|steps}"
+  },
+  {
+    "i": 214,
+    "key": "Đã đạt khoảng {value} giây",
+    "en": "Reached approximately {value} {value|second|seconds}"
+  },
+  {
+    "i": 215,
+    "key": "Đã đủ {maxSteps} lần",
+    "en": "Completed {maxSteps} {maxSteps|step|steps}"
+  },
+  {
+    "i": 216,
+    "key": "Chuỗi kéo dài · lần {stepsDone}/{total}{len}",
+    "en": "Extend chain · step {stepsDone}/{total}{len}"
+  },
+  {
+    "i": 217,
+    "key": "Muse4AI — {id} · việc",
+    "en": "Muse4AI — {id} · work"
+  },
+  {
+    "i": 218,
+    "key": "Vibes đang tắt cho tài khoản này",
+    "en": "Vibes is disabled for this account"
+  },
+  {
+    "i": 219,
+    "key": "Đăng nhập {value} — {accountId}",
+    "en": "Sign in to {value} — {accountId}"
+  },
+  {
+    "i": 220,
+    "key": "Anh đang điều khiển {value} — {accountId}",
+    "en": "You are controlling {value} — {accountId}"
+  },
+  {
+    "i": 221,
+    "key": "Muse4AI — {accountId} · kênh trực tiếp",
+    "en": "Muse4AI — {accountId} · direct channel"
+  },
+  {
+    "i": 222,
+    "key": "Không mở được trang kênh trực tiếp: {message}",
+    "en": "Could not open the direct channel page: {message}"
+  },
+  {
+    "i": 223,
+    "key": "Tài khoản chưa có proxy",
+    "en": "No proxy configured for this account"
+  },
+  {
+    "i": 224,
+    "key": "Quá 15 giây không phản hồi",
+    "en": "No response within 15 seconds"
+  },
+  {
+    "i": 225,
+    "key": "Proxy từ chối tên/mật khẩu",
+    "en": "The proxy rejected the username/password"
+  },
+  {
+    "i": 226,
+    "key": "Không kết nối được proxy",
+    "en": "Could not connect to proxy"
+  },
+  {
+    "i": 227,
+    "key": "Không đọc được IP ra",
+    "en": "Could not read the exit IP"
+  },
+  {
+    "i": 228,
+    "key": "Không kết nối được qua proxy",
+    "en": "Could not connect through proxy"
+  },
+  {
+    "i": 229,
+    "key": "Video nguồn không còn là đầu nhánh trong hội thoại Muse",
+    "en": "The source video is no longer the branch tip in the Muse conversation"
+  }
+]

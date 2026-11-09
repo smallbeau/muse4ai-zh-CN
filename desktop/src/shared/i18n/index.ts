@@ -11,7 +11,7 @@ import { CATALOG } from "./catalog";
 export type Locale = "vi" | "en";
 export const LOCALES: readonly { id: Locale; label: string }[] = [
   { id: "vi", label: "Tiếng Việt" },
-  { id: "en", label: "English" },
+  { id: "en", label: "中文" },
 ];
 export const DEFAULT_LOCALE: Locale = "en";
 /** Catalog keys `"<Vietnamese>@@<context>"` give one Vietnamese word a second English form (e.g. “Tài khoản” is
